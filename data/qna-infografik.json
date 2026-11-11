@@ -1,0 +1,2404 @@
+{
+ "infografik": [
+  {
+   "id": "IG001",
+   "kategori": "Maklumat peribadi",
+   "ikon": "kad nama",
+   "tajuk": "Apa itu maklumat peribadi?",
+   "fakta": "Maklumat peribadi ialah apa-apa yang boleh mengenal pasti atau mencari kamu.",
+   "nasihat": "Rahsiakan nama penuh, alamat, sekolah dan nombor telefon.",
+   "dialog_baba": [
+    "Hmm, Baba ada satu rahsia penting!",
+    "Nama penuh, alamat dan sekolah kamu ialah harta karun. Simpan baik-baik ya!"
+   ]
+  },
+  {
+   "id": "IG002",
+   "kategori": "Maklumat peribadi",
+   "ikon": "rumah",
+   "tajuk": "Alamat rumah",
+   "fakta": "Alamat rumah memberitahu orang lain di mana kamu tinggal.",
+   "nasihat": "Jangan sesekali kongsi alamat rumah dengan kawan dalam talian.",
+   "dialog_baba": [
+    "Meerkat tak pernah tunjuk lubang sarangnya kepada orang asing!",
+    "Kamu pun jangan beritahu alamat rumah ya."
+   ]
+  },
+  {
+   "id": "IG003",
+   "kategori": "Maklumat peribadi",
+   "ikon": "sekolah",
+   "tajuk": "Nama sekolah",
+   "fakta": "Nama sekolah boleh digunakan untuk mencari kamu di dunia sebenar.",
+   "nasihat": "Jangan sebut nama sekolah dalam chat atau profil.",
+   "dialog_baba": [
+    "Psst! Orang asing tak perlu tahu sekolah kamu.",
+    "Kalau ada yang tanya, cakap sahaja, \"Maaf, itu rahsia.\""
+   ]
+  },
+  {
+   "id": "IG004",
+   "kategori": "Maklumat peribadi",
+   "ikon": "telefon",
+   "tajuk": "Nombor telefon",
+   "fakta": "Dengan nombor telefon, orang boleh menghubungi kamu di luar aplikasi.",
+   "nasihat": "Kongsi nombor telefon dengan keluarga dan kawan yang dikenali sahaja.",
+   "dialog_baba": [
+    "Nombor telefon ibarat kunci pintu rumah kamu.",
+    "Jangan beri kunci kepada orang yang kamu tak kenal!"
+   ]
+  },
+  {
+   "id": "IG005",
+   "kategori": "Maklumat peribadi",
+   "ikon": "kek",
+   "tajuk": "Tarikh lahir",
+   "fakta": "Tarikh lahir boleh digunakan untuk meneka kata laluan atau menyamar sebagai kamu.",
+   "nasihat": "Jangan letak tarikh lahir penuh dalam profil.",
+   "dialog_baba": [
+    "Baba suka hari jadi... tapi tarikhnya rahsia!",
+    "Simpan untuk keluarga dan kawan rapat sahaja."
+   ]
+  },
+  {
+   "id": "IG006",
+   "kategori": "Maklumat peribadi",
+   "ikon": "topeng",
+   "tajuk": "Nama samaran",
+   "fakta": "Nama samaran melindungi nama sebenar kamu di internet.",
+   "nasihat": "Gunakan nama samaran yang tidak menunjukkan nama, umur atau sekolah.",
+   "dialog_baba": [
+    "Nama samaran Baba? Hmm... Si Meerkat Berani!",
+    "Pilih nama yang seronok tapi tidak mendedahkan diri kamu."
+   ]
+  },
+  {
+   "id": "IG007",
+   "kategori": "Maklumat peribadi",
+   "ikon": "baju",
+   "tajuk": "Pakaian sekolah dalam gambar",
+   "fakta": "Lencana dan nama pada pakaian sekolah boleh menunjukkan sekolah kamu.",
+   "nasihat": "Elakkan memuat naik gambar berpakaian sekolah.",
+   "dialog_baba": [
+    "Wah, baju sekolah kamu kemas!",
+    "Tapi lencana itu boleh beritahu orang asing di mana kamu belajar."
+   ]
+  },
+  {
+   "id": "IG008",
+   "kategori": "Maklumat peribadi",
+   "ikon": "kamera",
+   "tajuk": "Latar belakang gambar",
+   "fakta": "Papan tanda, nombor rumah atau kereta dalam gambar boleh mendedahkan lokasi.",
+   "nasihat": "Semak latar belakang sebelum berkongsi gambar.",
+   "dialog_baba": [
+    "Baba suka main \"cari benda tersembunyi\" dalam gambar.",
+    "Orang jahat pun main permainan yang sama. Semak dulu sebelum kongsi!"
+   ]
+  },
+  {
+   "id": "IG009",
+   "kategori": "Maklumat peribadi",
+   "ikon": "jam",
+   "tajuk": "Jadual harian",
+   "fakta": "Berkongsi bila kamu ke sekolah atau seorang diri boleh membahayakan kamu.",
+   "nasihat": "Jangan kongsi rutin harian dengan orang tidak dikenali.",
+   "dialog_baba": [
+    "Bila kamu bangun, pergi tuisyen, balik rumah...",
+    "Itu semua rahsia keluarga. Jangan cerita kepada orang asing!"
+   ]
+  },
+  {
+   "id": "IG010",
+   "kategori": "Maklumat peribadi",
+   "ikon": "keluarga",
+   "tajuk": "Maklumat keluarga",
+   "fakta": "Nama dan kerja ibu bapa juga ialah maklumat peribadi.",
+   "nasihat": "Jangan kongsi maklumat keluarga dengan orang yang tidak dikenali.",
+   "dialog_baba": [
+    "Keluarga meerkat saling menjaga.",
+    "Kita jaga keluarga dengan tidak berkongsi maklumat mereka online."
+   ]
+  },
+  {
+   "id": "IG011",
+   "kategori": "Maklumat peribadi",
+   "ikon": "kad",
+   "tajuk": "Kad pelajar dan dokumen",
+   "fakta": "Kad dan dokumen mengandungi banyak maklumat peribadi.",
+   "nasihat": "Jangan ambil gambar kad atau dokumen untuk dikongsi.",
+   "dialog_baba": [
+    "Kad pelajar kamu ada nama, gambar dan sekolah.",
+    "Itu terlalu banyak maklumat untuk orang asing!"
+   ]
+  },
+  {
+   "id": "IG012",
+   "kategori": "Maklumat peribadi",
+   "ikon": "e-mel",
+   "tajuk": "Alamat e-mel",
+   "fakta": "Alamat e-mel boleh digunakan untuk menghantar penipuan atau mencuba log masuk.",
+   "nasihat": "Gunakan e-mel keluarga dan jangan kongsi dengan orang asing.",
+   "dialog_baba": [
+    "Peti surat digital kamu perlu dijaga.",
+    "Kalau ada mesej pelik, tunjuk kepada ibu bapa ya."
+   ]
+  },
+  {
+   "id": "IG013",
+   "kategori": "Maklumat peribadi",
+   "ikon": "kaca pembesar",
+   "tajuk": "Maklumat yang dicantumkan",
+   "fakta": "Maklumat kecil yang dikumpulkan boleh membentuk gambaran lengkap tentang kamu.",
+   "nasihat": "Fikir dua kali walaupun maklumat itu nampak kecil.",
+   "dialog_baba": [
+    "Satu kepingan puzzle tak nampak apa-apa...",
+    "Tapi bila banyak dikumpul, orang boleh tahu siapa kamu!"
+   ]
+  },
+  {
+   "id": "IG014",
+   "kategori": "Maklumat peribadi",
+   "ikon": "cermin",
+   "tajuk": "Soalan kuiz pelik",
+   "fakta": "Kuiz online seperti \"nama haiwan pertama kamu\" boleh mendedahkan jawapan keselamatan akaun.",
+   "nasihat": "Elakkan menjawab kuiz yang meminta maklumat peribadi.",
+   "dialog_baba": [
+    "Kuiz seronok, tapi ada yang licik!",
+    "Kalau soalan terlalu peribadi, tutup sahaja."
+   ]
+  },
+  {
+   "id": "IG015",
+   "kategori": "Maklumat peribadi",
+   "ikon": "perisai",
+   "tajuk": "Profil yang selamat",
+   "fakta": "Profil yang selamat menggunakan avatar, nama samaran dan tetapan private.",
+   "nasihat": "Minta ibu bapa membantu menyemak profil kamu.",
+   "dialog_baba": [
+    "Profil Baba? Avatar meerkat, nama samaran, akaun private!",
+    "Jom buat profil kamu sehebat perisai!"
+   ]
+  },
+  {
+   "id": "IG016",
+   "kategori": "Maklumat peribadi",
+   "ikon": "jejak",
+   "tajuk": "Jejak digital",
+   "fakta": "Apa yang dikongsi di internet boleh kekal lama, walaupun dipadam.",
+   "nasihat": "Fikir sebelum kongsi: adakah aku selesa jika semua orang melihatnya?",
+   "dialog_baba": [
+    "Jejak kaki di pasir hilang dibawa angin...",
+    "Tapi jejak digital boleh kekal lama. Melangkah dengan berhati-hati!"
+   ]
+  },
+  {
+   "id": "IG017",
+   "kategori": "Kata laluan",
+   "ikon": "kunci",
+   "tajuk": "Kata laluan yang kuat",
+   "fakta": "Kata laluan kuat menggabungkan huruf besar, huruf kecil, nombor dan simbol.",
+   "nasihat": "Gunakan sekurang-kurangnya 8 aksara.",
+   "dialog_baba": [
+    "Contoh kata laluan kuat: Meerkat!Lompat27.",
+    "Tapi jangan guna contoh ini ya, cipta sendiri!"
+   ]
+  },
+  {
+   "id": "IG018",
+   "kategori": "Kata laluan",
+   "ikon": "kunci rosak",
+   "tajuk": "Kata laluan lemah",
+   "fakta": "Kata laluan seperti 123456 atau \"password\" mudah diteka.",
+   "nasihat": "Jangan guna nama, tarikh lahir atau nombor berturutan.",
+   "dialog_baba": [
+    "1-2-3-4-5-6? Alamak, itu kunci yang paling mudah dibuka!",
+    "Jom buat yang lebih sukar diteka."
+   ]
+  },
+  {
+   "id": "IG019",
+   "kategori": "Kata laluan",
+   "ikon": "rahsia",
+   "tajuk": "Kata laluan ialah rahsia",
+   "fakta": "Kata laluan hanya untuk kamu dan ibu bapa atau penjaga.",
+   "nasihat": "Jangan kongsi kata laluan, walaupun dengan kawan baik.",
+   "dialog_baba": [
+    "Kawan baik Baba pun tak tahu kata laluan Baba!",
+    "Itu bukan tak percaya, itu bijak."
+   ]
+  },
+  {
+   "id": "IG020",
+   "kategori": "Kata laluan",
+   "ikon": "kunci banyak",
+   "tajuk": "Kata laluan berbeza",
+   "fakta": "Jika satu kata laluan dicuri, akaun lain yang guna kata laluan sama juga dalam bahaya.",
+   "nasihat": "Gunakan kata laluan berbeza untuk setiap akaun.",
+   "dialog_baba": [
+    "Satu kunci untuk semua pintu? Bahaya!",
+    "Setiap pintu perlukan kuncinya sendiri."
+   ]
+  },
+  {
+   "id": "IG021",
+   "kategori": "Kata laluan",
+   "ikon": "telefon kod",
+   "tajuk": "Kod OTP",
+   "fakta": "Kod OTP ialah kod rahsia sekali guna untuk mengesahkan diri kamu.",
+   "nasihat": "Jangan beri kod OTP kepada sesiapa.",
+   "dialog_baba": [
+    "Ding! Kod OTP sampai.",
+    "Kod itu untuk kamu seorang. Sesiapa yang minta ialah penipu!"
+   ]
+  },
+  {
+   "id": "IG022",
+   "kategori": "Kata laluan",
+   "ikon": "perisai dua",
+   "tajuk": "Pengesahan dua langkah",
+   "fakta": "Pengesahan dua langkah menambah satu lagi lapisan keselamatan pada akaun.",
+   "nasihat": "Minta ibu bapa membantu menghidupkannya.",
+   "dialog_baba": [
+    "Dua lapis perisai lebih kuat daripada satu!",
+    "Macam meerkat yang ada dua pengawal."
+   ]
+  },
+  {
+   "id": "IG023",
+   "kategori": "Kata laluan",
+   "ikon": "pintu",
+   "tajuk": "Log keluar",
+   "fakta": "Akaun yang tidak dilog keluar di komputer awam boleh digunakan orang lain.",
+   "nasihat": "Sentiasa log keluar selepas menggunakan komputer sekolah atau awam.",
+   "dialog_baba": [
+    "Dah habis guna komputer sekolah?",
+    "Jangan lupa log keluar. Klik, klik, selamat!"
+   ]
+  },
+  {
+   "id": "IG024",
+   "kategori": "Kata laluan",
+   "ikon": "telefon kunci",
+   "tajuk": "Kunci skrin",
+   "fakta": "PIN atau corak menghalang orang lain membuka telefon kamu.",
+   "nasihat": "Tetapkan kunci skrin dan kongsi dengan ibu bapa sahaja.",
+   "dialog_baba": [
+    "Telefon tanpa kunci skrin macam rumah tanpa pintu!",
+    "Jom pasang \"pintu\" untuk telefon kamu."
+   ]
+  },
+  {
+   "id": "IG025",
+   "kategori": "Kata laluan",
+   "ikon": "amaran",
+   "tajuk": "Akaun dicuri",
+   "fakta": "Tanda akaun dicuri termasuk mesej yang kamu tidak hantar atau kata laluan yang berubah.",
+   "nasihat": "Beritahu ibu bapa dan tukar kata laluan segera.",
+   "dialog_baba": [
+    "Eh? Ada mesej yang kamu tak pernah hantar?",
+    "Cepat beritahu ibu bapa. Kita selamatkan akaun bersama!"
+   ]
+  },
+  {
+   "id": "IG026",
+   "kategori": "Kata laluan",
+   "ikon": "admin",
+   "tajuk": "Admin palsu",
+   "fakta": "Admin atau staf game sebenar tidak akan meminta kata laluan kamu.",
+   "nasihat": "Laporkan sesiapa yang menyamar sebagai admin.",
+   "dialog_baba": [
+    "\"Saya admin, bagi password.\" Hmm, mencurigakan!",
+    "Admin sebenar tak perlukan kata laluan kamu."
+   ]
+  },
+  {
+   "id": "IG027",
+   "kategori": "Kata laluan",
+   "ikon": "buku",
+   "tajuk": "Menyimpan kata laluan",
+   "fakta": "Kata laluan yang ditampal pada komputer mudah dilihat orang lain.",
+   "nasihat": "Simpan kata laluan di tempat selamat yang ibu bapa tahu.",
+   "dialog_baba": [
+    "Nota kata laluan di skrin? Semua orang boleh nampak!",
+    "Simpan di tempat rahsia bersama ibu bapa."
+   ]
+  },
+  {
+   "id": "IG028",
+   "kategori": "Kata laluan",
+   "ikon": "wifi",
+   "tajuk": "Wi-Fi awam",
+   "fakta": "Wi-Fi percuma di tempat awam kurang selamat untuk log masuk akaun penting.",
+   "nasihat": "Jangan log masuk atau membeli barang menggunakan Wi-Fi awam.",
+   "dialog_baba": [
+    "Wi-Fi percuma memang menyeronokkan...",
+    "Tapi jangan buka akaun penting di situ ya."
+   ]
+  },
+  {
+   "id": "IG029",
+   "kategori": "Kata laluan",
+   "ikon": "izin",
+   "tajuk": "Kebenaran aplikasi",
+   "fakta": "Sesetengah aplikasi meminta akses kepada kamera, mikrofon atau lokasi.",
+   "nasihat": "Tanya ibu bapa sebelum menekan \"Benarkan\".",
+   "dialog_baba": [
+    "Aplikasi ini nak guna kamera? Kenapa ya?",
+    "Tanya ibu bapa dulu sebelum tekan butang itu."
+   ]
+  },
+  {
+   "id": "IG030",
+   "kategori": "Kata laluan",
+   "ikon": "virus",
+   "tajuk": "Fail daripada orang asing",
+   "fakta": "Fail atau aplikasi daripada orang asing boleh mengandungi virus.",
+   "nasihat": "Jangan buka fail yang dihantar oleh orang tidak dikenali.",
+   "dialog_baba": [
+    "Hadiah misteri dalam fail? Jangan buka!",
+    "Ia mungkin virus yang menyamar."
+   ]
+  },
+  {
+   "id": "IG031",
+   "kategori": "Kata laluan",
+   "ikon": "muat turun",
+   "tajuk": "Muat turun aplikasi",
+   "fakta": "Aplikasi daripada sumber tidak rasmi boleh mencuri maklumat.",
+   "nasihat": "Muat turun aplikasi dari kedai aplikasi rasmi dengan izin ibu bapa.",
+   "dialog_baba": [
+    "Nak aplikasi baharu?",
+    "Jom tanya ibu bapa dulu, kemudian muat turun dari tempat rasmi."
+   ]
+  },
+  {
+   "id": "IG032",
+   "kategori": "Kata laluan",
+   "ikon": "tetapan",
+   "tajuk": "Tetapan privasi",
+   "fakta": "Tetapan privasi mengawal siapa boleh melihat dan menghubungi kamu.",
+   "nasihat": "Semak tetapan privasi bersama ibu bapa.",
+   "dialog_baba": [
+    "Tetapan privasi ibarat pagar rumah.",
+    "Kita pilih siapa yang boleh masuk!"
+   ]
+  },
+  {
+   "id": "IG033",
+   "kategori": "Kenali grooming",
+   "ikon": "meerkat",
+   "tajuk": "Apa itu grooming?",
+   "fakta": "Grooming berlaku apabila seseorang membina kepercayaan kanak-kanak untuk mengambil kesempatan.",
+   "nasihat": "Kenal tanda-tandanya dan beritahu orang dewasa jika ada yang pelik.",
+   "dialog_baba": [
+    "Grooming bukan sikat bulu meerkat ya!",
+    "Ia taktik orang jahat yang berpura-pura baik."
+   ]
+  },
+  {
+   "id": "IG034",
+   "kategori": "Kenali grooming",
+   "ikon": "orang",
+   "tajuk": "Siapa pemangsa?",
+   "fakta": "Pemangsa boleh jadi sesiapa sahaja: lelaki, perempuan, muda atau tua.",
+   "nasihat": "Jangan nilai seseorang selamat hanya kerana dia nampak baik.",
+   "dialog_baba": [
+    "Pemangsa tak semestinya nampak jahat.",
+    "Ada yang sangat peramah. Sebab itu kita berhati-hati."
+   ]
+  },
+  {
+   "id": "IG035",
+   "kategori": "Kenali grooming",
+   "ikon": "topeng",
+   "tajuk": "Menyamar umur",
+   "fakta": "Pemangsa boleh berpura-pura menjadi kanak-kanak atau remaja.",
+   "nasihat": "Anggap semua kawan dalam talian sebagai orang yang belum dikenali.",
+   "dialog_baba": [
+    "\"Saya pun 12 tahun!\" Betul ke?",
+    "Di internet, sesiapa sahaja boleh memakai topeng."
+   ]
+  },
+  {
+   "id": "IG036",
+   "kategori": "Kenali grooming",
+   "ikon": "tangga",
+   "tajuk": "Grooming berlaku perlahan-lahan",
+   "fakta": "Grooming biasanya berlaku sedikit demi sedikit dalam beberapa langkah.",
+   "nasihat": "Perhatikan jika perbualan berubah menjadi lebih peribadi.",
+   "dialog_baba": [
+    "Satu anak tangga, dua anak tangga...",
+    "Pemangsa naik perlahan-lahan. Kita boleh berhenti di anak tangga pertama!"
+   ]
+  },
+  {
+   "id": "IG037",
+   "kategori": "Kenali grooming",
+   "ikon": "game",
+   "tajuk": "Grooming dalam game",
+   "fakta": "Pemangsa menggunakan chat dalam game kerana ramai kanak-kanak bermain di situ.",
+   "nasihat": "Tetapkan chat game kepada \"kawan sahaja\".",
+   "dialog_baba": [
+    "Game memang seronok!",
+    "Tapi chat dalam game kadang-kadang ada orang yang berniat jahat."
+   ]
+  },
+  {
+   "id": "IG038",
+   "kategori": "Kenali grooming",
+   "ikon": "bintang",
+   "tajuk": "Pujian berlebihan",
+   "fakta": "Pemangsa memuji berlebihan supaya kamu rasa istimewa.",
+   "nasihat": "Berhati-hati dengan pujian yang terlalu banyak daripada orang asing.",
+   "dialog_baba": [
+    "\"Kamu paling hebat di dunia!\" Wah, bunyinya manis...",
+    "Tapi kalau terlalu manis, kita kena berhati-hati."
+   ]
+  },
+  {
+   "id": "IG039",
+   "kategori": "Kenali grooming",
+   "ikon": "hati",
+   "tajuk": "\"Kamu matang\"",
+   "fakta": "Kata-kata \"kamu lebih matang daripada umur kamu\" ialah taktik grooming yang biasa.",
+   "nasihat": "Ingat, kamu masih kanak-kanak dan berhak dilindungi.",
+   "dialog_baba": [
+    "Baba pun suka dipuji pandai.",
+    "Tapi pujian \"matang\" daripada orang dewasa asing ialah loceng amaran!"
+   ]
+  },
+  {
+   "id": "IG040",
+   "kategori": "Kenali grooming",
+   "ikon": "telinga",
+   "tajuk": "\"Saya faham kamu\"",
+   "fakta": "Pemangsa cuba menjadi satu-satunya orang yang \"faham\" kamu.",
+   "nasihat": "Kekal rapat dengan keluarga dan kawan dalam kehidupan sebenar.",
+   "dialog_baba": [
+    "\"Hanya saya yang faham kamu.\" Hmm...",
+    "Sebenarnya, ramai orang yang sayang dan faham kamu!"
+   ]
+  },
+  {
+   "id": "IG041",
+   "kategori": "Kenali grooming",
+   "ikon": "tembok",
+   "tajuk": "Pengasingan",
+   "fakta": "Pemangsa cuba memisahkan kamu daripada keluarga dan kawan.",
+   "nasihat": "Jika seseorang menyuruh kamu menjauhi keluarga, beritahu orang dewasa.",
+   "dialog_baba": [
+    "Meerkat selamat bila bersama kumpulan.",
+    "Orang jahat mahu kamu bersendirian. Jangan biarkan!"
+   ]
+  },
+  {
+   "id": "IG042",
+   "kategori": "Kenali grooming",
+   "ikon": "anak panah",
+   "tajuk": "Pindah aplikasi",
+   "fakta": "Pemangsa sering mengajak berpindah ke aplikasi yang lebih tersembunyi.",
+   "nasihat": "Kekal di tempat yang ibu bapa boleh nampak.",
+   "dialog_baba": [
+    "\"Jom chat di aplikasi lain.\" Kenapa ya?",
+    "Kalau perlu disorok, itu tanda bahaya!"
+   ]
+  },
+  {
+   "id": "IG043",
+   "kategori": "Kenali grooming",
+   "ikon": "bulan",
+   "tajuk": "Mesej lewat malam",
+   "fakta": "Mesej rahsia lewat malam ialah salah satu tanda grooming.",
+   "nasihat": "Letakkan telefon jauh dari katil pada waktu malam.",
+   "dialog_baba": [
+    "Mata Baba dah mengantuk...",
+    "Malam untuk tidur, bukan untuk chat rahsia!"
+   ]
+  },
+  {
+   "id": "IG044",
+   "kategori": "Kenali grooming",
+   "ikon": "soalan",
+   "tajuk": "Soalan semakin peribadi",
+   "fakta": "Perbualan yang beralih daripada game kepada hal peribadi ialah tanda amaran.",
+   "nasihat": "Berhenti jika soalan membuat kamu tidak selesa.",
+   "dialog_baba": [
+    "Mula-mula tanya pasal game...",
+    "Lepas itu tanya pasal badan dan keluarga? Stop!"
+   ]
+  },
+  {
+   "id": "IG045",
+   "kategori": "Kenali grooming",
+   "ikon": "ujian",
+   "tajuk": "Ujian sempadan",
+   "fakta": "Pemangsa menguji dengan permintaan kecil sebelum meminta lebih.",
+   "nasihat": "Kata tidak walaupun permintaan itu nampak kecil.",
+   "dialog_baba": [
+    "Hari ini minta benda kecil, esok minta benda besar.",
+    "Kita boleh berkata tidak dari awal!"
+   ]
+  },
+  {
+   "id": "IG046",
+   "kategori": "Kenali grooming",
+   "ikon": "undang-undang",
+   "tajuk": "Grooming ialah jenayah",
+   "fakta": "Di Malaysia, grooming kanak-kanak ialah jenayah di bawah Akta Kesalahan-Kesalahan Seksual Terhadap Kanak-Kanak 2017.",
+   "nasihat": "Laporkan grooming kepada orang dewasa dan pihak berkuasa.",
+   "dialog_baba": [
+    "Undang-undang melindungi kamu!",
+    "Orang yang melakukan grooming boleh dihukum."
+   ]
+  },
+  {
+   "id": "IG047",
+   "kategori": "Kenali grooming",
+   "ikon": "tanda soal",
+   "tajuk": "Bukan salah kamu",
+   "fakta": "Jika grooming berlaku, yang bersalah ialah pemangsa, bukan kanak-kanak.",
+   "nasihat": "Jangan takut atau malu untuk meminta bantuan.",
+   "dialog_baba": [
+    "Dengar sini baik-baik, kawan.",
+    "Kalau ada orang ambil kesempatan, itu BUKAN salah kamu."
+   ]
+  },
+  {
+   "id": "IG048",
+   "kategori": "Kenali grooming",
+   "ikon": "rumah",
+   "tajuk": "Orang yang dikenali",
+   "fakta": "Grooming juga boleh dilakukan oleh orang yang dikenali, bukan hanya orang asing.",
+   "nasihat": "Beritahu orang dewasa lain yang dipercayai jika sesiapa membuat kamu tidak selesa.",
+   "dialog_baba": [
+    "Kadang-kadang orang yang kita kenal pun buat kita rasa pelik.",
+    "Perasaan kamu tetap penting. Ceritakan kepada orang yang kamu percayai."
+   ]
+  },
+  {
+   "id": "IG049",
+   "kategori": "Kenali grooming",
+   "ikon": "langkah",
+   "tajuk": "Peringkat grooming",
+   "fakta": "Peringkat biasa: berkenalan, kepercayaan, hadiah, pengasingan, rahsia, permintaan.",
+   "nasihat": "Kenal peringkat awal supaya boleh berhenti lebih cepat.",
+   "dialog_baba": [
+    "Baba ada peta rahsia!",
+    "Bila nampak tanda awal, kita berhenti dan minta bantuan."
+   ]
+  },
+  {
+   "id": "IG050",
+   "kategori": "Kenali grooming",
+   "ikon": "perisai",
+   "tajuk": "Pengetahuan ialah perisai",
+   "fakta": "Kanak-kanak yang tahu tanda grooming lebih bersedia untuk melindungi diri.",
+   "nasihat": "Kongsi apa yang kamu belajar dengan kawan-kawan.",
+   "dialog_baba": [
+    "Kamu dah belajar banyak hari ini!",
+    "Pengetahuan kamu ialah perisai paling kuat."
+   ]
+  },
+  {
+   "id": "IG051",
+   "kategori": "Kenali grooming",
+   "ikon": "loceng",
+   "tajuk": "Percaya gerak hati",
+   "fakta": "Rasa tidak sedap hati ialah amaran semula jadi daripada badan kamu.",
+   "nasihat": "Jika rasa pelik, berhenti dan beritahu orang dewasa.",
+   "dialog_baba": [
+    "Perut rasa pelik? Hati berdebar?",
+    "Itu loceng amaran dalam diri kamu. Dengarlah!"
+   ]
+  },
+  {
+   "id": "IG052",
+   "kategori": "Kenali grooming",
+   "ikon": "telefon",
+   "tajuk": "Grooming boleh berlaku di mana-mana aplikasi",
+   "fakta": "Grooming boleh berlaku dalam game, media sosial, aplikasi chat dan laman video.",
+   "nasihat": "Gunakan langkah keselamatan yang sama di semua aplikasi.",
+   "dialog_baba": [
+    "Game, video, chat... semuanya ada pintu masuk.",
+    "Bawa perisai keselamatan kamu ke mana-mana aplikasi!"
+   ]
+  },
+  {
+   "id": "IG053",
+   "kategori": "Tanda amaran",
+   "ikon": "merah",
+   "tajuk": "Diminta merahsiakan",
+   "fakta": "Permintaan untuk merahsiakan perbualan ialah tanda amaran besar.",
+   "nasihat": "Rahsia yang membuat kamu risau mesti diceritakan.",
+   "dialog_baba": [
+    "Rahsia? Bunyi lampu merah!",
+    "Kita tak simpan rahsia daripada ibu bapa."
+   ]
+  },
+  {
+   "id": "IG054",
+   "kategori": "Tanda amaran",
+   "ikon": "kamera",
+   "tajuk": "Diminta gambar",
+   "fakta": "Permintaan gambar daripada orang tidak dikenali ialah tanda bahaya.",
+   "nasihat": "Jangan hantar gambar diri kepada orang yang dikenali dalam talian.",
+   "dialog_baba": [
+    "\"Hantar selfie sikit?\" Tak, terima kasih!",
+    "Gambar kamu milik kamu."
+   ]
+  },
+  {
+   "id": "IG055",
+   "kategori": "Tanda amaran",
+   "ikon": "video",
+   "tajuk": "Ajak video call",
+   "fakta": "Ajakan video call ketika kamu bersendirian ialah tanda bahaya.",
+   "nasihat": "Tolak dan beritahu ibu bapa.",
+   "dialog_baba": [
+    "Video call dengan orang asing? No, no, no!",
+    "Baba geleng kepala laju-laju."
+   ]
+  },
+  {
+   "id": "IG056",
+   "kategori": "Tanda amaran",
+   "ikon": "peta",
+   "tajuk": "Ajak berjumpa",
+   "fakta": "Ajakan berjumpa daripada kawan dalam talian ialah tanda bahaya besar.",
+   "nasihat": "Jangan pergi dan beritahu ibu bapa dengan segera.",
+   "dialog_baba": [
+    "Jumpa kawan dalam talian? Itu bahaya terbesar!",
+    "Baba akan berdiri tegak dan beri amaran!"
+   ]
+  },
+  {
+   "id": "IG057",
+   "kategori": "Tanda amaran",
+   "ikon": "rumah sepi",
+   "tajuk": "\"Kamu seorang di rumah?\"",
+   "fakta": "Soalan tentang bila kamu seorang diri ialah tanda bahaya.",
+   "nasihat": "Jangan jawab dan beritahu orang dewasa.",
+   "dialog_baba": [
+    "Soalan ini membuat telinga Baba berdiri!",
+    "Jangan jawab. Beritahu ibu bapa sekarang."
+   ]
+  },
+  {
+   "id": "IG058",
+   "kategori": "Tanda amaran",
+   "ikon": "duit",
+   "tajuk": "Tawaran duit",
+   "fakta": "Tawaran duit atau kredit sebagai pertukaran ialah taktik pemangsa.",
+   "nasihat": "Tolak tawaran dan beritahu orang dewasa.",
+   "dialog_baba": [
+    "Duit percuma? Kredit game percuma?",
+    "Tak ada benda percuma yang datang dengan syarat pelik!"
+   ]
+  },
+  {
+   "id": "IG059",
+   "kategori": "Tanda amaran",
+   "ikon": "cemburu",
+   "tajuk": "Cemburu dan mengawal",
+   "fakta": "Orang yang cemburu bila kamu berkawan dengan orang lain sedang cuba mengawal kamu.",
+   "nasihat": "Kamu bebas berkawan dengan sesiapa.",
+   "dialog_baba": [
+    "\"Jangan main dengan orang lain!\" Hmm...",
+    "Kawan sebenar tak mengawal kawannya."
+   ]
+  },
+  {
+   "id": "IG060",
+   "kategori": "Tanda amaran",
+   "ikon": "hati pecah",
+   "tajuk": "Membuat rasa bersalah",
+   "fakta": "Membuat kamu rasa bersalah kerana tidak membalas ialah taktik kawalan.",
+   "nasihat": "Kamu tidak wajib membalas sesiapa.",
+   "dialog_baba": [
+    "\"Saya sedih kalau kamu tak balas.\" Alamak...",
+    "Kamu tak bertanggungjawab atas perasaan orang asing."
+   ]
+  },
+  {
+   "id": "IG061",
+   "kategori": "Tanda amaran",
+   "ikon": "cinta",
+   "tajuk": "Kata \"sayang\" atau \"cinta\"",
+   "fakta": "Orang dewasa yang menyatakan cinta kepada kanak-kanak online ialah tanda bahaya.",
+   "nasihat": "Beritahu orang dewasa yang dipercayai.",
+   "dialog_baba": [
+    "Orang dalam talian kata dia sayang kamu?",
+    "Itu tanda bahaya. Jom beritahu orang dewasa."
+   ]
+  },
+  {
+   "id": "IG062",
+   "kategori": "Tanda amaran",
+   "ikon": "badan",
+   "tajuk": "Soalan tentang badan",
+   "fakta": "Soalan tentang badan atau pakaian kamu ialah tanda bahaya besar.",
+   "nasihat": "Hentikan perbualan dan beritahu orang dewasa sekarang.",
+   "dialog_baba": [
+    "Soalan macam ini tak sesuai langsung!",
+    "Tutup chat dan beritahu orang dewasa."
+   ]
+  },
+  {
+   "id": "IG063",
+   "kategori": "Tanda amaran",
+   "ikon": "fon kepala",
+   "tajuk": "Disuruh berbual senyap",
+   "fakta": "Disuruh memakai fon kepala supaya orang lain tidak dengar ialah tanda bahaya.",
+   "nasihat": "Kekal di tempat yang ibu bapa boleh dengar.",
+   "dialog_baba": [
+    "Kenapa perlu senyap-senyap?",
+    "Kalau perlu disorok, itu tanda tak selamat!"
+   ]
+  },
+  {
+   "id": "IG064",
+   "kategori": "Tanda amaran",
+   "ikon": "pintu",
+   "tajuk": "Disuruh tutup pintu",
+   "fakta": "Disuruh menutup pintu bilik semasa berbual ialah tanda bahaya.",
+   "nasihat": "Kekal di ruang tamu dan beritahu ibu bapa.",
+   "dialog_baba": [
+    "\"Tutup pintu dulu.\" Eh?",
+    "Baba buka pintu luas-luas dan panggil ibu bapa!"
+   ]
+  },
+  {
+   "id": "IG065",
+   "kategori": "Tanda amaran",
+   "ikon": "padam",
+   "tajuk": "Disuruh padam chat",
+   "fakta": "Disuruh memadam perbualan ialah cara menyembunyikan bukti.",
+   "nasihat": "Simpan perbualan dan tunjuk kepada orang dewasa.",
+   "dialog_baba": [
+    "\"Padam chat kita.\" Kenapa?",
+    "Kita simpan dan tunjuk kepada ibu bapa!"
+   ]
+  },
+  {
+   "id": "IG066",
+   "kategori": "Tanda amaran",
+   "ikon": "keluarga retak",
+   "tajuk": "Mengutuk keluarga kamu",
+   "fakta": "Orang yang memburukkan keluarga kamu mahu kamu menjauhi mereka.",
+   "nasihat": "Kekal rapat dengan keluarga.",
+   "dialog_baba": [
+    "\"Ibu bapa kamu tak faham kamu.\" Hmm...",
+    "Keluarga ialah pengawal kamu yang paling setia."
+   ]
+  },
+  {
+   "id": "IG067",
+   "kategori": "Tanda amaran",
+   "ikon": "tipu",
+   "tajuk": "Menipu umur",
+   "fakta": "Orang yang menipu tentang umurnya tidak boleh dipercayai.",
+   "nasihat": "Hentikan perbualan dan beritahu orang dewasa.",
+   "dialog_baba": [
+    "Dia kata 12 tahun, rupanya 25 tahun?",
+    "Penipu! Tamatkan perbualan sekarang."
+   ]
+  },
+  {
+   "id": "IG068",
+   "kategori": "Tanda amaran",
+   "ikon": "cabaran",
+   "tajuk": "Cabaran rahsia",
+   "fakta": "Cabaran rahsia daripada orang tidak dikenali boleh berbahaya.",
+   "nasihat": "Jangan buat cabaran yang disuruh rahsiakan.",
+   "dialog_baba": [
+    "Cabaran seronok tak perlu disorok.",
+    "Kalau disuruh rahsia, jangan buat!"
+   ]
+  },
+  {
+   "id": "IG069",
+   "kategori": "Tanda amaran",
+   "ikon": "tahu",
+   "tajuk": "Dia tahu terlalu banyak",
+   "fakta": "Orang asing yang tahu banyak tentang kamu mungkin mengumpul maklumat.",
+   "nasihat": "Beritahu orang dewasa dan semak tetapan privasi.",
+   "dialog_baba": [
+    "Eh, macam mana dia tahu sekolah kamu?",
+    "Jom semak privasi dan beritahu ibu bapa!"
+   ]
+  },
+  {
+   "id": "IG070",
+   "kategori": "Tanda amaran",
+   "ikon": "aplikasi rahsia",
+   "tajuk": "Aplikasi tersembunyi",
+   "fakta": "Diajar menyorok aplikasi daripada ibu bapa ialah tanda bahaya.",
+   "nasihat": "Jangan sorok apa-apa aplikasi daripada ibu bapa.",
+   "dialog_baba": [
+    "Aplikasi yang perlu disorok?",
+    "Itu bukan aplikasi yang selamat!"
+   ]
+  },
+  {
+   "id": "IG071",
+   "kategori": "Tanda amaran",
+   "ikon": "lampu",
+   "tajuk": "Gabungan tanda",
+   "fakta": "Lebih banyak tanda amaran bermaksud lebih besar bahayanya.",
+   "nasihat": "Satu tanda pun cukup untuk memberitahu orang dewasa.",
+   "dialog_baba": [
+    "Satu lampu merah? Berhenti.",
+    "Banyak lampu merah? Berhenti dan minta bantuan sekarang!"
+   ]
+  },
+  {
+   "id": "IG072",
+   "kategori": "Tanda amaran",
+   "ikon": "kerusi kosong",
+   "tajuk": "Ajak berbual ketika ibu bapa tiada",
+   "fakta": "Orang yang mahu berbual hanya ketika ibu bapa kamu tiada sedang cuba bersembunyi.",
+   "nasihat": "Beritahu ibu bapa tentang permintaan seperti ini.",
+   "dialog_baba": [
+    "\"Chat bila mak ayah tak ada, okey?\"",
+    "Kenapa perlu tunggu mereka tiada? Itu tanda bahaya!"
+   ]
+  },
+  {
+   "id": "IG073",
+   "kategori": "Rahsia & hadiah",
+   "ikon": "hadiah",
+   "tajuk": "Rahsia baik",
+   "fakta": "Rahsia baik seperti hadiah kejutan akan diberitahu akhirnya dan menggembirakan orang.",
+   "nasihat": "Rahsia baik tidak membuat kamu risau.",
+   "dialog_baba": [
+    "Kejutan hari jadi ibu? Itu rahsia yang baik!",
+    "Ia akan dibuka dengan senyuman."
+   ]
+  },
+  {
+   "id": "IG074",
+   "kategori": "Rahsia & hadiah",
+   "ikon": "awan hitam",
+   "tajuk": "Rahsia buruk",
+   "fakta": "Rahsia buruk membuat kamu takut, keliru atau tidak selesa.",
+   "nasihat": "Ceritakan rahsia buruk kepada orang dewasa yang dipercayai.",
+   "dialog_baba": [
+    "Rahsia yang buat perut rasa sakit?",
+    "Itu rahsia buruk. Kita kongsi dengan orang dewasa."
+   ]
+  },
+  {
+   "id": "IG075",
+   "kategori": "Rahsia & hadiah",
+   "ikon": "timbang",
+   "tajuk": "Beza rahsia",
+   "fakta": "Rahsia baik ada penghujung yang gembira; rahsia buruk tiada.",
+   "nasihat": "Tanya diri: adakah rahsia ini membuat aku risau?",
+   "dialog_baba": [
+    "Jom main timbang rahsia!",
+    "Kalau berat dan menakutkan, ia mesti diceritakan."
+   ]
+  },
+  {
+   "id": "IG076",
+   "kategori": "Rahsia & hadiah",
+   "ikon": "kotak hadiah",
+   "tajuk": "Hadiah bersyarat",
+   "fakta": "Hadiah daripada orang asing boleh digunakan supaya kamu rasa terhutang budi.",
+   "nasihat": "Beritahu ibu bapa tentang hadiah daripada orang tidak dikenali.",
+   "dialog_baba": [
+    "Hadiah yang datang dengan \"kena tolong saya\"?",
+    "Itu bukan hadiah, itu perangkap!"
+   ]
+  },
+  {
+   "id": "IG077",
+   "kategori": "Rahsia & hadiah",
+   "ikon": "permata",
+   "tajuk": "Kredit game",
+   "fakta": "Kredit, diamond atau skin game juga boleh menjadi alat grooming.",
+   "nasihat": "Tolak hadiah game daripada orang yang tidak dikenali.",
+   "dialog_baba": [
+    "Diamond berkilau-kilau...",
+    "Tapi kalau daripada orang asing, Baba kata: tak apa, terima kasih!"
+   ]
+  },
+  {
+   "id": "IG078",
+   "kategori": "Rahsia & hadiah",
+   "ikon": "bungkusan",
+   "tajuk": "Hantar hadiah ke rumah",
+   "fakta": "Orang yang mahu menghantar hadiah ke rumah kamu memerlukan alamat kamu.",
+   "nasihat": "Jangan beri alamat untuk sebarang hadiah.",
+   "dialog_baba": [
+    "Nak hantar hadiah ke rumah? Perlukan alamat?",
+    "Tak perlu! Alamat kita rahsia."
+   ]
+  },
+  {
+   "id": "IG079",
+   "kategori": "Rahsia & hadiah",
+   "ikon": "hutang",
+   "tajuk": "Kamu tidak berhutang",
+   "fakta": "Kamu tidak perlu membalas apa-apa untuk hadiah yang diberi.",
+   "nasihat": "Tolak permintaan yang membuat kamu tidak selesa.",
+   "dialog_baba": [
+    "\"Saya dah bagi hadiah, sekarang giliran kamu.\"",
+    "Salah! Kamu tak berhutang apa-apa."
+   ]
+  },
+  {
+   "id": "IG080",
+   "kategori": "Rahsia & hadiah",
+   "ikon": "gembok",
+   "tajuk": "Rahsia dengan orang dewasa",
+   "fakta": "Orang dewasa yang baik tidak meminta kanak-kanak menyimpan rahsia yang menakutkan.",
+   "nasihat": "Ceritakan kepada orang dewasa lain jika diminta berahsia.",
+   "dialog_baba": [
+    "Orang dewasa minta kamu simpan rahsia?",
+    "Kalau ia membuat kamu risau, ceritakan!"
+   ]
+  },
+  {
+   "id": "IG081",
+   "kategori": "Rahsia & hadiah",
+   "ikon": "janji",
+   "tajuk": "Janji yang boleh dimungkiri",
+   "fakta": "Kamu boleh memungkiri janji untuk berahsia jika ia membuat kamu tidak selamat.",
+   "nasihat": "Keselamatan lebih penting daripada janji.",
+   "dialog_baba": [
+    "Dah janji tak nak beritahu?",
+    "Tak apa. Keselamatan kamu lebih penting daripada janji itu."
+   ]
+  },
+  {
+   "id": "IG082",
+   "kategori": "Rahsia & hadiah",
+   "ikon": "kejutan",
+   "tajuk": "Kejutan berbanding rahsia",
+   "fakta": "Kejutan bersifat sementara; rahsia buruk diminta disimpan selama-lamanya.",
+   "nasihat": "Jika diminta merahsiakan selama-lamanya, beritahu orang dewasa.",
+   "dialog_baba": [
+    "Kejutan: \"Jangan beritahu sampai Sabtu!\"",
+    "Rahsia buruk: \"Jangan beritahu sesiapa, selamanya!\""
+   ]
+  },
+  {
+   "id": "IG083",
+   "kategori": "Rahsia & hadiah",
+   "ikon": "ugutan",
+   "tajuk": "Rahsia dengan ugutan",
+   "fakta": "Jika rahsia datang bersama ugutan, ia tanda bahaya besar.",
+   "nasihat": "Beritahu orang dewasa sekarang juga.",
+   "dialog_baba": [
+    "Rahsia dengan ugutan? Lampu merah berkelip!",
+    "Cepat beritahu orang dewasa."
+   ]
+  },
+  {
+   "id": "IG084",
+   "kategori": "Rahsia & hadiah",
+   "ikon": "tangan",
+   "tajuk": "Hadiah yang baik",
+   "fakta": "Hadiah yang baik tidak perlu disorok daripada ibu bapa.",
+   "nasihat": "Tunjukkan hadiah kepada ibu bapa.",
+   "dialog_baba": [
+    "Hadiah dari nenek? Boleh tunjuk semua orang!",
+    "Hadiah yang baik tak perlu disorok."
+   ]
+  },
+  {
+   "id": "IG085",
+   "kategori": "Rahsia & hadiah",
+   "ikon": "lampu",
+   "tajuk": "Rahsia dan perasaan",
+   "fakta": "Jika menyimpan rahsia membuat kamu sukar tidur, itu tanda ia perlu diceritakan.",
+   "nasihat": "Ceritakan sebelum tidur kepada ibu bapa.",
+   "dialog_baba": [
+    "Susah nak tidur sebab satu rahsia?",
+    "Jom lepaskan beban itu. Ceritakan kepada orang yang kamu percayai."
+   ]
+  },
+  {
+   "id": "IG086",
+   "kategori": "Rahsia & hadiah",
+   "ikon": "kawan",
+   "tajuk": "Rahsia kawan",
+   "fakta": "Jika rahsia kawan menunjukkan dia tidak selamat, beritahu orang dewasa.",
+   "nasihat": "Membantu kawan lebih penting daripada menyimpan rahsia.",
+   "dialog_baba": [
+    "Kawan kamu dalam bahaya tapi minta rahsia?",
+    "Kawan sejati akan minta bantuan untuknya."
+   ]
+  },
+  {
+   "id": "IG087",
+   "kategori": "Gambar & kamera",
+   "ikon": "gambar",
+   "tajuk": "Gambar kekal lama",
+   "fakta": "Gambar yang dihantar boleh disimpan dan dikongsi tanpa izin kamu.",
+   "nasihat": "Fikir sebelum menghantar sebarang gambar.",
+   "dialog_baba": [
+    "Klik! Gambar terbang ke internet...",
+    "Ia susah untuk ditangkap balik!"
+   ]
+  },
+  {
+   "id": "IG088",
+   "kategori": "Gambar & kamera",
+   "ikon": "screenshot",
+   "tajuk": "Screenshot",
+   "fakta": "Mesej atau gambar yang \"hilang sendiri\" masih boleh di-screenshot.",
+   "nasihat": "Jangan percaya aplikasi yang kata gambar akan hilang.",
+   "dialog_baba": [
+    "Gambar hilang dalam 10 saat?",
+    "Tapi screenshot ambil masa 1 saat sahaja!"
+   ]
+  },
+  {
+   "id": "IG089",
+   "kategori": "Gambar & kamera",
+   "ikon": "kamera tutup",
+   "tajuk": "Tutup kamera",
+   "fakta": "Kamera yang tidak ditutup boleh digunakan tanpa izin.",
+   "nasihat": "Tutup kamera apabila tidak digunakan.",
+   "dialog_baba": [
+    "Kamera Baba sentiasa bertutup bila tak guna.",
+    "Kamu pun boleh tampal pelekat comel di kamera!"
+   ]
+  },
+  {
+   "id": "IG090",
+   "kategori": "Gambar & kamera",
+   "ikon": "avatar",
+   "tajuk": "Avatar sebagai profil",
+   "fakta": "Avatar melindungi wajah kamu daripada orang asing.",
+   "nasihat": "Gunakan avatar atau kartun sebagai gambar profil.",
+   "dialog_baba": [
+    "Gambar profil Baba ialah avatar meerkat!",
+    "Selamat dan comel."
+   ]
+  },
+  {
+   "id": "IG091",
+   "kategori": "Gambar & kamera",
+   "ikon": "izin",
+   "tajuk": "Gambar orang lain",
+   "fakta": "Kita perlu izin sebelum berkongsi gambar orang lain.",
+   "nasihat": "Tanya dahulu sebelum memuat naik gambar kawan.",
+   "dialog_baba": [
+    "Nak post gambar kawan?",
+    "Tanya dia dulu: \"Boleh saya kongsi?\""
+   ]
+  },
+  {
+   "id": "IG092",
+   "kategori": "Gambar & kamera",
+   "ikon": "bilik",
+   "tajuk": "Gambar dalam bilik",
+   "fakta": "Gambar dalam bilik boleh mendedahkan banyak maklumat peribadi.",
+   "nasihat": "Jangan hantar gambar bilik kepada orang tidak dikenali.",
+   "dialog_baba": [
+    "Bilik kamu tempat peribadi.",
+    "Orang asing tak perlu melihatnya."
+   ]
+  },
+  {
+   "id": "IG093",
+   "kategori": "Gambar & kamera",
+   "ikon": "edit",
+   "tajuk": "Gambar boleh diedit",
+   "fakta": "Gambar boleh diubah suai dan digunakan untuk tujuan jahat.",
+   "nasihat": "Kongsi gambar dengan keluarga dan kawan yang dikenali sahaja.",
+   "dialog_baba": [
+    "Gambar boleh diedit menjadi apa sahaja.",
+    "Sebab itu kita jaga gambar kita baik-baik."
+   ]
+  },
+  {
+   "id": "IG094",
+   "kategori": "Gambar & kamera",
+   "ikon": "lokasi",
+   "tajuk": "Lokasi dalam gambar",
+   "fakta": "Sesetengah gambar menyimpan maklumat lokasi di mana ia diambil.",
+   "nasihat": "Minta ibu bapa matikan lokasi pada kamera.",
+   "dialog_baba": [
+    "Gambar boleh simpan rahsia lokasi!",
+    "Matikan tetapan lokasi kamera dengan bantuan ibu bapa."
+   ]
+  },
+  {
+   "id": "IG095",
+   "kategori": "Gambar & kamera",
+   "ikon": "live",
+   "tajuk": "Siaran langsung",
+   "fakta": "Siaran langsung boleh menunjukkan wajah, rumah dan lokasi kamu kepada orang asing.",
+   "nasihat": "Bincang dengan ibu bapa sebelum membuat siaran langsung.",
+   "dialog_baba": [
+    "Live? Semua orang di dunia boleh tengok!",
+    "Tanya ibu bapa dulu ya."
+   ]
+  },
+  {
+   "id": "IG096",
+   "kategori": "Gambar & kamera",
+   "ikon": "mikrofon",
+   "tajuk": "Mikrofon",
+   "fakta": "Suara kamu boleh mendedahkan umur dan maklumat lain.",
+   "nasihat": "Gunakan chat teks dengan orang yang tidak dikenali.",
+   "dialog_baba": [
+    "Suara comel kamu boleh beritahu umur kamu.",
+    "Dengan orang asing, guna teks sahaja."
+   ]
+  },
+  {
+   "id": "IG097",
+   "kategori": "Gambar & kamera",
+   "ikon": "tukar",
+   "tajuk": "\"Saya dah hantar, giliran kamu\"",
+   "fakta": "Pemangsa menghantar gambar dahulu supaya kamu rasa perlu membalas.",
+   "nasihat": "Kamu tidak perlu menghantar apa-apa.",
+   "dialog_baba": [
+    "\"Adil kan? Giliran kamu pula.\"",
+    "Tak adil langsung! Kamu tak perlu balas."
+   ]
+  },
+  {
+   "id": "IG098",
+   "kategori": "Gambar & kamera",
+   "ikon": "terlanjur",
+   "tajuk": "Terlanjur menghantar",
+   "fakta": "Jika gambar sudah dihantar, kamu masih boleh mendapatkan bantuan.",
+   "nasihat": "Jangan hantar lagi dan beritahu orang dewasa segera.",
+   "dialog_baba": [
+    "Alamak, gambar dah terhantar?",
+    "Jangan panik. Kamu tak salah. Jom beritahu orang dewasa."
+   ]
+  },
+  {
+   "id": "IG099",
+   "kategori": "Gambar & kamera",
+   "ikon": "meme",
+   "tajuk": "Meme daripada gambar",
+   "fakta": "Gambar boleh dijadikan meme dan tersebar luas.",
+   "nasihat": "Fikir: adakah aku selesa jika gambar ini tersebar?",
+   "dialog_baba": [
+    "Gambar boleh jadi meme dalam sekelip mata!",
+    "Fikir dulu sebelum kongsi."
+   ]
+  },
+  {
+   "id": "IG100",
+   "kategori": "Gambar & kamera",
+   "ikon": "bukti",
+   "tajuk": "Simpan bukti gambar",
+   "fakta": "Gambar yang tidak sesuai yang diterima ialah bukti.",
+   "nasihat": "Jangan padam; tunjukkan kepada orang dewasa.",
+   "dialog_baba": [
+    "Dapat gambar pelik?",
+    "Jangan padam dulu. Tunjuk kepada orang dewasa."
+   ]
+  },
+  {
+   "id": "IG101",
+   "kategori": "Gambar & kamera",
+   "ikon": "webcam",
+   "tajuk": "Kamera bergerak sendiri",
+   "fakta": "Lampu kamera menyala tanpa sebab boleh menjadi tanda masalah.",
+   "nasihat": "Tutup kamera dan beritahu ibu bapa.",
+   "dialog_baba": [
+    "Lampu kamera menyala sendiri?",
+    "Tutup dan beritahu ibu bapa!"
+   ]
+  },
+  {
+   "id": "IG102",
+   "kategori": "Gambar & kamera",
+   "ikon": "bintang",
+   "tajuk": "Gambar milik kamu",
+   "fakta": "Kamu berhak menentukan siapa melihat gambar kamu.",
+   "nasihat": "Kamu boleh menolak sebarang permintaan gambar.",
+   "dialog_baba": [
+    "Gambar kamu, keputusan kamu!",
+    "Baba sokong bila kamu kata \"Tidak\"."
+   ]
+  },
+  {
+   "id": "IG103",
+   "kategori": "Berjumpa & lokasi",
+   "ikon": "peta",
+   "tajuk": "Jangan jumpa kawan dalam talian",
+   "fakta": "Berjumpa kawan dalam talian ialah antara situasi paling berbahaya bagi kanak-kanak.",
+   "nasihat": "Jangan sesekali berjumpa orang yang hanya dikenali dalam talian.",
+   "dialog_baba": [
+    "Baba ada satu peraturan emas!",
+    "Jangan berjumpa kawan dalam talian. Titik."
+   ]
+  },
+  {
+   "id": "IG104",
+   "kategori": "Berjumpa & lokasi",
+   "ikon": "kawan",
+   "tajuk": "Bawa kawan pun tidak selamat",
+   "fakta": "Membawa kawan sebaya tidak menjadikan pertemuan itu selamat.",
+   "nasihat": "Beritahu ibu bapa jika diajak berjumpa.",
+   "dialog_baba": [
+    "\"Saya bawa kawan, jadi selamat kan?\"",
+    "Tidak! Kita beritahu ibu bapa."
+   ]
+  },
+  {
+   "id": "IG105",
+   "kategori": "Berjumpa & lokasi",
+   "ikon": "matahari",
+   "tajuk": "Siang pun tidak selamat",
+   "fakta": "Waktu siang atau tempat ramai tidak menjadikan pertemuan dengan orang asing selamat.",
+   "nasihat": "Tolak semua ajakan berjumpa.",
+   "dialog_baba": [
+    "Siang hari, tempat ramai...",
+    "Masih tak selamat! Jangan pergi."
+   ]
+  },
+  {
+   "id": "IG106",
+   "kategori": "Berjumpa & lokasi",
+   "ikon": "kereta",
+   "tajuk": "Jangan naik kenderaan",
+   "fakta": "Jangan naik kenderaan yang dihantar oleh orang yang dikenali dalam talian.",
+   "nasihat": "Beritahu ibu bapa dengan segera.",
+   "dialog_baba": [
+    "Dia nak hantar kereta untuk ambil kamu?",
+    "Jangan naik! Beritahu ibu bapa sekarang!"
+   ]
+  },
+  {
+   "id": "IG107",
+   "kategori": "Berjumpa & lokasi",
+   "ikon": "lokasi",
+   "tajuk": "Kongsi lokasi",
+   "fakta": "Perkongsian lokasi secara langsung menunjukkan di mana kamu berada setiap masa.",
+   "nasihat": "Matikan perkongsian lokasi untuk orang asing.",
+   "dialog_baba": [
+    "Titik biru di peta itu ialah kamu!",
+    "Hanya keluarga boleh melihatnya."
+   ]
+  },
+  {
+   "id": "IG108",
+   "kategori": "Berjumpa & lokasi",
+   "ikon": "tag",
+   "tajuk": "Tag lokasi",
+   "fakta": "Menanda lokasi dalam siaran memberitahu orang di mana kamu berada.",
+   "nasihat": "Jangan tag lokasi rumah, sekolah atau tempat kegemaran.",
+   "dialog_baba": [
+    "Tag lokasi = beritahu dunia kamu di mana.",
+    "Kongsi selepas pulang, kalau perlu."
+   ]
+  },
+  {
+   "id": "IG109",
+   "kategori": "Berjumpa & lokasi",
+   "ikon": "kebetulan",
+   "tajuk": "\"Saya tinggal dekat kamu\"",
+   "fakta": "Pemangsa mungkin berbohong tinggal berdekatan untuk mengajak berjumpa.",
+   "nasihat": "Beritahu ibu bapa tentang mesej seperti ini.",
+   "dialog_baba": [
+    "\"Kebetulan! Saya tinggal dekat kamu!\"",
+    "Kebetulan yang sangat mencurigakan..."
+   ]
+  },
+  {
+   "id": "IG110",
+   "kategori": "Berjumpa & lokasi",
+   "ikon": "sekolah",
+   "tajuk": "Muncul di sekolah",
+   "fakta": "Jika orang yang dikenali dalam talian muncul di sekolah, beritahu guru segera.",
+   "nasihat": "Jangan pergi bersamanya.",
+   "dialog_baba": [
+    "Dia datang ke sekolah?",
+    "Cepat cari guru! Kamu selamat untuk minta bantuan."
+   ]
+  },
+  {
+   "id": "IG111",
+   "kategori": "Berjumpa & lokasi",
+   "ikon": "kaki",
+   "tajuk": "Diekori",
+   "fakta": "Jika diekori, pergi ke tempat ramai orang dan minta tolong.",
+   "nasihat": "Hubungi 999 jika dalam bahaya.",
+   "dialog_baba": [
+    "Rasa diekori?",
+    "Pergi ke kedai atau tempat ramai dan cari orang dewasa!"
+   ]
+  },
+  {
+   "id": "IG112",
+   "kategori": "Berjumpa & lokasi",
+   "ikon": "bulan",
+   "tajuk": "Keluar malam",
+   "fakta": "Diajak keluar rumah pada waktu malam ialah tanda bahaya besar.",
+   "nasihat": "Jangan keluar dan beritahu ibu bapa.",
+   "dialog_baba": [
+    "Keluar senyap-senyap waktu malam?",
+    "Jangan sesekali! Beritahu ibu bapa."
+   ]
+  },
+  {
+   "id": "IG113",
+   "kategori": "Berjumpa & lokasi",
+   "ikon": "pelan",
+   "tajuk": "Pelan keselamatan",
+   "fakta": "Pelan keselamatan keluarga membantu kamu tahu apa perlu dibuat dalam kecemasan.",
+   "nasihat": "Buat pelan bersama ibu bapa, termasuk nombor penting.",
+   "dialog_baba": [
+    "Meerkat ada pelan kecemasan!",
+    "Jom buat pelan keluarga kamu juga."
+   ]
+  },
+  {
+   "id": "IG114",
+   "kategori": "Berjumpa & lokasi",
+   "ikon": "kata rahsia",
+   "tajuk": "Kata kod keluarga",
+   "fakta": "Sesetengah keluarga ada kata kod rahsia untuk orang yang dibenarkan mengambil anak.",
+   "nasihat": "Bincang kata kod dengan ibu bapa.",
+   "dialog_baba": [
+    "Ada orang kata \"ibu suruh saya ambil kamu\"?",
+    "Tanya kata kod! Kalau salah, jangan ikut."
+   ]
+  },
+  {
+   "id": "IG115",
+   "kategori": "Ugutan",
+   "ikon": "petir",
+   "tajuk": "Apa itu ugutan?",
+   "fakta": "Ugutan ialah ancaman untuk membuat kamu menurut kata.",
+   "nasihat": "Jangan ikut ugutan; beritahu orang dewasa.",
+   "dialog_baba": [
+    "Ugutan ibarat petir yang menakutkan.",
+    "Tapi petir tak boleh mengalahkan keberanian kamu!"
+   ]
+  },
+  {
+   "id": "IG116",
+   "kategori": "Ugutan",
+   "ikon": "jenayah",
+   "tajuk": "Ugutan ialah jenayah",
+   "fakta": "Mengugut kanak-kanak ialah jenayah.",
+   "nasihat": "Laporkan ugutan kepada orang dewasa dan polis.",
+   "dialog_baba": [
+    "Orang yang mengugut sedang melakukan jenayah.",
+    "Kamu boleh melaporkannya!"
+   ]
+  },
+  {
+   "id": "IG117",
+   "kategori": "Ugutan",
+   "ikon": "gambar",
+   "tajuk": "Ugutan sebar gambar",
+   "fakta": "Pemangsa mungkin mengugut untuk menyebarkan gambar supaya kamu menghantar lebih banyak.",
+   "nasihat": "Jangan hantar apa-apa lagi dan beritahu orang dewasa.",
+   "dialog_baba": [
+    "Dia ugut nak sebar gambar?",
+    "Jangan ikut! Orang dewasa boleh membantu menghentikannya."
+   ]
+  },
+  {
+   "id": "IG118",
+   "kategori": "Ugutan",
+   "ikon": "marah",
+   "tajuk": "\"Kamu akan dimarahi\"",
+   "fakta": "Pemangsa menakutkan kamu dengan berkata kamu akan dimarahi.",
+   "nasihat": "Kamu tidak akan dihukum kerana meminta bantuan.",
+   "dialog_baba": [
+    "\"Nanti ibu bapa kamu marah!\"",
+    "Itu helah. Ibu bapa mahu kamu selamat."
+   ]
+  },
+  {
+   "id": "IG119",
+   "kategori": "Ugutan",
+   "ikon": "bukti",
+   "tajuk": "Simpan bukti ugutan",
+   "fakta": "Bukti ugutan membantu orang dewasa dan polis mengambil tindakan.",
+   "nasihat": "Ambil screenshot dan jangan balas.",
+   "dialog_baba": [
+    "Ugutan? Ambil screenshot dulu!",
+    "Bukti itu senjata kita."
+   ]
+  },
+  {
+   "id": "IG120",
+   "kategori": "Ugutan",
+   "ikon": "duit",
+   "tajuk": "Jangan bayar",
+   "fakta": "Membayar pengugut biasanya tidak menghentikan ugutan.",
+   "nasihat": "Jangan beri duit; beritahu orang dewasa.",
+   "dialog_baba": [
+    "Bayar supaya dia diam?",
+    "Tidak berkesan. Beritahu orang dewasa sekarang."
+   ]
+  },
+  {
+   "id": "IG121",
+   "kategori": "Ugutan",
+   "ikon": "keluarga",
+   "tajuk": "Ugutan terhadap keluarga",
+   "fakta": "Ugutan untuk mencederakan keluarga ialah serius dan perlu dilaporkan segera.",
+   "nasihat": "Beritahu orang dewasa dan hubungi 999 jika dalam bahaya.",
+   "dialog_baba": [
+    "Dia ugut keluarga kamu?",
+    "Ini serius. Beritahu orang dewasa sekarang juga."
+   ]
+  },
+  {
+   "id": "IG122",
+   "kategori": "Ugutan",
+   "ikon": "tidak bersalah",
+   "tajuk": "Mangsa, bukan pesalah",
+   "fakta": "Jika kamu diugut, kamu ialah mangsa, bukan pesalah.",
+   "nasihat": "Minta bantuan tanpa rasa malu.",
+   "dialog_baba": [
+    "Dengar sini: kamu tidak bersalah.",
+    "Yang salah ialah orang yang mengugut."
+   ]
+  },
+  {
+   "id": "IG123",
+   "kategori": "Ugutan",
+   "ikon": "block",
+   "tajuk": "Selepas melapor",
+   "fakta": "Selepas melapor, akaun pengugut boleh disekat dan disiasat.",
+   "nasihat": "Ikut nasihat orang dewasa selepas melapor.",
+   "dialog_baba": [
+    "Lepas lapor, apa jadi?",
+    "Orang dewasa akan bantu, dan akaun dia boleh disekat."
+   ]
+  },
+  {
+   "id": "IG124",
+   "kategori": "Ugutan",
+   "ikon": "berani",
+   "tajuk": "Keberanian",
+   "fakta": "Memberitahu orang dewasa ialah tindakan paling berani.",
+   "nasihat": "Kamu boleh mula dengan berkata, \"Saya perlukan bantuan.\"",
+   "dialog_baba": [
+    "Baba bangga dengan kamu!",
+    "Bercakap tentang ugutan memerlukan keberanian besar."
+   ]
+  },
+  {
+   "id": "IG125",
+   "kategori": "Dapatkan bantuan",
+   "ikon": "orang dewasa",
+   "tajuk": "Orang dewasa dipercayai",
+   "fakta": "Orang dewasa dipercayai ialah ibu bapa, penjaga, guru, kaunselor atau saudara yang melindungi kamu.",
+   "nasihat": "Senaraikan sekurang-kurangnya tiga orang dewasa yang kamu percayai.",
+   "dialog_baba": [
+    "Siapa pasukan pelindung kamu?",
+    "Jom kira! Satu, dua, tiga orang dewasa yang kamu percayai."
+   ]
+  },
+  {
+   "id": "IG126",
+   "kategori": "Dapatkan bantuan",
+   "ikon": "telefon",
+   "tajuk": "Talian Kasih 15999",
+   "fakta": "Talian Kasih 15999 menyediakan bantuan untuk kanak-kanak dan keluarga.",
+   "nasihat": "Simpan nombor 15999 dalam ingatan.",
+   "dialog_baba": [
+    "Satu-lima-sembilan-sembilan-sembilan!",
+    "Talian Kasih sedia membantu kamu."
+   ]
+  },
+  {
+   "id": "IG127",
+   "kategori": "Dapatkan bantuan",
+   "ikon": "whatsapp",
+   "tajuk": "WhatsApp Talian Kasih",
+   "fakta": "Talian Kasih juga boleh dihubungi melalui WhatsApp di 019-261 5999.",
+   "nasihat": "Gunakan WhatsApp jika sukar bercakap.",
+   "dialog_baba": [
+    "Takut nak bercakap?",
+    "Kamu boleh menaip mesej kepada Talian Kasih."
+   ]
+  },
+  {
+   "id": "IG128",
+   "kategori": "Dapatkan bantuan",
+   "ikon": "siren",
+   "tajuk": "Kecemasan 999",
+   "fakta": "999 ialah nombor kecemasan di Malaysia.",
+   "nasihat": "Hubungi 999 jika kamu atau orang lain dalam bahaya.",
+   "dialog_baba": [
+    "Bahaya sekarang? Jangan tunggu!",
+    "Telefon 999 atau minta tolong orang dewasa berdekatan."
+   ]
+  },
+  {
+   "id": "IG129",
+   "kategori": "Dapatkan bantuan",
+   "ikon": "screenshot",
+   "tajuk": "Simpan bukti",
+   "fakta": "Screenshot yang menunjukkan nama akaun, mesej dan tarikh sangat berguna.",
+   "nasihat": "Ambil screenshot sebelum block.",
+   "dialog_baba": [
+    "Langkah pertama: tangkap bukti!",
+    "Klik screenshot, kemudian block."
+   ]
+  },
+  {
+   "id": "IG130",
+   "kategori": "Dapatkan bantuan",
+   "ikon": "block",
+   "tajuk": "Block",
+   "fakta": "Block menghalang orang itu menghubungi kamu.",
+   "nasihat": "Block orang yang membuat kamu tidak selesa.",
+   "dialog_baba": [
+    "Tekan block, dan dia tak boleh hantar mesej lagi!",
+    "Mudah dan berkesan."
+   ]
+  },
+  {
+   "id": "IG131",
+   "kategori": "Dapatkan bantuan",
+   "ikon": "bendera",
+   "tajuk": "Report",
+   "fakta": "Report memberitahu pihak aplikasi tentang tingkah laku yang salah.",
+   "nasihat": "Laporkan akaun yang mencurigakan.",
+   "dialog_baba": [
+    "Report membantu melindungi kanak-kanak lain juga.",
+    "Kamu wira keselamatan!"
+   ]
+  },
+  {
+   "id": "IG132",
+   "kategori": "Dapatkan bantuan",
+   "ikon": "langkah",
+   "tajuk": "Tiga langkah penting",
+   "fakta": "Simpan bukti, block, dan beritahu orang dewasa.",
+   "nasihat": "Ingat: Simpan, Sekat, Cerita.",
+   "dialog_baba": [
+    "Baba ajar mantera keselamatan!",
+    "Simpan. Sekat. Cerita!"
+   ]
+  },
+  {
+   "id": "IG133",
+   "kategori": "Dapatkan bantuan",
+   "ikon": "ayat",
+   "tajuk": "Cara mula bercerita",
+   "fakta": "Kamu boleh mula dengan ayat mudah seperti \"Ada sesuatu yang buat saya risau.\"",
+   "nasihat": "Latih ayat itu supaya mudah diucapkan.",
+   "dialog_baba": [
+    "Tak tahu nak mula macam mana?",
+    "Cuba ini: \"Ibu, saya nak cerita sesuatu yang buat saya risau.\""
+   ]
+  },
+  {
+   "id": "IG134",
+   "kategori": "Dapatkan bantuan",
+   "ikon": "ulang",
+   "tajuk": "Beritahu lagi",
+   "fakta": "Jika orang dewasa pertama tidak membantu, beritahu orang dewasa lain.",
+   "nasihat": "Teruskan sehingga ada yang membantu.",
+   "dialog_baba": [
+    "Orang pertama tak faham?",
+    "Jangan putus asa! Cari orang dewasa lain."
+   ]
+  },
+  {
+   "id": "IG135",
+   "kategori": "Dapatkan bantuan",
+   "ikon": "kaunselor",
+   "tajuk": "Kaunselor sekolah",
+   "fakta": "Kaunselor sekolah dilatih untuk mendengar dan membantu murid.",
+   "nasihat": "Jumpa kaunselor jika sukar bercerita di rumah.",
+   "dialog_baba": [
+    "Kaunselor sekolah pandai mendengar.",
+    "Pintu bilik kaunseling sentiasa terbuka untuk kamu."
+   ]
+  },
+  {
+   "id": "IG136",
+   "kategori": "Dapatkan bantuan",
+   "ikon": "guru",
+   "tajuk": "Guru",
+   "fakta": "Guru ialah orang dewasa yang boleh dipercayai di sekolah.",
+   "nasihat": "Beritahu guru kelas atau guru kegemaran kamu.",
+   "dialog_baba": [
+    "Cikgu kamu sayang anak muridnya!",
+    "Ceritakan kepadanya jika ada masalah."
+   ]
+  },
+  {
+   "id": "IG137",
+   "kategori": "Dapatkan bantuan",
+   "ikon": "polis",
+   "tajuk": "Polis melindungi kanak-kanak",
+   "fakta": "Polis membantu melindungi kanak-kanak yang menjadi mangsa.",
+   "nasihat": "Kamu tidak akan ditangkap kerana menjadi mangsa.",
+   "dialog_baba": [
+    "Topi polis Baba ada di sini!",
+    "Polis bertugas melindungi kamu."
+   ]
+  },
+  {
+   "id": "IG138",
+   "kategori": "Dapatkan bantuan",
+   "ikon": "tidak dihukum",
+   "tajuk": "Tidak dihukum kerana meminta bantuan",
+   "fakta": "Meminta bantuan tidak akan menyebabkan kamu dihukum.",
+   "nasihat": "Jangan biarkan rasa takut menghalang kamu.",
+   "dialog_baba": [
+    "Takut kena marah?",
+    "Orang dewasa lebih mahu kamu selamat."
+   ]
+  },
+  {
+   "id": "IG139",
+   "kategori": "Dapatkan bantuan",
+   "ikon": "kawan",
+   "tajuk": "Membantu kawan",
+   "fakta": "Kamu boleh membantu kawan dengan menemaninya berjumpa orang dewasa.",
+   "nasihat": "Dengar, sokong dan bawa kawan mendapatkan bantuan.",
+   "dialog_baba": [
+    "Kawan kamu takut?",
+    "Pegang tangannya dan pergi bersama berjumpa orang dewasa."
+   ]
+  },
+  {
+   "id": "IG140",
+   "kategori": "Dapatkan bantuan",
+   "ikon": "analisis",
+   "tajuk": "Analisis Baba",
+   "fakta": "Analisis Baba membantu kamu memahami apa yang berlaku dan langkah seterusnya.",
+   "nasihat": "Cuba Analisis Baba jika kamu tidak pasti.",
+   "dialog_baba": [
+    "Detektif Baba sedia menyiasat!",
+    "Jawab beberapa soalan dan Baba akan bantu."
+   ]
+  },
+  {
+   "id": "IG141",
+   "kategori": "Buli siber",
+   "ikon": "hati",
+   "tajuk": "Apa itu buli siber?",
+   "fakta": "Buli siber ialah menyakiti atau memalukan orang lain melalui internet.",
+   "nasihat": "Jangan sertai buli dan sokong mangsa.",
+   "dialog_baba": [
+    "Kata-kata di internet pun boleh melukakan hati.",
+    "Jom guna kata-kata yang baik."
+   ]
+  },
+  {
+   "id": "IG142",
+   "kategori": "Buli siber",
+   "ikon": "mulut",
+   "tajuk": "Jangan balas",
+   "fakta": "Membalas pembuli boleh memburukkan keadaan.",
+   "nasihat": "Simpan bukti, block dan beritahu orang dewasa.",
+   "dialog_baba": [
+    "Pembuli mahu reaksi kamu.",
+    "Jangan beri! Simpan bukti dan beritahu orang dewasa."
+   ]
+  },
+  {
+   "id": "IG143",
+   "kategori": "Buli siber",
+   "ikon": "perisai",
+   "tajuk": "Dibuli bukan salah mangsa",
+   "fakta": "Dibuli tidak pernah menjadi salah mangsa.",
+   "nasihat": "Ceritakan kepada orang dewasa.",
+   "dialog_baba": [
+    "Kamu tak layak dibuli.",
+    "Kamu berharga, apa pun yang mereka kata."
+   ]
+  },
+  {
+   "id": "IG144",
+   "kategori": "Buli siber",
+   "ikon": "saksi",
+   "tajuk": "Jadi saksi yang membantu",
+   "fakta": "Saksi yang bertindak boleh membantu menghentikan buli.",
+   "nasihat": "Beritahu orang dewasa atau hantar mesej sokongan kepada mangsa.",
+   "dialog_baba": [
+    "Nampak orang dibuli?",
+    "Kamu boleh jadi wira dengan memberitahu orang dewasa!"
+   ]
+  },
+  {
+   "id": "IG145",
+   "kategori": "Buli siber",
+   "ikon": "kongsi",
+   "tajuk": "Jangan kongsi",
+   "fakta": "Berkongsi mesej atau gambar buli menyebarkan kesakitan mangsa.",
+   "nasihat": "Jangan kongsi; laporkan.",
+   "dialog_baba": [
+    "Dapat gambar memalukan kawan?",
+    "Jangan kongsi! Laporkan dan padam."
+   ]
+  },
+  {
+   "id": "IG146",
+   "kategori": "Buli siber",
+   "ikon": "group",
+   "tajuk": "Group untuk mengejek",
+   "fakta": "Group yang dibuat untuk mengejek seseorang ialah buli siber.",
+   "nasihat": "Keluar dari group itu dan beritahu orang dewasa.",
+   "dialog_baba": [
+    "Group untuk kutuk orang?",
+    "Baba keluar dari group itu dan beritahu orang dewasa."
+   ]
+  },
+  {
+   "id": "IG147",
+   "kategori": "Buli siber",
+   "ikon": "khabar angin",
+   "tajuk": "Khabar angin",
+   "fakta": "Menyebarkan khabar angin tentang seseorang ialah buli.",
+   "nasihat": "Jangan sebarkan cerita yang tidak pasti benar.",
+   "dialog_baba": [
+    "Gosip terbang laju macam angin savana!",
+    "Kita hentikan di sini. Jangan sebarkan."
+   ]
+  },
+  {
+   "id": "IG148",
+   "kategori": "Buli siber",
+   "ikon": "troll",
+   "tajuk": "Troll",
+   "fakta": "Troll sengaja menulis perkara menyakitkan untuk mendapatkan reaksi.",
+   "nasihat": "Jangan layan; block sahaja.",
+   "dialog_baba": [
+    "Troll lapar reaksi kamu.",
+    "Jangan beri makan troll! Block sahaja."
+   ]
+  },
+  {
+   "id": "IG149",
+   "kategori": "Buli siber",
+   "ikon": "maaf",
+   "tajuk": "Pernah membuli?",
+   "fakta": "Sesiapa yang pernah membuli boleh berubah.",
+   "nasihat": "Minta maaf dan berbuat baik selepas ini.",
+   "dialog_baba": [
+    "Pernah tersilap kata?",
+    "Kita boleh minta maaf dan jadi lebih baik!"
+   ]
+  },
+  {
+   "id": "IG150",
+   "kategori": "Buli siber",
+   "ikon": "rehat",
+   "tajuk": "Berehat daripada skrin",
+   "fakta": "Berehat seketika daripada media sosial boleh membantu ketika dibuli.",
+   "nasihat": "Berehat dan ceritakan kepada orang dewasa.",
+   "dialog_baba": [
+    "Rasa penat dengan internet?",
+    "Rehat sekejap, keluar main di luar!"
+   ]
+  },
+  {
+   "id": "IG151",
+   "kategori": "Buli siber",
+   "ikon": "akaun palsu",
+   "tajuk": "Akaun palsu menyamar",
+   "fakta": "Membuat akaun palsu menggunakan nama orang lain ialah buli.",
+   "nasihat": "Laporkan akaun palsu kepada aplikasi.",
+   "dialog_baba": [
+    "Ada akaun menyamar jadi kamu?",
+    "Screenshot, laporkan dan beritahu ibu bapa."
+   ]
+  },
+  {
+   "id": "IG152",
+   "kategori": "Buli siber",
+   "ikon": "senyum",
+   "tajuk": "Baik di internet",
+   "fakta": "Kata-kata baik di internet boleh menggembirakan hari seseorang.",
+   "nasihat": "Fikir sebelum menaip: adakah ini baik?",
+   "dialog_baba": [
+    "Satu komen baik boleh buat orang tersenyum!",
+    "Jom tabur kebaikan di internet."
+   ]
+  },
+  {
+   "id": "IG153",
+   "kategori": "Buli siber",
+   "ikon": "maki",
+   "tajuk": "Kata kasar dalam game",
+   "fakta": "Kata kasar dalam game juga ialah buli.",
+   "nasihat": "Mute, block dan laporkan pemain tersebut.",
+   "dialog_baba": [
+    "Ada orang maki dalam game?",
+    "Mute dia dan teruskan main dengan gembira!"
+   ]
+  },
+  {
+   "id": "IG154",
+   "kategori": "Buli siber",
+   "ikon": "ugut",
+   "tajuk": "Buli yang mengancam",
+   "fakta": "Buli yang mengancam untuk mencederakan perlu dilaporkan segera.",
+   "nasihat": "Beritahu orang dewasa sekarang.",
+   "dialog_baba": [
+    "Buli yang ada ugutan?",
+    "Itu serius. Beritahu orang dewasa sekarang juga."
+   ]
+  },
+  {
+   "id": "IG155",
+   "kategori": "Penipuan",
+   "ikon": "hadiah",
+   "tajuk": "Menang hadiah palsu",
+   "fakta": "Mesej \"kamu menang hadiah\" tanpa menyertai apa-apa biasanya penipuan.",
+   "nasihat": "Jangan klik atau beri maklumat.",
+   "dialog_baba": [
+    "Tahniah, kamu menang?",
+    "Hmm, kamu tak sertai apa-apa pun. Itu penipuan!"
+   ]
+  },
+  {
+   "id": "IG156",
+   "kategori": "Penipuan",
+   "ikon": "pautan",
+   "tajuk": "Pautan palsu",
+   "fakta": "Pautan palsu boleh mencuri maklumat atau memasang virus.",
+   "nasihat": "Jangan klik pautan daripada orang yang tidak dikenali.",
+   "dialog_baba": [
+    "Pautan berkilat yang menarik?",
+    "Jangan klik! Tunjuk kepada orang dewasa."
+   ]
+  },
+  {
+   "id": "IG157",
+   "kategori": "Penipuan",
+   "ikon": "diamond",
+   "tajuk": "Diamond percuma",
+   "fakta": "Tawaran diamond atau item percuma yang meminta kata laluan ialah penipuan.",
+   "nasihat": "Jangan beri kata laluan untuk apa-apa tawaran.",
+   "dialog_baba": [
+    "Diamond percuma, cuma perlu kata laluan?",
+    "Itu perangkap! Jangan beri."
+   ]
+  },
+  {
+   "id": "IG158",
+   "kategori": "Penipuan",
+   "ikon": "murah",
+   "tajuk": "Terlalu murah",
+   "fakta": "Tawaran yang terlalu murah biasanya penipuan.",
+   "nasihat": "Tanya ibu bapa sebelum membeli.",
+   "dialog_baba": [
+    "Murah sangat? Pelik sangat!",
+    "Tanya ibu bapa dulu."
+   ]
+  },
+  {
+   "id": "IG159",
+   "kategori": "Penipuan",
+   "ikon": "amaran",
+   "tajuk": "Amaran virus palsu",
+   "fakta": "Mesej yang menyatakan telefon kamu ada virus selalunya palsu.",
+   "nasihat": "Tutup halaman dan jangan muat turun apa-apa.",
+   "dialog_baba": [
+    "\"Telefon kamu kena virus!\" Alamak?",
+    "Tenang. Itu biasanya palsu. Tutup sahaja."
+   ]
+  },
+  {
+   "id": "IG160",
+   "kategori": "Penipuan",
+   "ikon": "artis",
+   "tajuk": "Akaun artis palsu",
+   "fakta": "Akaun yang menyamar sebagai orang terkenal sering digunakan untuk menipu.",
+   "nasihat": "Jangan beri maklumat kepada akaun yang mendakwa terkenal.",
+   "dialog_baba": [
+    "YouTuber terkenal mesej kamu?",
+    "Mungkin akaun palsu. Berhati-hati!"
+   ]
+  },
+  {
+   "id": "IG161",
+   "kategori": "Penipuan",
+   "ikon": "borang",
+   "tajuk": "Borang hadiah",
+   "fakta": "Borang yang meminta maklumat peribadi untuk hadiah boleh menjadi penipuan.",
+   "nasihat": "Isi borang hanya dengan izin ibu bapa.",
+   "dialog_baba": [
+    "Borang panjang untuk hadiah?",
+    "Tunggu! Tanya ibu bapa dulu."
+   ]
+  },
+  {
+   "id": "IG162",
+   "kategori": "Penipuan",
+   "ikon": "kad",
+   "tajuk": "Maklumat bank",
+   "fakta": "Sesiapa yang meminta maklumat kad bank melalui chat ialah penipu.",
+   "nasihat": "Jangan hantar maklumat kad atau bank.",
+   "dialog_baba": [
+    "Minta gambar kad bank ibu?",
+    "Tidak sama sekali! Beritahu ibu bapa."
+   ]
+  },
+  {
+   "id": "IG163",
+   "kategori": "Penipuan",
+   "ikon": "tukar",
+   "tajuk": "Tukar akaun",
+   "fakta": "Menukar atau menjual akaun game boleh menyebabkan kamu hilang akaun.",
+   "nasihat": "Jangan tukar akaun dengan sesiapa.",
+   "dialog_baba": [
+    "Tukar akaun dengan orang asing?",
+    "Nanti akaun kamu hilang! Jangan ya."
+   ]
+  },
+  {
+   "id": "IG164",
+   "kategori": "Penipuan",
+   "ikon": "kawan",
+   "tajuk": "Akaun kawan dicuri",
+   "fakta": "Mesej pelik daripada akaun kawan mungkin datang daripada pencuri akaun.",
+   "nasihat": "Sahkan dengan kawan secara bersemuka.",
+   "dialog_baba": [
+    "Kawan hantar pautan pelik?",
+    "Mungkin akaunnya dicuri. Tanya dia secara bersemuka."
+   ]
+  },
+  {
+   "id": "IG165",
+   "kategori": "Penipuan",
+   "ikon": "pop-up",
+   "tajuk": "Iklan pop-up",
+   "fakta": "Iklan pop-up boleh membawa kepada laman berbahaya.",
+   "nasihat": "Tutup iklan tanpa menekannya.",
+   "dialog_baba": [
+    "Iklan melompat-lompat di skrin!",
+    "Tutup dengan butang X sahaja."
+   ]
+  },
+  {
+   "id": "IG166",
+   "kategori": "Penipuan",
+   "ikon": "soalan",
+   "tajuk": "Terlalu bagus untuk jadi kenyataan",
+   "fakta": "Jika sesuatu terlalu bagus untuk jadi kenyataan, ia mungkin penipuan.",
+   "nasihat": "Fikir dan tanya orang dewasa.",
+   "dialog_baba": [
+    "Peraturan emas Baba!",
+    "Terlalu bagus? Mungkin tipu!"
+   ]
+  },
+  {
+   "id": "IG167",
+   "kategori": "Game & media sosial",
+   "ikon": "umur",
+   "tajuk": "Had umur media sosial",
+   "fakta": "Kebanyakan aplikasi media sosial menetapkan umur minimum 13 tahun.",
+   "nasihat": "Ikut had umur dan berbincang dengan ibu bapa.",
+   "dialog_baba": [
+    "Ada sebab had umur wujud.",
+    "Ia untuk melindungi kanak-kanak seperti kamu."
+   ]
+  },
+  {
+   "id": "IG168",
+   "kategori": "Game & media sosial",
+   "ikon": "game",
+   "tajuk": "Had umur game",
+   "fakta": "Setiap game ada had umur yang menunjukkan kesesuaian kandungannya.",
+   "nasihat": "Pilih game yang sesuai dengan umur kamu.",
+   "dialog_baba": [
+    "Semak label umur game sebelum main.",
+    "Game yang sesuai lebih seronok dan selamat!"
+   ]
+  },
+  {
+   "id": "IG169",
+   "kategori": "Game & media sosial",
+   "ikon": "kawan sahaja",
+   "tajuk": "Chat \"kawan sahaja\"",
+   "fakta": "Tetapan chat \"kawan sahaja\" menghalang orang asing menghantar mesej.",
+   "nasihat": "Hidupkan tetapan ini dengan bantuan ibu bapa.",
+   "dialog_baba": [
+    "Satu tetapan kecil, satu perlindungan besar!",
+    "Pilih \"kawan sahaja\"."
+   ]
+  },
+  {
+   "id": "IG170",
+   "kategori": "Game & media sosial",
+   "ikon": "kunci",
+   "tajuk": "Akaun private",
+   "fakta": "Akaun private menghadkan siapa yang boleh melihat siaran kamu.",
+   "nasihat": "Tetapkan akaun kepada private.",
+   "dialog_baba": [
+    "Akaun private ibarat taman berpagar.",
+    "Hanya kawan yang kamu pilih boleh masuk."
+   ]
+  },
+  {
+   "id": "IG171",
+   "kategori": "Game & media sosial",
+   "ikon": "follow",
+   "tajuk": "Pengikut asing",
+   "fakta": "Orang asing yang mengikut akaun kamu boleh melihat siaran kamu jika akaun awam.",
+   "nasihat": "Buang pengikut yang tidak dikenali.",
+   "dialog_baba": [
+    "Ramai pengikut tak bermaksud ramai kawan.",
+    "Kawan sebenar ialah yang kamu kenal."
+   ]
+  },
+  {
+   "id": "IG172",
+   "kategori": "Game & media sosial",
+   "ikon": "trend",
+   "tajuk": "Cabaran berbahaya",
+   "fakta": "Sesetengah cabaran viral boleh menyebabkan kecederaan.",
+   "nasihat": "Jangan cuba cabaran hanya kerana ia popular.",
+   "dialog_baba": [
+    "Cabaran viral nampak seronok...",
+    "Tapi keselamatan kamu lebih penting daripada viral!"
+   ]
+  },
+  {
+   "id": "IG173",
+   "kategori": "Game & media sosial",
+   "ikon": "berita",
+   "tajuk": "Berita palsu",
+   "fakta": "Tidak semua yang dikongsi di internet adalah benar.",
+   "nasihat": "Semak dengan orang dewasa sebelum percaya atau berkongsi.",
+   "dialog_baba": [
+    "Benar ke berita ini?",
+    "Jom semak dengan orang dewasa dulu."
+   ]
+  },
+  {
+   "id": "IG174",
+   "kategori": "Game & media sosial",
+   "ikon": "komen",
+   "tajuk": "Komen pelik",
+   "fakta": "Komen yang tidak sesuai pada siaran kamu boleh dipadam dan dilaporkan.",
+   "nasihat": "Padam, block dan beritahu orang dewasa.",
+   "dialog_baba": [
+    "Komen pelik di video kamu?",
+    "Padam, block, beritahu. Selesai!"
+   ]
+  },
+  {
+   "id": "IG175",
+   "kategori": "Game & media sosial",
+   "ikon": "kahwin",
+   "tajuk": "\"Kahwin\" dalam game",
+   "fakta": "Permintaan berpasangan atau \"kahwin\" daripada orang asing dalam game boleh menjadi permulaan grooming.",
+   "nasihat": "Tolak dan beritahu orang dewasa.",
+   "dialog_baba": [
+    "Kahwin dalam game? Hmm...",
+    "Dengan orang asing, Baba kata tak perlu!"
+   ]
+  },
+  {
+   "id": "IG176",
+   "kategori": "Game & media sosial",
+   "ikon": "server",
+   "tajuk": "Server orang asing",
+   "fakta": "Server atau group besar mungkin mempunyai orang dewasa yang tidak dikenali.",
+   "nasihat": "Tanya ibu bapa sebelum menyertai.",
+   "dialog_baba": [
+    "Jemputan ke server misteri?",
+    "Tanya ibu bapa dulu ya."
+   ]
+  },
+  {
+   "id": "IG177",
+   "kategori": "Game & media sosial",
+   "ikon": "streaming",
+   "tajuk": "Streaming game",
+   "fakta": "Streaming boleh mendedahkan wajah, suara dan rumah kamu.",
+   "nasihat": "Jangan tunjuk muka atau maklumat peribadi semasa streaming.",
+   "dialog_baba": [
+    "Nak jadi streamer?",
+    "Bincang dengan ibu bapa dan jaga maklumat peribadi."
+   ]
+  },
+  {
+   "id": "IG178",
+   "kategori": "Game & media sosial",
+   "ikon": "beli",
+   "tajuk": "Pembelian dalam game",
+   "fakta": "Pembelian dalam game menggunakan wang sebenar.",
+   "nasihat": "Minta izin ibu bapa sebelum membeli.",
+   "dialog_baba": [
+    "Item berkilat dalam game itu guna duit betul!",
+    "Tanya ibu bapa dulu."
+   ]
+  },
+  {
+   "id": "IG179",
+   "kategori": "Game & media sosial",
+   "ikon": "iklan",
+   "tajuk": "Iklan dalam game",
+   "fakta": "Iklan dalam game boleh membawa ke laman yang tidak sesuai.",
+   "nasihat": "Jangan tekan iklan; tunjuk kepada ibu bapa.",
+   "dialog_baba": [
+    "Iklan pelik dalam game?",
+    "Jangan tekan. Tunjuk kepada ibu bapa."
+   ]
+  },
+  {
+   "id": "IG180",
+   "kategori": "Game & media sosial",
+   "ikon": "jam",
+   "tajuk": "Masa bermain",
+   "fakta": "Bermain terlalu lama boleh menjejaskan tidur, belajar dan kesihatan.",
+   "nasihat": "Tetapkan masa bermain bersama ibu bapa.",
+   "dialog_baba": [
+    "Satu lagi pusingan... satu lagi...",
+    "Eh, dah lewat! Jom rehat."
+   ]
+  },
+  {
+   "id": "IG181",
+   "kategori": "Game & media sosial",
+   "ikon": "dm",
+   "tajuk": "Mesej peribadi daripada orang asing",
+   "fakta": "Kamu tidak wajib membalas mesej peribadi daripada orang asing.",
+   "nasihat": "Abaikan, block atau beritahu orang dewasa.",
+   "dialog_baba": [
+    "DM daripada orang asing?",
+    "Tak perlu balas. Baba tak balas mesej misteri!"
+   ]
+  },
+  {
+   "id": "IG182",
+   "kategori": "Game & media sosial",
+   "ikon": "suka",
+   "tajuk": "Like bukan nilai diri",
+   "fakta": "Bilangan like tidak menentukan nilai diri kamu.",
+   "nasihat": "Hargai diri kamu tanpa bergantung pada like.",
+   "dialog_baba": [
+    "Like sedikit? Tak apa!",
+    "Kamu tetap hebat di mata Baba."
+   ]
+  },
+  {
+   "id": "IG183",
+   "kategori": "Sempadan diri",
+   "ikon": "pagar",
+   "tajuk": "Apa itu sempadan diri?",
+   "fakta": "Sempadan diri ialah had tentang apa yang membuat kamu selesa.",
+   "nasihat": "Kamu berhak menetapkan sempadan.",
+   "dialog_baba": [
+    "Setiap meerkat ada ruang peribadinya.",
+    "Kamu pun ada!"
+   ]
+  },
+  {
+   "id": "IG184",
+   "kategori": "Sempadan diri",
+   "ikon": "tangan",
+   "tajuk": "Berkata tidak",
+   "fakta": "Kamu berhak berkata tidak kepada sesiapa yang membuat kamu tidak selesa.",
+   "nasihat": "Katakan \"Tidak\" dengan jelas, kemudian beritahu orang dewasa.",
+   "dialog_baba": [
+    "Tak perlu beri alasan panjang.",
+    "Cukup kata \"Tidak, saya tak mahu.\""
+   ]
+  },
+  {
+   "id": "IG185",
+   "kategori": "Sempadan diri",
+   "ikon": "badan",
+   "tajuk": "Bahagian badan peribadi",
+   "fakta": "Bahagian badan peribadi ialah yang ditutup oleh pakaian dalam.",
+   "nasihat": "Tiada sesiapa boleh menyentuh, melihat atau mengambil gambarnya.",
+   "dialog_baba": [
+    "Badan kamu milik kamu.",
+    "Bahagian peribadi mesti dihormati semua orang."
+   ]
+  },
+  {
+   "id": "IG186",
+   "kategori": "Sempadan diri",
+   "ikon": "pelukan",
+   "tajuk": "Sentuhan selamat",
+   "fakta": "Sentuhan selamat membuat kamu rasa disayangi dan tidak perlu dirahsiakan.",
+   "nasihat": "Kenal pasti sentuhan yang membuat kamu selesa.",
+   "dialog_baba": [
+    "Pelukan ibu, tepukan bahu cikgu...",
+    "Itu sentuhan selamat yang hangat."
+   ]
+  },
+  {
+   "id": "IG187",
+   "kategori": "Sempadan diri",
+   "ikon": "tanda silang",
+   "tajuk": "Sentuhan tidak selamat",
+   "fakta": "Sentuhan tidak selamat membuat kamu takut, keliru atau disuruh berahsia.",
+   "nasihat": "Katakan tidak, pergi, dan beritahu orang dewasa.",
+   "dialog_baba": [
+    "Sentuhan yang buat kamu takut?",
+    "Jerit \"Jangan!\", lari, dan beritahu orang dewasa."
+   ]
+  },
+  {
+   "id": "IG188",
+   "kategori": "Sempadan diri",
+   "ikon": "doktor",
+   "tajuk": "Pemeriksaan doktor",
+   "fakta": "Doktor boleh memeriksa badan dengan ibu bapa atau penjaga ada bersama.",
+   "nasihat": "Tanya soalan jika kamu tidak faham.",
+   "dialog_baba": [
+    "Pemeriksaan doktor dibuat untuk kesihatan kamu.",
+    "Ibu bapa ada di sisi kamu."
+   ]
+  },
+  {
+   "id": "IG189",
+   "kategori": "Sempadan diri",
+   "ikon": "izin",
+   "tajuk": "Izin",
+   "fakta": "Izin bermaksud bertanya dahulu dan menghormati jawapan.",
+   "nasihat": "Tanya sebelum menyentuh atau mengambil gambar orang lain.",
+   "dialog_baba": [
+    "Boleh saya peluk? Boleh saya ambil gambar?",
+    "Bertanya itu tanda hormat!"
+   ]
+  },
+  {
+   "id": "IG190",
+   "kategori": "Sempadan diri",
+   "ikon": "salam",
+   "tajuk": "Tidak mahu dipeluk",
+   "fakta": "Kamu boleh menunjukkan hormat dengan cara lain seperti bersalam atau melambai.",
+   "nasihat": "Bincang dengan ibu bapa jika kamu tidak selesa.",
+   "dialog_baba": [
+    "Tak selesa dipeluk?",
+    "Lambaian dan senyuman pun tanda hormat!"
+   ]
+  },
+  {
+   "id": "IG191",
+   "kategori": "Sempadan diri",
+   "ikon": "pintu",
+   "tajuk": "Privasi badan",
+   "fakta": "Kamu berhak mendapat privasi semasa menukar pakaian dan di bilik air.",
+   "nasihat": "Minta privasi dengan sopan.",
+   "dialog_baba": [
+    "Bilik air dan bilik tukar baju ialah ruang privasi.",
+    "Kamu berhak dihormati."
+   ]
+  },
+  {
+   "id": "IG192",
+   "kategori": "Sempadan diri",
+   "ikon": "kawan",
+   "tajuk": "Kawan yang menghormati",
+   "fakta": "Kawan yang baik menghormati apabila kamu berkata tidak.",
+   "nasihat": "Jauhkan diri daripada kawan yang terus memaksa.",
+   "dialog_baba": [
+    "Kawan sejati faham bila kamu kata tidak.",
+    "Kalau dia terus paksa, itu bukan kawan yang baik."
+   ]
+  },
+  {
+   "id": "IG193",
+   "kategori": "Sempadan diri",
+   "ikon": "gambar",
+   "tajuk": "Gambar tanpa izin",
+   "fakta": "Mengambil gambar seseorang tanpa izin melanggar sempadan mereka.",
+   "nasihat": "Minta gambar dipadam dan beritahu orang dewasa jika perlu.",
+   "dialog_baba": [
+    "Ada orang ambil gambar kamu senyap-senyap?",
+    "Kamu boleh minta dia padam."
+   ]
+  },
+  {
+   "id": "IG194",
+   "kategori": "Sempadan diri",
+   "ikon": "hati",
+   "tajuk": "Perasaan sebagai panduan",
+   "fakta": "Perasaan kamu membantu menunjukkan bila sempadan dilanggar.",
+   "nasihat": "Dengar perasaan kamu dan bertindak.",
+   "dialog_baba": [
+    "Hati rasa tak sedap?",
+    "Itu tandanya sempadan kamu perlu dijaga."
+   ]
+  },
+  {
+   "id": "IG195",
+   "kategori": "Kesejahteraan digital",
+   "ikon": "bulan",
+   "tajuk": "Telefon dan tidur",
+   "fakta": "Menggunakan skrin sebelum tidur boleh mengganggu tidur.",
+   "nasihat": "Simpan telefon di luar bilik tidur pada waktu malam.",
+   "dialog_baba": [
+    "Baba letak telefon jauh dari katil.",
+    "Tidur nyenyak, bangun ceria!"
+   ]
+  },
+  {
+   "id": "IG196",
+   "kategori": "Kesejahteraan digital",
+   "ikon": "mata",
+   "tajuk": "Rehatkan mata",
+   "fakta": "Melihat skrin terlalu lama boleh memenatkan mata.",
+   "nasihat": "Setiap 20 minit, lihat sesuatu yang jauh selama 20 saat.",
+   "dialog_baba": [
+    "Mata pun perlu rehat!",
+    "Jom pandang ke luar tingkap sekejap."
+   ]
+  },
+  {
+   "id": "IG197",
+   "kategori": "Kesejahteraan digital",
+   "ikon": "lari",
+   "tajuk": "Bergerak aktif",
+   "fakta": "Bergerak dan bermain di luar baik untuk badan dan minda.",
+   "nasihat": "Seimbangkan masa skrin dengan aktiviti fizikal.",
+   "dialog_baba": [
+    "Meerkat suka berlari di savana!",
+    "Jom keluar dan bergerak!"
+   ]
+  },
+  {
+   "id": "IG198",
+   "kategori": "Kesejahteraan digital",
+   "ikon": "nafas",
+   "tajuk": "Tarik nafas",
+   "fakta": "Pernafasan perlahan membantu menenangkan diri ketika risau.",
+   "nasihat": "Tarik nafas 4 saat, tahan 4 saat, hembus 4 saat.",
+   "dialog_baba": [
+    "Jom bernafas bersama Baba!",
+    "Tarik... tahan... hembus... Bagus!"
+   ]
+  },
+  {
+   "id": "IG199",
+   "kategori": "Kesejahteraan digital",
+   "ikon": "keluarga",
+   "tajuk": "Masa keluarga",
+   "fakta": "Masa bersama keluarga tanpa skrin menguatkan hubungan.",
+   "nasihat": "Buat aktiviti tanpa skrin bersama keluarga.",
+   "dialog_baba": [
+    "Makan malam tanpa telefon?",
+    "Jom berbual dan ketawa bersama keluarga!"
+   ]
+  },
+  {
+   "id": "IG200",
+   "kategori": "Kesejahteraan digital",
+   "ikon": "senyum",
+   "tajuk": "Perasaan online",
+   "fakta": "Apa yang kita lihat di internet boleh mempengaruhi perasaan.",
+   "nasihat": "Berehat jika internet membuat kamu sedih atau risau.",
+   "dialog_baba": [
+    "Internet buat kamu rasa tak seronok?",
+    "Rehat sekejap. Perasaan kamu penting."
+   ]
+  }
+ ]
+}

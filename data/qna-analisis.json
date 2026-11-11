@@ -1,0 +1,1592 @@
+{
+ "fasa": {
+  "1": "Dunia online kamu",
+  "2": "Kawan dalam talian",
+  "3": "Pengalaman kamu",
+  "4": "Apa yang kamu buat",
+  "5": "Pengetahuan & perasaan"
+ },
+ "peraturan": [
+  "Jumlahkan skor semua jawapan (soalan 1 dan 2 tidak diberi skor; ia digunakan untuk tip aplikasi).",
+  "Skor 0–11: Hijau · 12–24: Kuning · 25–46: Oren · 47 ke atas: Merah (skor maksimum 152).",
+  "Jika mana-mana jawapan bertanda kritikal dipilih, keputusan terus menjadi Merah walau berapa pun skornya.",
+  "Jika mana-mana jawapan dalam Fasa 3 (Pengalaman) mempunyai skor 3 atau lebih, keputusan sekurang-kurangnya Oren.",
+  "Jika kanak-kanak menjawab 'Ya' pada soalan 50, tunjukkan butang ke skrin Saya Perlukan Bantuan walau apa pun tahapnya.",
+  "Skrin keputusan memaparkan nasihat tahap, kemudian sehingga 5 nasihat khusus daripada jawapan yang berskor paling tinggi, dan tip untuk aplikasi yang dipilih.",
+  "Ini alat pendidikan dan saringan awal, bukan penilaian profesional. Sebarang keputusan Oren atau Merah perlu dirujuk kepada orang dewasa yang dipercayai."
+ ],
+ "soalan": [
+  {
+   "id": "AB01",
+   "fasa": 1,
+   "nama_fasa": "Dunia online kamu",
+   "jenis": "banyak",
+   "soalan": "Aplikasi atau game apa yang kamu guna?",
+   "dialog_baba": "Detektif Baba nak tahu dunia online kamu! Pilih semua yang kamu guna.",
+   "pilihan": [
+    {
+     "teks": "Roblox",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": "Roblox ada tetapan privasi untuk mengehadkan siapa boleh chat dengan kamu. Minta ibu bapa tetapkan kepada kawan sahaja."
+    },
+    {
+     "teks": "Minecraft",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": "Main di server bersama kawan yang kamu kenal. Berhati-hati dengan server awam yang ramai orang asing."
+    },
+    {
+     "teks": "Free Fire / Mobile Legends",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": "Gunakan chat teks dengan orang asing, jangan buka mikrofon, dan jangan tukar akaun atau beri kata laluan."
+    },
+    {
+     "teks": "TikTok",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": "TikTok untuk umur 13 tahun ke atas. Jika digunakan, tetapkan akaun private dan matikan mesej daripada orang asing."
+    },
+    {
+     "teks": "YouTube",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": "Untuk kanak-kanak, YouTube Kids lebih sesuai. Jangan kongsi maklumat peribadi dalam ruangan komen."
+    },
+    {
+     "teks": "WhatsApp",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": "Simpan dan balas nombor yang kamu kenal sahaja. Keluar daripada group yang dimasukkan oleh orang asing."
+    },
+    {
+     "teks": "Instagram",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": "Instagram untuk umur 13 tahun ke atas. Gunakan akaun private dan buang pengikut yang tidak dikenali."
+    },
+    {
+     "teks": "Discord",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": "Discord untuk umur 13 tahun ke atas. Jangan sertai server yang dijemput oleh orang asing."
+    },
+    {
+     "teks": "Lain-lain",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": "Untuk apa-apa aplikasi, semak tetapan privasi bersama ibu bapa dan jangan kongsi maklumat peribadi."
+    }
+   ]
+  },
+  {
+   "id": "AB02",
+   "fasa": 1,
+   "nama_fasa": "Dunia online kamu",
+   "jenis": "satu",
+   "soalan": "Yang mana satu aplikasi kegemaran kamu?",
+   "dialog_baba": "Yang mana paling kamu suka? Baba pun ada kegemaran sendiri!",
+   "pilihan": [
+    {
+     "teks": "Roblox",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": "Roblox ada tetapan privasi untuk mengehadkan siapa boleh chat dengan kamu. Minta ibu bapa tetapkan kepada kawan sahaja."
+    },
+    {
+     "teks": "Minecraft",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": "Main di server bersama kawan yang kamu kenal. Berhati-hati dengan server awam yang ramai orang asing."
+    },
+    {
+     "teks": "Free Fire / Mobile Legends",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": "Gunakan chat teks dengan orang asing, jangan buka mikrofon, dan jangan tukar akaun atau beri kata laluan."
+    },
+    {
+     "teks": "TikTok",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": "TikTok untuk umur 13 tahun ke atas. Jika digunakan, tetapkan akaun private dan matikan mesej daripada orang asing."
+    },
+    {
+     "teks": "YouTube",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": "Untuk kanak-kanak, YouTube Kids lebih sesuai. Jangan kongsi maklumat peribadi dalam ruangan komen."
+    },
+    {
+     "teks": "WhatsApp",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": "Simpan dan balas nombor yang kamu kenal sahaja. Keluar daripada group yang dimasukkan oleh orang asing."
+    },
+    {
+     "teks": "Instagram",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": "Instagram untuk umur 13 tahun ke atas. Gunakan akaun private dan buang pengikut yang tidak dikenali."
+    },
+    {
+     "teks": "Discord",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": "Discord untuk umur 13 tahun ke atas. Jangan sertai server yang dijemput oleh orang asing."
+    },
+    {
+     "teks": "Lain-lain",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": "Untuk apa-apa aplikasi, semak tetapan privasi bersama ibu bapa dan jangan kongsi maklumat peribadi."
+    }
+   ]
+  },
+  {
+   "id": "AB03",
+   "fasa": 1,
+   "nama_fasa": "Dunia online kamu",
+   "jenis": "satu",
+   "soalan": "Peranti apa yang paling kerap kamu guna?",
+   "dialog_baba": "Kamu online guna apa?",
+   "pilihan": [
+    {
+     "teks": "Telefon sendiri",
+     "skor": 1,
+     "kritikal": false,
+     "nasihat": "Minta ibu bapa membantu memasang kawalan ibu bapa pada telefon kamu."
+    },
+    {
+     "teks": "Telefon atau tablet ibu bapa",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Komputer di rumah",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Komputer sekolah",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": "Sentiasa log keluar selepas menggunakan komputer sekolah."
+    }
+   ]
+  },
+  {
+   "id": "AB04",
+   "fasa": 1,
+   "nama_fasa": "Dunia online kamu",
+   "jenis": "satu",
+   "soalan": "Berapa lama kamu online setiap hari?",
+   "dialog_baba": "Hmm, berapa jam agaknya?",
+   "pilihan": [
+    {
+     "teks": "Kurang 1 jam",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "1 hingga 2 jam",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "3 hingga 4 jam",
+     "skor": 1,
+     "kritikal": false,
+     "nasihat": "Cuba kurangkan masa skrin dan berehat setiap jam."
+    },
+    {
+     "teks": "Lebih 4 jam",
+     "skor": 2,
+     "kritikal": false,
+     "nasihat": "Masa online yang lama boleh menjejaskan tidur dan pelajaran. Tetapkan had masa bersama ibu bapa."
+    }
+   ]
+  },
+  {
+   "id": "AB05",
+   "fasa": 1,
+   "nama_fasa": "Dunia online kamu",
+   "jenis": "satu",
+   "soalan": "Di mana kamu biasanya guna telefon atau komputer?",
+   "dialog_baba": "Kamu online di mana?",
+   "pilihan": [
+    {
+     "teks": "Di ruang tamu",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Dalam bilik, pintu terbuka",
+     "skor": 1,
+     "kritikal": false,
+     "nasihat": "Lebih selamat online di tempat yang ibu bapa boleh nampak."
+    },
+    {
+     "teks": "Dalam bilik, pintu tertutup",
+     "skor": 2,
+     "kritikal": false,
+     "nasihat": "Cuba guna peranti di ruang tamu supaya ibu bapa boleh membantu jika ada yang pelik."
+    }
+   ]
+  },
+  {
+   "id": "AB06",
+   "fasa": 1,
+   "nama_fasa": "Dunia online kamu",
+   "jenis": "satu",
+   "soalan": "Pukul berapa paling lewat kamu online?",
+   "dialog_baba": "Detektif Baba periksa jam...",
+   "pilihan": [
+    {
+     "teks": "Sebelum 9 malam",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Antara 9 hingga 11 malam",
+     "skor": 1,
+     "kritikal": false,
+     "nasihat": "Simpan telefon jauh dari katil pada waktu malam."
+    },
+    {
+     "teks": "Selepas 11 malam",
+     "skor": 2,
+     "kritikal": false,
+     "nasihat": "Mesej lewat malam lebih berisiko dan mengganggu tidur. Simpan telefon di luar bilik pada waktu malam."
+    }
+   ]
+  },
+  {
+   "id": "AB07",
+   "fasa": 1,
+   "nama_fasa": "Dunia online kamu",
+   "jenis": "satu",
+   "soalan": "Adakah ibu bapa tahu aplikasi yang kamu guna?",
+   "dialog_baba": "Ibu bapa kamu tahu tak?",
+   "pilihan": [
+    {
+     "teks": "Ya, semua",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Sebahagian",
+     "skor": 1,
+     "kritikal": false,
+     "nasihat": "Tunjukkan semua aplikasi kamu kepada ibu bapa supaya mereka boleh membantu."
+    },
+    {
+     "teks": "Tidak tahu langsung",
+     "skor": 2,
+     "kritikal": false,
+     "nasihat": "Beritahu ibu bapa aplikasi yang kamu guna. Mereka pelindung kamu, bukan musuh!"
+    }
+   ]
+  },
+  {
+   "id": "AB08",
+   "fasa": 1,
+   "nama_fasa": "Dunia online kamu",
+   "jenis": "satu",
+   "soalan": "Akaun media sosial atau game kamu private atau awam?",
+   "dialog_baba": "Pintu akaun kamu terbuka atau berkunci?",
+   "pilihan": [
+    {
+     "teks": "Private",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Awam",
+     "skor": 2,
+     "kritikal": false,
+     "nasihat": "Tukar akaun kepada private supaya orang asing tidak dapat melihat siaran kamu."
+    },
+    {
+     "teks": "Tak tahu",
+     "skor": 1,
+     "kritikal": false,
+     "nasihat": "Semak tetapan privasi bersama ibu bapa."
+    }
+   ]
+  },
+  {
+   "id": "AB09",
+   "fasa": 1,
+   "nama_fasa": "Dunia online kamu",
+   "jenis": "satu",
+   "soalan": "Gambar profil kamu macam mana?",
+   "dialog_baba": "Baba nak tengok gambar profil kamu!",
+   "pilihan": [
+    {
+     "teks": "Avatar atau kartun",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Gambar muka saya",
+     "skor": 2,
+     "kritikal": false,
+     "nasihat": "Tukar gambar profil kepada avatar untuk melindungi wajah kamu."
+    },
+    {
+     "teks": "Gambar dengan baju sekolah",
+     "skor": 3,
+     "kritikal": false,
+     "nasihat": "Baju sekolah boleh menunjukkan sekolah kamu. Tukar kepada avatar segera."
+    }
+   ]
+  },
+  {
+   "id": "AB10",
+   "fasa": 1,
+   "nama_fasa": "Dunia online kamu",
+   "jenis": "satu",
+   "soalan": "Nama pengguna (username) kamu macam mana?",
+   "dialog_baba": "Apa nama samaran kamu?",
+   "pilihan": [
+    {
+     "teks": "Nama samaran",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Nama pertama saya",
+     "skor": 1,
+     "kritikal": false,
+     "nasihat": "Gunakan nama samaran yang tidak menunjukkan nama sebenar."
+    },
+    {
+     "teks": "Nama penuh saya",
+     "skor": 2,
+     "kritikal": false,
+     "nasihat": "Nama penuh memudahkan orang asing mencari kamu. Tukar kepada nama samaran."
+    }
+   ]
+  },
+  {
+   "id": "AB11",
+   "fasa": 2,
+   "nama_fasa": "Kawan dalam talian",
+   "jenis": "satu",
+   "soalan": "Dengan siapa kamu selalu berbual online?",
+   "dialog_baba": "Siapa kawan sembang kamu?",
+   "pilihan": [
+    {
+     "teks": "Kawan dan keluarga yang saya kenal",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Kawan yang saya kenal dalam game sahaja",
+     "skor": 2,
+     "kritikal": false,
+     "nasihat": "Kawan dalam game tetap orang yang belum kamu kenal. Jangan kongsi maklumat peribadi."
+    },
+    {
+     "teks": "Orang baharu hampir setiap hari",
+     "skor": 3,
+     "kritikal": false,
+     "nasihat": "Berbual dengan ramai orang asing meningkatkan risiko. Tetapkan chat kepada kawan sahaja."
+    }
+   ]
+  },
+  {
+   "id": "AB12",
+   "fasa": 2,
+   "nama_fasa": "Kawan dalam talian",
+   "jenis": "satu",
+   "soalan": "Berapa ramai kawan dalam talian yang kamu tak pernah jumpa dalam kehidupan sebenar?",
+   "dialog_baba": "Kawan dalam talian kamu ramai ke?",
+   "pilihan": [
+    {
+     "teks": "Tiada",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "1 atau 2 orang",
+     "skor": 1,
+     "kritikal": false,
+     "nasihat": "Ingat, kawan dalam talian yang tidak pernah dijumpai tetap orang yang belum dikenali."
+    },
+    {
+     "teks": "Ramai",
+     "skor": 2,
+     "kritikal": false,
+     "nasihat": "Semak senarai kawan bersama ibu bapa dan buang yang tidak dikenali."
+    }
+   ]
+  },
+  {
+   "id": "AB13",
+   "fasa": 2,
+   "nama_fasa": "Kawan dalam talian",
+   "jenis": "satu",
+   "soalan": "Ada orang dewasa yang kamu kenal dalam talian selalu bersembang dengan kamu?",
+   "dialog_baba": "Hmm, ini soalan penting...",
+   "pilihan": [
+    {
+     "teks": "Tidak",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Tak pasti umur dia",
+     "skor": 2,
+     "kritikal": false,
+     "nasihat": "Orang tidak dikenali boleh menipu umur. Beritahu ibu bapa tentang kawan ini."
+    },
+    {
+     "teks": "Ya",
+     "skor": 3,
+     "kritikal": false,
+     "nasihat": "Orang dewasa yang selalu bersembang rahsia dengan kanak-kanak ialah tanda amaran. Beritahu ibu bapa tentang dia."
+    }
+   ]
+  },
+  {
+   "id": "AB14",
+   "fasa": 2,
+   "nama_fasa": "Kawan dalam talian",
+   "jenis": "satu",
+   "soalan": "Adakah orang yang kamu tak kenal pernah menghantar mesej atau friend request dahulu?",
+   "dialog_baba": "Ada orang asing ketuk pintu?",
+   "pilihan": [
+    {
+     "teks": "Tidak pernah",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Kadang-kadang",
+     "skor": 1,
+     "kritikal": false,
+     "nasihat": "Abaikan atau tolak permintaan daripada orang yang tidak dikenali."
+    },
+    {
+     "teks": "Selalu",
+     "skor": 2,
+     "kritikal": false,
+     "nasihat": "Tetapkan akaun supaya hanya kawan boleh menghantar mesej."
+    }
+   ]
+  },
+  {
+   "id": "AB15",
+   "fasa": 2,
+   "nama_fasa": "Kawan dalam talian",
+   "jenis": "satu",
+   "soalan": "Ada kawan dalam talian ajak kamu berpindah ke aplikasi lain untuk berbual?",
+   "dialog_baba": "Aplikasi lain? Detektif Baba curiga...",
+   "pilihan": [
+    {
+     "teks": "Tidak",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Ya, tapi saya tak ikut",
+     "skor": 2,
+     "kritikal": false,
+     "nasihat": "Bagus kerana tidak ikut! Ajakan pindah aplikasi ialah tanda grooming. Beritahu ibu bapa."
+    },
+    {
+     "teks": "Ya, dan saya ikut",
+     "skor": 4,
+     "kritikal": false,
+     "nasihat": "Ajakan berpindah aplikasi ialah tanda grooming. Tunjukkan perbualan itu kepada ibu bapa."
+    }
+   ]
+  },
+  {
+   "id": "AB16",
+   "fasa": 2,
+   "nama_fasa": "Kawan dalam talian",
+   "jenis": "satu",
+   "soalan": "Ada kawan dalam talian kata dia \"satu-satunya orang yang faham kamu\"?",
+   "dialog_baba": "Kata-kata ini buat telinga Baba berdiri...",
+   "pilihan": [
+    {
+     "teks": "Tidak",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Ya",
+     "skor": 3,
+     "kritikal": false,
+     "nasihat": "Itu cara untuk memisahkan kamu daripada keluarga. Keluarga dan kawan sebenar juga faham kamu."
+    }
+   ]
+  },
+  {
+   "id": "AB17",
+   "fasa": 2,
+   "nama_fasa": "Kawan dalam talian",
+   "jenis": "satu",
+   "soalan": "Ada orang dalam talian memuji kamu berlebihan atau kata kamu \"matang\"?",
+   "dialog_baba": "Pujian manis atau perangkap?",
+   "pilihan": [
+    {
+     "teks": "Tidak",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Sekali-sekala",
+     "skor": 1,
+     "kritikal": false,
+     "nasihat": "Berhati-hati dengan pujian berlebihan daripada orang asing."
+    },
+    {
+     "teks": "Selalu",
+     "skor": 3,
+     "kritikal": false,
+     "nasihat": "Pujian berterusan dan kata \"matang\" ialah taktik grooming. Beritahu orang dewasa."
+    }
+   ]
+  },
+  {
+   "id": "AB18",
+   "fasa": 2,
+   "nama_fasa": "Kawan dalam talian",
+   "jenis": "satu",
+   "soalan": "Ada orang tidak dikenali tanya tentang sekolah, rumah atau umur kamu?",
+   "dialog_baba": "Soalan peribadi? Mari kita siasat!",
+   "pilihan": [
+    {
+     "teks": "Tidak",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Ya, tapi saya tak jawab",
+     "skor": 1,
+     "kritikal": false,
+     "nasihat": "Bagus! Teruskan menjaga maklumat peribadi kamu."
+    },
+    {
+     "teks": "Ya, dan saya jawab",
+     "skor": 3,
+     "kritikal": false,
+     "nasihat": "Maklumat itu boleh digunakan untuk mencari kamu. Beritahu ibu bapa supaya mereka boleh membantu."
+    }
+   ]
+  },
+  {
+   "id": "AB19",
+   "fasa": 2,
+   "nama_fasa": "Kawan dalam talian",
+   "jenis": "satu",
+   "soalan": "Ada orang tidak dikenali tanya bila kamu seorang diri di rumah?",
+   "dialog_baba": "Soalan ini sangat penting...",
+   "pilihan": [
+    {
+     "teks": "Tidak",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Ya",
+     "skor": 4,
+     "kritikal": false,
+     "nasihat": "Soalan ini ialah tanda bahaya besar. Beritahu ibu bapa dengan segera."
+    }
+   ]
+  },
+  {
+   "id": "AB20",
+   "fasa": 2,
+   "nama_fasa": "Kawan dalam talian",
+   "jenis": "satu",
+   "soalan": "Ada kawan dalam talian marah atau merajuk bila kamu tak balas?",
+   "dialog_baba": "Dia marah ke?",
+   "pilihan": [
+    {
+     "teks": "Tidak",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Ya",
+     "skor": 2,
+     "kritikal": false,
+     "nasihat": "Kamu tidak wajib membalas sesiapa. Orang yang membuat kamu rasa bersalah sedang cuba mengawal kamu."
+    }
+   ]
+  },
+  {
+   "id": "AB21",
+   "fasa": 3,
+   "nama_fasa": "Pengalaman kamu",
+   "jenis": "satu",
+   "soalan": "Pernahkah orang tidak dikenali minta kamu rahsiakan perbualan?",
+   "dialog_baba": "Rahsia? Lampu merah Baba berkelip!",
+   "pilihan": [
+    {
+     "teks": "Tidak pernah",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Ya",
+     "skor": 3,
+     "kritikal": false,
+     "nasihat": "Rahsia yang disuruh sorok daripada ibu bapa ialah tanda grooming. Ceritakan kepada orang dewasa."
+    }
+   ]
+  },
+  {
+   "id": "AB22",
+   "fasa": 3,
+   "nama_fasa": "Pengalaman kamu",
+   "jenis": "satu",
+   "soalan": "Pernahkah kamu dapat hadiah (diamond, kredit, barang) daripada orang tidak dikenali?",
+   "dialog_baba": "Hadiah misteri...",
+   "pilihan": [
+    {
+     "teks": "Tidak pernah",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Ya, tapi saya tolak",
+     "skor": 1,
+     "kritikal": false,
+     "nasihat": "Bijak! Teruskan menolak hadiah daripada orang asing."
+    },
+    {
+     "teks": "Ya, dan saya terima",
+     "skor": 3,
+     "kritikal": false,
+     "nasihat": "Hadiah boleh digunakan supaya kamu rasa terhutang budi. Beritahu ibu bapa tentang hadiah itu."
+    }
+   ]
+  },
+  {
+   "id": "AB23",
+   "fasa": 3,
+   "nama_fasa": "Pengalaman kamu",
+   "jenis": "satu",
+   "soalan": "Pernahkah orang tidak dikenali minta gambar kamu?",
+   "dialog_baba": "Detektif Baba perlu tahu ini...",
+   "pilihan": [
+    {
+     "teks": "Tidak pernah",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Ya, tapi saya tak hantar",
+     "skor": 3,
+     "kritikal": false,
+     "nasihat": "Tindakan yang betul! Beritahu orang dewasa tentang permintaan itu."
+    },
+    {
+     "teks": "Ya, dan saya dah hantar",
+     "skor": 6,
+     "kritikal": true,
+     "nasihat": "Kamu tidak bersalah. Jangan hantar lagi dan beritahu orang dewasa sekarang supaya mereka boleh membantu."
+    }
+   ]
+  },
+  {
+   "id": "AB24",
+   "fasa": 3,
+   "nama_fasa": "Pengalaman kamu",
+   "jenis": "satu",
+   "soalan": "Pernahkah kamu diajak video call atau buka kamera oleh orang tidak dikenali?",
+   "dialog_baba": "Kamera... hmm.",
+   "pilihan": [
+    {
+     "teks": "Tidak pernah",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Ya, tapi saya tolak",
+     "skor": 3,
+     "kritikal": false,
+     "nasihat": "Bagus kerana menolak! Beritahu ibu bapa tentang ajakan itu."
+    },
+    {
+     "teks": "Ya, dan saya ikut",
+     "skor": 6,
+     "kritikal": true,
+     "nasihat": "Beritahu orang dewasa sekarang. Kamu tidak salah, dan mereka boleh membantu kamu."
+    }
+   ]
+  },
+  {
+   "id": "AB25",
+   "fasa": 3,
+   "nama_fasa": "Pengalaman kamu",
+   "jenis": "satu",
+   "soalan": "Pernahkah kawan dalam talian ajak kamu berjumpa?",
+   "dialog_baba": "Ini soalan paling penting Baba...",
+   "pilihan": [
+    {
+     "teks": "Tidak pernah",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Ya, tapi saya tak pergi",
+     "skor": 4,
+     "kritikal": false,
+     "nasihat": "Keputusan yang sangat bijak! Beritahu ibu bapa tentang ajakan itu."
+    },
+    {
+     "teks": "Ya, saya dah pergi atau akan pergi",
+     "skor": 8,
+     "kritikal": true,
+     "nasihat": "Jangan pergi. Beritahu ibu bapa atau orang dewasa sekarang juga."
+    }
+   ]
+  },
+  {
+   "id": "AB26",
+   "fasa": 3,
+   "nama_fasa": "Pengalaman kamu",
+   "jenis": "satu",
+   "soalan": "Pernahkah kamu dapat mesej atau gambar yang buat kamu tak selesa?",
+   "dialog_baba": "Ada benda yang buat kamu rasa pelik?",
+   "pilihan": [
+    {
+     "teks": "Tidak pernah",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Sekali",
+     "skor": 2,
+     "kritikal": false,
+     "nasihat": "Itu bukan salah kamu. Simpan bukti dan beritahu orang dewasa."
+    },
+    {
+     "teks": "Banyak kali",
+     "skor": 4,
+     "kritikal": false,
+     "nasihat": "Simpan bukti, sekat orang itu dan beritahu orang dewasa dengan segera."
+    }
+   ]
+  },
+  {
+   "id": "AB27",
+   "fasa": 3,
+   "nama_fasa": "Pengalaman kamu",
+   "jenis": "satu",
+   "soalan": "Pernahkah orang tidak dikenali tanya tentang badan atau pakaian kamu?",
+   "dialog_baba": "Baba perlu tanya ini untuk keselamatan kamu.",
+   "pilihan": [
+    {
+     "teks": "Tidak pernah",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Ya",
+     "skor": 5,
+     "kritikal": true,
+     "nasihat": "Soalan seperti ini ialah tanda bahaya besar. Hentikan perbualan dan beritahu orang dewasa sekarang."
+    }
+   ]
+  },
+  {
+   "id": "AB28",
+   "fasa": 3,
+   "nama_fasa": "Pengalaman kamu",
+   "jenis": "satu",
+   "soalan": "Pernahkah seseorang dalam talian mengugut kamu?",
+   "dialog_baba": "Ugutan? Topi detektif Baba hampir jatuh!",
+   "pilihan": [
+    {
+     "teks": "Tidak pernah",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Ya",
+     "skor": 8,
+     "kritikal": true,
+     "nasihat": "Ugutan ialah jenayah dan ia bukan salah kamu. Jangan ikut kehendaknya. Simpan bukti dan beritahu orang dewasa sekarang."
+    }
+   ]
+  },
+  {
+   "id": "AB29",
+   "fasa": 3,
+   "nama_fasa": "Pengalaman kamu",
+   "jenis": "satu",
+   "soalan": "Pernahkah kamu dibuli dalam talian?",
+   "dialog_baba": "Ada orang jahat dengan kamu?",
+   "pilihan": [
+    {
+     "teks": "Tidak pernah",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Sekali",
+     "skor": 2,
+     "kritikal": false,
+     "nasihat": "Jangan balas. Simpan bukti, sekat dan beritahu orang dewasa."
+    },
+    {
+     "teks": "Selalu",
+     "skor": 4,
+     "kritikal": false,
+     "nasihat": "Buli berulang perlu dihentikan. Beritahu guru atau ibu bapa dan tunjukkan bukti."
+    }
+   ]
+  },
+  {
+   "id": "AB30",
+   "fasa": 3,
+   "nama_fasa": "Pengalaman kamu",
+   "jenis": "satu",
+   "soalan": "Pernahkah orang tidak dikenali tawar duit atau hadiah supaya kamu buat sesuatu?",
+   "dialog_baba": "Tawaran pelik...",
+   "pilihan": [
+    {
+     "teks": "Tidak pernah",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Ya",
+     "skor": 5,
+     "kritikal": true,
+     "nasihat": "Tawaran seperti ini ialah tanda bahaya. Jangan setuju dan beritahu orang dewasa sekarang."
+    }
+   ]
+  },
+  {
+   "id": "AB31",
+   "fasa": 4,
+   "nama_fasa": "Apa yang kamu buat",
+   "jenis": "satu",
+   "soalan": "Bila ada mesej pelik, apa yang kamu biasanya buat?",
+   "dialog_baba": "Apa langkah kamu, detektif muda?",
+   "pilihan": [
+    {
+     "teks": "Beritahu orang dewasa",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Block orang itu",
+     "skor": 1,
+     "kritikal": false,
+     "nasihat": "Bagus! Langkah seterusnya: beritahu orang dewasa juga."
+    },
+    {
+     "teks": "Abaikan sahaja",
+     "skor": 1,
+     "kritikal": false,
+     "nasihat": "Mengabaikan tidak salah, tetapi lebih baik block dan beritahu orang dewasa."
+    },
+    {
+     "teks": "Balas mesej itu",
+     "skor": 2,
+     "kritikal": false,
+     "nasihat": "Membalas boleh membuatkan dia terus menghubungi kamu. Lebih baik block dan beritahu orang dewasa."
+    },
+    {
+     "teks": "Ikut apa dia minta",
+     "skor": 4,
+     "kritikal": false,
+     "nasihat": "Kamu tidak perlu ikut sesiapa dalam talian. Berhenti dan beritahu orang dewasa."
+    }
+   ]
+  },
+  {
+   "id": "AB32",
+   "fasa": 4,
+   "nama_fasa": "Apa yang kamu buat",
+   "jenis": "satu",
+   "soalan": "Pernahkah kamu beritahu sesiapa tentang perkara online yang membuat kamu risau?",
+   "dialog_baba": "Kamu pernah bercerita?",
+   "pilihan": [
+    {
+     "teks": "Ya, kepada ibu bapa atau guru",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Kepada kawan sahaja",
+     "skor": 1,
+     "kritikal": false,
+     "nasihat": "Bagus kerana bercerita! Kawan juga boleh menemani kamu berjumpa orang dewasa."
+    },
+    {
+     "teks": "Tiada sesiapa",
+     "skor": 3,
+     "kritikal": false,
+     "nasihat": "Kamu tidak perlu menanggungnya seorang diri. Ceritakan kepada orang dewasa yang kamu percayai."
+    }
+   ]
+  },
+  {
+   "id": "AB33",
+   "fasa": 4,
+   "nama_fasa": "Apa yang kamu buat",
+   "jenis": "satu",
+   "soalan": "Kamu tahu cara block dan report?",
+   "dialog_baba": "Kemahiran detektif: block dan report!",
+   "pilihan": [
+    {
+     "teks": "Ya, saya pernah buat",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Tahu, tapi tak pernah buat",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Tak tahu",
+     "skor": 2,
+     "kritikal": false,
+     "nasihat": "Minta ibu bapa tunjukkan cara block dan report dalam aplikasi kamu."
+    }
+   ]
+  },
+  {
+   "id": "AB34",
+   "fasa": 4,
+   "nama_fasa": "Apa yang kamu buat",
+   "jenis": "satu",
+   "soalan": "Bila ada mesej tidak baik, adakah kamu simpan bukti (screenshot)?",
+   "dialog_baba": "Bukti ialah kunci kes!",
+   "pilihan": [
+    {
+     "teks": "Ya",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Tidak",
+     "skor": 1,
+     "kritikal": false,
+     "nasihat": "Ambil screenshot sebelum block supaya orang dewasa boleh membantu."
+    },
+    {
+     "teks": "Tak tahu caranya",
+     "skor": 1,
+     "kritikal": false,
+     "nasihat": "Minta orang dewasa tunjukkan cara mengambil screenshot."
+    }
+   ]
+  },
+  {
+   "id": "AB35",
+   "fasa": 4,
+   "nama_fasa": "Apa yang kamu buat",
+   "jenis": "satu",
+   "soalan": "Pernahkah kamu padam chat sebab disuruh oleh orang tidak dikenali?",
+   "dialog_baba": "Chat hilang? Mencurigakan...",
+   "pilihan": [
+    {
+     "teks": "Tidak",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Ya",
+     "skor": 3,
+     "kritikal": false,
+     "nasihat": "Orang yang menyuruh padam chat mungkin menyembunyikan bukti. Beritahu orang dewasa."
+    }
+   ]
+  },
+  {
+   "id": "AB36",
+   "fasa": 4,
+   "nama_fasa": "Apa yang kamu buat",
+   "jenis": "satu",
+   "soalan": "Bila diminta buat sesuatu yang tak selesa, adakah kamu rasa boleh berkata tidak?",
+   "dialog_baba": "Kamu berani kata tidak?",
+   "pilihan": [
+    {
+     "teks": "Ya",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Kadang-kadang",
+     "skor": 1,
+     "kritikal": false,
+     "nasihat": "Kamu sentiasa berhak berkata tidak. Latih ayat \"Tidak, saya tak mahu.\""
+    },
+    {
+     "teks": "Tidak",
+     "skor": 3,
+     "kritikal": false,
+     "nasihat": "Kamu berhak berkata tidak kepada sesiapa. Berbincang dengan orang dewasa tentang cara menolak dengan selamat."
+    }
+   ]
+  },
+  {
+   "id": "AB37",
+   "fasa": 4,
+   "nama_fasa": "Apa yang kamu buat",
+   "jenis": "satu",
+   "soalan": "Pernahkah kamu sorok aplikasi atau chat daripada ibu bapa?",
+   "dialog_baba": "Ada benda yang disorok?",
+   "pilihan": [
+    {
+     "teks": "Tidak",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Pernah",
+     "skor": 2,
+     "kritikal": false,
+     "nasihat": "Menyorok membuat ibu bapa sukar melindungi kamu. Cuba berterus terang."
+    },
+    {
+     "teks": "Selalu",
+     "skor": 3,
+     "kritikal": false,
+     "nasihat": "Jika ada sesuatu yang perlu disorok, mungkin ia tidak selamat. Ceritakan kepada orang dewasa."
+    }
+   ]
+  },
+  {
+   "id": "AB38",
+   "fasa": 4,
+   "nama_fasa": "Apa yang kamu buat",
+   "jenis": "satu",
+   "soalan": "Pernahkah kamu kongsi kata laluan?",
+   "dialog_baba": "Kata laluan, kata rahsia!",
+   "pilihan": [
+    {
+     "teks": "Tidak",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Dengan kawan",
+     "skor": 2,
+     "kritikal": false,
+     "nasihat": "Tukar kata laluan bersama ibu bapa dan jangan kongsi lagi."
+    },
+    {
+     "teks": "Dengan orang dalam talian",
+     "skor": 4,
+     "kritikal": false,
+     "nasihat": "Akaun kamu mungkin dalam bahaya. Beritahu ibu bapa dan tukar kata laluan segera."
+    }
+   ]
+  },
+  {
+   "id": "AB39",
+   "fasa": 4,
+   "nama_fasa": "Apa yang kamu buat",
+   "jenis": "satu",
+   "soalan": "Pernahkah kamu klik pautan atau muat turun fail daripada orang asing?",
+   "dialog_baba": "Pautan misteri...",
+   "pilihan": [
+    {
+     "teks": "Tidak",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Ya",
+     "skor": 2,
+     "kritikal": false,
+     "nasihat": "Beritahu ibu bapa supaya mereka boleh memeriksa peranti kamu. Jangan klik pautan daripada orang asing lagi."
+    }
+   ]
+  },
+  {
+   "id": "AB40",
+   "fasa": 4,
+   "nama_fasa": "Apa yang kamu buat",
+   "jenis": "satu",
+   "soalan": "Kalau ada masalah sekarang, kamu tahu siapa nak diberitahu?",
+   "dialog_baba": "Siapa pasukan pelindung kamu?",
+   "pilihan": [
+    {
+     "teks": "Ya",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Tak pasti",
+     "skor": 2,
+     "kritikal": false,
+     "nasihat": "Senaraikan tiga orang dewasa yang kamu percayai, contohnya ibu bapa, guru dan kaunselor."
+    },
+    {
+     "teks": "Tiada sesiapa",
+     "skor": 3,
+     "kritikal": false,
+     "nasihat": "Kamu boleh hubungi Talian Kasih 15999 atau berjumpa kaunselor sekolah."
+    }
+   ]
+  },
+  {
+   "id": "AB41",
+   "fasa": 5,
+   "nama_fasa": "Pengetahuan & perasaan",
+   "jenis": "satu",
+   "soalan": "Kamu tahu apa itu grooming?",
+   "dialog_baba": "Ujian pengetahuan detektif!",
+   "pilihan": [
+    {
+     "teks": "Ya",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Sedikit",
+     "skor": 1,
+     "kritikal": false,
+     "nasihat": "Jom belajar lagi di bahagian Pendidikan."
+    },
+    {
+     "teks": "Tidak",
+     "skor": 2,
+     "kritikal": false,
+     "nasihat": "Grooming ialah apabila seseorang berpura-pura baik untuk mengambil kesempatan. Jom belajar di bahagian Pendidikan."
+    }
+   ]
+  },
+  {
+   "id": "AB42",
+   "fasa": 5,
+   "nama_fasa": "Pengetahuan & perasaan",
+   "jenis": "satu",
+   "soalan": "Kamu tahu beza rahsia baik dan rahsia buruk?",
+   "dialog_baba": "Rahsia baik atau buruk?",
+   "pilihan": [
+    {
+     "teks": "Ya",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Tidak",
+     "skor": 2,
+     "kritikal": false,
+     "nasihat": "Rahsia baik akan diberitahu akhirnya dan menggembirakan orang. Rahsia buruk membuat kamu risau dan mesti diceritakan."
+    }
+   ]
+  },
+  {
+   "id": "AB43",
+   "fasa": 5,
+   "nama_fasa": "Pengetahuan & perasaan",
+   "jenis": "satu",
+   "soalan": "Pernahkah kamu belajar tentang keselamatan online?",
+   "dialog_baba": "Di mana kamu belajar?",
+   "pilihan": [
+    {
+     "teks": "Ya, di sekolah atau rumah",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Sedikit",
+     "skor": 1,
+     "kritikal": false,
+     "nasihat": "Teruskan belajar melalui kuiz dan infografik dalam aplikasi ini."
+    },
+    {
+     "teks": "Belum pernah",
+     "skor": 2,
+     "kritikal": false,
+     "nasihat": "Jom mula dengan bahagian Pendidikan dan Kuiz Pantas!"
+    }
+   ]
+  },
+  {
+   "id": "AB44",
+   "fasa": 5,
+   "nama_fasa": "Pengetahuan & perasaan",
+   "jenis": "satu",
+   "soalan": "Kamu tahu nombor Talian Kasih (15999) atau nombor kecemasan (999)?",
+   "dialog_baba": "Nombor penyelamat!",
+   "pilihan": [
+    {
+     "teks": "Ya, kedua-duanya",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Satu sahaja",
+     "skor": 1,
+     "kritikal": false,
+     "nasihat": "Ingat: Talian Kasih 15999 dan kecemasan 999."
+    },
+    {
+     "teks": "Tidak",
+     "skor": 2,
+     "kritikal": false,
+     "nasihat": "Ingat dua nombor ini: Talian Kasih 15999 dan kecemasan 999."
+    }
+   ]
+  },
+  {
+   "id": "AB45",
+   "fasa": 5,
+   "nama_fasa": "Pengetahuan & perasaan",
+   "jenis": "satu",
+   "soalan": "Adakah kamu rasa selamat bila online?",
+   "dialog_baba": "Baba nak tahu perasaan kamu.",
+   "pilihan": [
+    {
+     "teks": "Ya, sangat selamat",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Kadang-kadang",
+     "skor": 1,
+     "kritikal": false,
+     "nasihat": "Bila rasa tidak selamat, berhenti dan beritahu orang dewasa."
+    },
+    {
+     "teks": "Tidak",
+     "skor": 3,
+     "kritikal": false,
+     "nasihat": "Perasaan kamu penting. Ceritakan kepada orang dewasa apa yang membuat kamu rasa tidak selamat."
+    }
+   ]
+  },
+  {
+   "id": "AB46",
+   "fasa": 5,
+   "nama_fasa": "Pengetahuan & perasaan",
+   "jenis": "satu",
+   "soalan": "Ada apa-apa online yang membuat kamu takut sekarang?",
+   "dialog_baba": "Baba ada di sini untuk kamu.",
+   "pilihan": [
+    {
+     "teks": "Tidak",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Sedikit",
+     "skor": 2,
+     "kritikal": false,
+     "nasihat": "Ceritakan kepada orang dewasa supaya kamu tidak perlu takut seorang diri."
+    },
+    {
+     "teks": "Ya, sangat takut",
+     "skor": 5,
+     "kritikal": false,
+     "nasihat": "Kamu tidak keseorangan. Beritahu orang dewasa sekarang atau hubungi Talian Kasih 15999."
+    }
+   ]
+  },
+  {
+   "id": "AB47",
+   "fasa": 5,
+   "nama_fasa": "Pengetahuan & perasaan",
+   "jenis": "satu",
+   "soalan": "Pernahkah kamu susah tidur sebab sesuatu yang berlaku online?",
+   "dialog_baba": "Tidur kamu nyenyak tak?",
+   "pilihan": [
+    {
+     "teks": "Tidak",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Kadang-kadang",
+     "skor": 2,
+     "kritikal": false,
+     "nasihat": "Simpan telefon jauh dari katil dan ceritakan kerisauan kamu kepada ibu bapa."
+    },
+    {
+     "teks": "Selalu",
+     "skor": 3,
+     "kritikal": false,
+     "nasihat": "Susah tidur ialah tanda kamu memerlukan sokongan. Bercakap dengan ibu bapa atau kaunselor."
+    }
+   ]
+  },
+  {
+   "id": "AB48",
+   "fasa": 5,
+   "nama_fasa": "Pengetahuan & perasaan",
+   "jenis": "satu",
+   "soalan": "Adakah kamu rasa bersalah atau malu tentang sesuatu yang berlaku online?",
+   "dialog_baba": "Dengar sini baik-baik...",
+   "pilihan": [
+    {
+     "teks": "Tidak",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Ya",
+     "skor": 3,
+     "kritikal": false,
+     "nasihat": "Jika seseorang mengambil kesempatan terhadap kamu, itu bukan salah kamu. Kamu berhak mendapat bantuan."
+    }
+   ]
+  },
+  {
+   "id": "AB49",
+   "fasa": 5,
+   "nama_fasa": "Pengetahuan & perasaan",
+   "jenis": "satu",
+   "soalan": "Ada orang dewasa yang kamu percayai dan boleh diajak bercerita?",
+   "dialog_baba": "Siapa wira kamu?",
+   "pilihan": [
+    {
+     "teks": "Ya, ramai",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Seorang",
+     "skor": 1,
+     "kritikal": false,
+     "nasihat": "Bagus! Cuba fikirkan seorang lagi, seperti guru atau saudara."
+    },
+    {
+     "teks": "Tiada",
+     "skor": 3,
+     "kritikal": false,
+     "nasihat": "Kaunselor sekolah dan Talian Kasih 15999 sedia mendengar kamu."
+    }
+   ]
+  },
+  {
+   "id": "AB50",
+   "fasa": 5,
+   "nama_fasa": "Pengetahuan & perasaan",
+   "jenis": "satu",
+   "soalan": "Mahu Baba bantu kamu bercakap dengan orang dewasa sekarang?",
+   "dialog_baba": "Soalan terakhir! Baba sedia membantu.",
+   "pilihan": [
+    {
+     "teks": "Tidak perlu",
+     "skor": 0,
+     "kritikal": false,
+     "nasihat": null
+    },
+    {
+     "teks": "Mungkin",
+     "skor": 1,
+     "kritikal": false,
+     "nasihat": "Baba akan tunjukkan cara memulakan perbualan di skrin Bantuan."
+    },
+    {
+     "teks": "Ya",
+     "skor": 2,
+     "kritikal": false,
+     "nasihat": "Baba akan bawa kamu ke skrin Saya Perlukan Bantuan."
+    }
+   ]
+  }
+ ],
+ "keputusan": [
+  {
+   "tahap": "Hijau",
+   "label": "Selamat",
+   "warna": "#2BB673",
+   "reaksi": "Baba melompat gembira dan mengangguk",
+   "ringkasan": "Hebat! Kamu menggunakan internet dengan cara yang selamat dan bijak.",
+   "nasihat": [
+    "Teruskan menggunakan nama samaran dan akaun private.",
+    "Kekal berbual dengan orang yang kamu kenal dalam kehidupan sebenar.",
+    "Ceritakan kepada ibu bapa tentang aplikasi dan kawan dalam talian kamu.",
+    "Kongsi apa yang kamu tahu dengan kawan-kawan.",
+    "Main Kuiz Pantas untuk kumpul bintang!"
+   ],
+   "dialog": [
+    "Kes ditutup! Detektif Baba sangat bangga dengan kamu!",
+    "Kamu sudah tahu cara menjaga diri di internet.",
+    "Teruskan, dan ajak kawan-kawan belajar bersama!"
+   ],
+   "tindakan": [
+    "permainan",
+    "pendidikan"
+   ],
+   "infografik": [
+    "Maklumat peribadi",
+    "Kesejahteraan digital"
+   ],
+   "skor_min": 0,
+   "skor_max": 11,
+   "infografik_id": [
+    "IG001",
+    "IG002",
+    "IG003",
+    "IG004"
+   ]
+  },
+  {
+   "tahap": "Kuning",
+   "label": "Berhati-hati",
+   "warna": "#F5B700",
+   "reaksi": "Baba memegang dagu sambil berfikir",
+   "ringkasan": "Kamu kebanyakannya selamat, tetapi ada beberapa tabiat yang boleh diperbaiki.",
+   "nasihat": [
+    "Tukar akaun kepada private dan gambar profil kepada avatar.",
+    "Gunakan peranti di ruang tamu, bukan dalam bilik tertutup.",
+    "Jangan jawab soalan peribadi daripada orang tidak dikenali.",
+    "Simpan telefon jauh dari katil pada waktu malam.",
+    "Belajar tanda-tanda grooming di bahagian Pendidikan."
+   ],
+   "dialog": [
+    "Hmm... Detektif Baba jumpa beberapa petunjuk.",
+    "Tiada bahaya besar, tapi ada pintu yang belum berkunci.",
+    "Jom kita kunci bersama! Lihat nasihat Baba di bawah."
+   ],
+   "tindakan": [
+    "pendidikan"
+   ],
+   "infografik": [
+    "Maklumat peribadi",
+    "Kata laluan",
+    "Game & media sosial"
+   ],
+   "skor_min": 12,
+   "skor_max": 24,
+   "infografik_id": [
+    "IG001",
+    "IG002",
+    "IG003",
+    "IG004"
+   ]
+  },
+  {
+   "tahap": "Oren",
+   "label": "Risiko tinggi",
+   "warna": "#F07A1A",
+   "reaksi": "Baba berdiri tegak dengan telinga tegak, berwaspada",
+   "ringkasan": "Ada tanda amaran dalam pengalaman online kamu. Kamu perlu berbincang dengan orang dewasa.",
+   "nasihat": [
+    "Ceritakan kepada ibu bapa, guru atau kaunselor tentang kawan dalam talian yang membuat kamu ragu.",
+    "Simpan bukti dengan screenshot sebelum block.",
+    "Jangan berpindah ke aplikasi lain atau simpan rahsia dengan orang tidak dikenali.",
+    "Tolak hadiah dan jangan hantar gambar kepada sesiapa dalam talian.",
+    "Ingat nombor Talian Kasih 15999."
+   ],
+   "dialog": [
+    "Detektif Baba nampak beberapa lampu merah...",
+    "Ini bukan salah kamu, tapi kita perlukan bantuan orang dewasa.",
+    "Jom ceritakan kepada orang yang kamu percayai hari ini juga."
+   ],
+   "tindakan": [
+    "bantuan",
+    "pendidikan"
+   ],
+   "infografik": [
+    "Tanda amaran",
+    "Rahsia & hadiah",
+    "Dapatkan bantuan"
+   ],
+   "skor_min": 25,
+   "skor_max": 46,
+   "infografik_id": [
+    "IG053",
+    "IG054",
+    "IG055",
+    "IG056"
+   ]
+  },
+  {
+   "tahap": "Merah",
+   "label": "Bahaya: dapatkan bantuan sekarang",
+   "warna": "#D7262E",
+   "reaksi": "Baba memakai topi polis dan memeluk kamu",
+   "ringkasan": "Kamu mungkin berada dalam situasi bahaya. Kamu tidak salah, dan kamu berhak mendapat bantuan sekarang.",
+   "nasihat": [
+    "Berhenti membalas orang itu dan jangan hantar apa-apa lagi.",
+    "Jangan padam mesej; simpan sebagai bukti.",
+    "Beritahu ibu bapa, guru atau orang dewasa yang kamu percayai sekarang.",
+    "Hubungi Talian Kasih 15999 atau WhatsApp 019-261 5999.",
+    "Jika kamu dalam bahaya sekarang, hubungi 999."
+   ],
+   "dialog": [
+    "Detektif Baba sangat risau tentang kamu.",
+    "Dengar sini: ini BUKAN salah kamu. Kamu sangat berani kerana menjawab.",
+    "Jom tekan butang Bantuan. Baba akan tunjukkan siapa yang boleh menolong."
+   ],
+   "tindakan": [
+    "bantuan"
+   ],
+   "infografik": [
+    "Dapatkan bantuan",
+    "Ugutan"
+   ],
+   "skor_min": 47,
+   "skor_max": 152,
+   "infografik_id": [
+    "IG115",
+    "IG116",
+    "IG117",
+    "IG118"
+   ]
+  }
+ ]
+}

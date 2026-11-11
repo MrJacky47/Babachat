@@ -1,0 +1,16 @@
+{
+  "name": "Baba Chat",
+  "short_name": "Baba Chat",
+  "description": "Aplikasi pendidikan keselamatan online untuk kanak-kanak. Projek Kerja Sosial UniSZA, Kumpulan 10.",
+  "lang": "ms",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1B1A52",
+  "theme_color": "#1B1A52",
+  "icons": [
+    { "src": "assets/images/logo-babachat-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/images/logo-babachat-1024.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any" }
+  ]
+}

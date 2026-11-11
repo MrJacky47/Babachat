@@ -1,0 +1,1118 @@
+{
+ "kuiz_pantas": [
+  {
+   "id": "KP01",
+   "soalan": "Apakah maklumat yang selamat dikongsi dengan kawan dalam talian yang kamu tidak kenal?",
+   "pilihan": {
+    "A": "Nombor telefon",
+    "B": "Nama sekolah",
+    "C": "Alamat rumah",
+    "D": "Warna kegemaran"
+   },
+   "jawapan": "D",
+   "penerangan": "Warna kegemaran tidak boleh digunakan untuk mencari kamu. Alamat, sekolah dan nombor telefon mesti dirahsiakan."
+  },
+  {
+   "id": "KP02",
+   "soalan": "Kata laluan kamu boleh dikongsi dengan siapa?",
+   "pilihan": {
+    "A": "Kawan dalam game",
+    "B": "Kawan baik",
+    "C": "Sesiapa yang meminta",
+    "D": "Ibu bapa atau penjaga"
+   },
+   "jawapan": "D",
+   "penerangan": "Kata laluan hanya untuk kamu dan ibu bapa atau penjaga."
+  },
+  {
+   "id": "KP03",
+   "soalan": "Seseorang di internet berkata dia berumur 11 tahun. Apakah yang benar?",
+   "pilihan": {
+    "A": "Gambar profilnya membuktikan umurnya",
+    "B": "Orang dalam talian boleh menipu tentang umur",
+    "C": "Dia pasti berumur 11 tahun",
+    "D": "Semua orang dalam talian jujur"
+   },
+   "jawapan": "B",
+   "penerangan": "Sesiapa sahaja boleh menipu tentang umur, nama dan gambar di internet."
+  },
+  {
+   "id": "KP04",
+   "soalan": "Apakah maksud \"grooming\"?",
+   "pilihan": {
+    "A": "Belajar dalam talian",
+    "B": "Menyikat bulu haiwan peliharaan",
+    "C": "Bermain game bersama-sama",
+    "D": "Orang yang berniat jahat membina kepercayaan kanak-kanak untuk mengambil kesempatan"
+   },
+   "jawapan": "D",
+   "penerangan": "Grooming berlaku apabila seseorang berpura-pura baik untuk mendapatkan kepercayaan kamu supaya dia boleh mengambil kesempatan."
+  },
+  {
+   "id": "KP05",
+   "soalan": "Kawan dalam talian berkata, \"Jangan beritahu ibu bapa kamu tentang kita.\" Apakah yang patut kamu buat?",
+   "pilihan": {
+    "A": "Simpan rahsia itu",
+    "B": "Tanya kawan sekelas dahulu",
+    "C": "Beritahu ibu bapa atau orang dewasa yang dipercayai",
+    "D": "Padam aplikasi dan diam sahaja"
+   },
+   "jawapan": "C",
+   "penerangan": "Rahsia yang membuat kamu rasa tidak selesa ialah tanda bahaya. Beritahu orang dewasa yang kamu percayai."
+  },
+  {
+   "id": "KP06",
+   "soalan": "Seseorang yang kamu kenal dalam game mahu berjumpa. Apakah tindakan paling selamat?",
+   "pilihan": {
+    "A": "Jumpa di taman permainan",
+    "B": "Pergi seorang diri",
+    "C": "Beritahu ibu bapa dan jangan pergi",
+    "D": "Bawa kawan sebaya"
+   },
+   "jawapan": "C",
+   "penerangan": "Jangan berjumpa sesiapa yang dikenali dalam talian. Beritahu ibu bapa dengan segera."
+  },
+  {
+   "id": "KP07",
+   "soalan": "Apakah fungsi butang \"Block\" (sekat)?",
+   "pilihan": {
+    "A": "Menghalang orang itu menghubungi kamu",
+    "B": "Memadam akaun kamu",
+    "C": "Menambah kawan baharu",
+    "D": "Menghantar hadiah"
+   },
+   "jawapan": "A",
+   "penerangan": "Block menghalang orang itu menghantar mesej kepada kamu."
+  },
+  {
+   "id": "KP08",
+   "soalan": "Kawan dalam talian mahu memberi kredit game kepada kamu secara percuma. Mengapa perlu berhati-hati?",
+   "pilihan": {
+    "A": "Hadiah boleh digunakan supaya kamu rasa terhutang budi",
+    "B": "Hadiah tidak dibenarkan dalam game",
+    "C": "Hadiah sentiasa ikhlas",
+    "D": "Tiada sebab untuk berhati-hati"
+   },
+   "jawapan": "A",
+   "penerangan": "Pemangsa selalu memberi hadiah supaya kamu rasa perlu membalas budi. Beritahu orang dewasa."
+  },
+  {
+   "id": "KP09",
+   "soalan": "Gambar yang dihantar melalui internet...",
+   "pilihan": {
+    "A": "Hilang sendiri selepas sehari",
+    "B": "Boleh disimpan, di-screenshot dan dikongsi oleh orang lain",
+    "C": "Boleh dipadam sepenuhnya selama-lamanya",
+    "D": "Hanya dilihat oleh penerima"
+   },
+   "jawapan": "B",
+   "penerangan": "Sebaik sahaja gambar dihantar, kamu tidak boleh mengawal ke mana ia pergi."
+  },
+  {
+   "id": "KP10",
+   "soalan": "Kamu rasa tidak selesa dengan mesej seseorang. Perasaan itu...",
+   "pilihan": {
+    "A": "Penting dan patut didengar",
+    "B": "Patut diabaikan",
+    "C": "Tidak penting langsung",
+    "D": "Tanda kamu terlalu sensitif"
+   },
+   "jawapan": "A",
+   "penerangan": "Perasaan tidak selesa ialah loceng amaran dalam diri kamu. Dengarlah dan beritahu orang dewasa."
+  },
+  {
+   "id": "KP11",
+   "soalan": "Siapakah \"orang dewasa yang dipercayai\"?",
+   "pilihan": {
+    "A": "Pemain game yang hebat",
+    "B": "Ibu bapa, guru atau kaunselor sekolah",
+    "C": "Sesiapa yang lebih tua",
+    "D": "Orang yang baru dikenali dalam talian"
+   },
+   "jawapan": "B",
+   "penerangan": "Orang dewasa yang dipercayai ialah orang yang kamu kenal dalam kehidupan sebenar dan sentiasa melindungi kamu."
+  },
+  {
+   "id": "KP12",
+   "soalan": "Kata laluan manakah yang paling kuat?",
+   "pilihan": {
+    "A": "Meerkat!Lompat27",
+    "B": "123456",
+    "C": "nama kamu",
+    "D": "password"
+   },
+   "jawapan": "A",
+   "penerangan": "Kata laluan yang kuat menggabungkan huruf besar, huruf kecil, nombor dan simbol."
+  },
+  {
+   "id": "KP13",
+   "soalan": "Seseorang berkata, \"Kamu lebih matang daripada umur kamu.\" Ini mungkin...",
+   "pilihan": {
+    "A": "Pujian biasa sahaja",
+    "B": "Perkara yang sangat baik",
+    "C": "Tanda dia seorang guru",
+    "D": "Taktik grooming untuk membuat kamu rasa istimewa"
+   },
+   "jawapan": "D",
+   "penerangan": "Pujian berlebihan dan kata-kata \"kamu matang\" ialah taktik biasa pemangsa."
+  },
+  {
+   "id": "KP14",
+   "soalan": "Bilakah kamu patut melaporkan mesej yang membuat kamu takut?",
+   "pilihan": {
+    "A": "Selepas dia menghantar 10 mesej",
+    "B": "Selepas seminggu",
+    "C": "Secepat mungkin",
+    "D": "Tidak perlu lapor"
+   },
+   "jawapan": "C",
+   "penerangan": "Laporkan secepat mungkin. Kamu tidak akan dimarahi kerana meminta bantuan."
+  },
+  {
+   "id": "KP15",
+   "soalan": "Nombor Talian Kasih untuk mendapatkan bantuan ialah...",
+   "pilihan": {
+    "A": "15999",
+    "B": "12345",
+    "C": "911",
+    "D": "100"
+   },
+   "jawapan": "A",
+   "penerangan": "Talian Kasih 15999 boleh dihubungi untuk bantuan dan nasihat. Untuk kecemasan, hubungi 999."
+  },
+  {
+   "id": "KP16",
+   "soalan": "Nombor kecemasan di Malaysia ialah...",
+   "pilihan": {
+    "A": "999",
+    "B": "100",
+    "C": "15999",
+    "D": "911"
+   },
+   "jawapan": "A",
+   "penerangan": "Hubungi 999 jika kamu atau orang lain berada dalam bahaya."
+  },
+  {
+   "id": "KP17",
+   "soalan": "Kawan dalam talian meminta kamu bertukar ke aplikasi lain yang lebih \"rahsia\". Apakah maksudnya?",
+   "pilihan": {
+    "A": "Aplikasi lain lebih selamat",
+    "B": "Ini tanda amaran kerana dia mahu orang lain tidak nampak",
+    "C": "Dia mahu berbual dengan lebih seronok",
+    "D": "Tiada apa-apa maksud"
+   },
+   "jawapan": "B",
+   "penerangan": "Memindahkan perbualan ke tempat tersembunyi ialah tanda bahaya."
+  },
+  {
+   "id": "KP18",
+   "soalan": "Apakah yang patut kamu buat dengan pautan (link) pelik daripada orang asing?",
+   "pilihan": {
+    "A": "Klik untuk melihat",
+    "B": "Jangan klik dan beritahu orang dewasa",
+    "C": "Klik dua kali",
+    "D": "Hantar kepada kawan"
+   },
+   "jawapan": "B",
+   "penerangan": "Pautan pelik boleh mencuri maklumat atau membawa kamu ke laman yang tidak selamat."
+  },
+  {
+   "id": "KP19",
+   "soalan": "Seseorang mengugut untuk menyebarkan gambar kamu jika kamu tidak menurut kata. Apakah yang patut kamu buat?",
+   "pilihan": {
+    "A": "Padam semua dan berdiam diri",
+    "B": "Beritahu orang dewasa dan simpan bukti",
+    "C": "Beri dia wang",
+    "D": "Ikut kehendaknya"
+   },
+   "jawapan": "B",
+   "penerangan": "Jangan ikut ugutan. Simpan bukti, jangan balas dan beritahu orang dewasa. Ia bukan salah kamu."
+  },
+  {
+   "id": "KP20",
+   "soalan": "Mengapakah tidak selamat berkongsi lokasi secara langsung dengan orang yang tidak dikenali?",
+   "pilihan": {
+    "A": "Lokasi tidak penting",
+    "B": "Ia membazirkan bateri",
+    "C": "Game menjadi lambat",
+    "D": "Orang itu boleh tahu di mana kamu berada"
+   },
+   "jawapan": "D",
+   "penerangan": "Lokasi kamu ialah maklumat peribadi. Kongsi hanya dengan keluarga."
+  },
+  {
+   "id": "KP21",
+   "soalan": "Gambar profil yang paling selamat ialah...",
+   "pilihan": {
+    "A": "Gambar muka berpakaian sekolah",
+    "B": "Gambar avatar atau kartun",
+    "C": "Gambar bersama papan tanda sekolah",
+    "D": "Gambar di hadapan rumah"
+   },
+   "jawapan": "B",
+   "penerangan": "Avatar melindungi identiti kamu."
+  },
+  {
+   "id": "KP22",
+   "soalan": "Buli siber bermaksud...",
+   "pilihan": {
+    "A": "Menghantar ucapan hari jadi",
+    "B": "Bermain game bersama kawan",
+    "C": "Belajar menggunakan komputer",
+    "D": "Menyakiti atau memalukan orang lain melalui internet"
+   },
+   "jawapan": "D",
+   "penerangan": "Buli siber termasuk mengejek, mengugut atau menyebarkan gambar seseorang tanpa izin."
+  },
+  {
+   "id": "KP23",
+   "soalan": "Jika kawan kamu dibuli dalam talian, apakah tindakan terbaik?",
+   "pilihan": {
+    "A": "Ketawa bersama-sama",
+    "B": "Sokong kawan dan beritahu orang dewasa",
+    "C": "Abaikan sahaja",
+    "D": "Kongsi mesej itu kepada orang lain"
+   },
+   "jawapan": "B",
+   "penerangan": "Kawan yang baik membantu kawannya mendapatkan pertolongan."
+  },
+  {
+   "id": "KP24",
+   "soalan": "Kebanyakan aplikasi media sosial menetapkan umur minimum...",
+   "pilihan": {
+    "A": "8 tahun",
+    "B": "5 tahun",
+    "C": "21 tahun",
+    "D": "13 tahun"
+   },
+   "jawapan": "D",
+   "penerangan": "Kebanyakan aplikasi media sosial menetapkan umur minimum 13 tahun untuk melindungi kanak-kanak."
+  },
+  {
+   "id": "KP25",
+   "soalan": "Yang manakah \"rahsia buruk\"?",
+   "pilihan": {
+    "A": "Parti kejutan untuk kawan",
+    "B": "Kek kejutan untuk ayah",
+    "C": "Seseorang menyuruh kamu merahsiakan mesej yang membuat kamu tidak selesa",
+    "D": "Hadiah kejutan hari jadi ibu"
+   },
+   "jawapan": "C",
+   "penerangan": "Rahsia baik akan diberitahu akhirnya dan menggembirakan orang. Rahsia buruk membuat kamu takut atau risau."
+  },
+  {
+   "id": "KP26",
+   "soalan": "Kawan dalam talian bertanya, \"Kamu seorang diri di rumah ke?\" Apakah tindakan terbaik?",
+   "pilihan": {
+    "A": "Jangan jawab dan beritahu orang dewasa",
+    "B": "Beri alamat rumah",
+    "C": "Jawab \"Ya, ibu bapa saya keluar\"",
+    "D": "Hantar gambar rumah"
+   },
+   "jawapan": "A",
+   "penerangan": "Soalan sama ada kamu seorang diri ialah tanda bahaya."
+  },
+  {
+   "id": "KP27",
+   "soalan": "Apakah kegunaan screenshot (tangkap layar) jika ada mesej yang tidak baik?",
+   "pilihan": {
+    "A": "Menyimpan bukti",
+    "B": "Mencari kawan baharu",
+    "C": "Menukar kata laluan",
+    "D": "Memadam mesej"
+   },
+   "jawapan": "A",
+   "penerangan": "Bukti membantu orang dewasa dan pihak berkuasa mengambil tindakan."
+  },
+  {
+   "id": "KP28",
+   "soalan": "Seseorang dalam game menawarkan item percuma jika kamu memberi kata laluan. Ini ialah...",
+   "pilihan": {
+    "A": "Hadiah rasmi",
+    "B": "Penipuan",
+    "C": "Peraturan game",
+    "D": "Tawaran yang baik"
+   },
+   "jawapan": "B",
+   "penerangan": "Admin sebenar tidak akan meminta kata laluan kamu."
+  },
+  {
+   "id": "KP29",
+   "soalan": "Selepas kamu memberitahu orang dewasa tentang mesej yang menakutkan, kamu patut rasa...",
+   "pilihan": {
+    "A": "Malu",
+    "B": "Takut dimarahi",
+    "C": "Bersalah",
+    "D": "Bangga kerana berani"
+   },
+   "jawapan": "D",
+   "penerangan": "Meminta bantuan ialah tindakan yang berani dan bijak."
+  },
+  {
+   "id": "KP30",
+   "soalan": "Jika seorang dewasa melakukan grooming terhadap kanak-kanak, siapakah yang bersalah?",
+   "pilihan": {
+    "A": "Kanak-kanak itu",
+    "B": "Tiada sesiapa",
+    "C": "Orang dewasa itu",
+    "D": "Ibu bapa kanak-kanak"
+   },
+   "jawapan": "C",
+   "penerangan": "Orang dewasa itu yang bersalah, bukan kamu. Sentiasa."
+  },
+  {
+   "id": "KP31",
+   "soalan": "Tetapan akaun \"Private\" bermaksud...",
+   "pilihan": {
+    "A": "Hanya orang yang kamu terima boleh melihat siaran kamu",
+    "B": "Akaun kamu dipadam",
+    "C": "Akaun menjadi lebih laju",
+    "D": "Semua orang boleh melihat"
+   },
+   "jawapan": "A",
+   "penerangan": "Akaun private melindungi siaran kamu daripada orang asing."
+  },
+  {
+   "id": "KP32",
+   "soalan": "Kawan dalam talian meminta gambar kamu berpakaian sekolah. Apakah yang patut kamu buat?",
+   "pilihan": {
+    "A": "Hantar gambar yang kabur",
+    "B": "Tolak dan beritahu orang dewasa",
+    "C": "Hantar sahaja",
+    "D": "Hantar gambar kawan"
+   },
+   "jawapan": "B",
+   "penerangan": "Pakaian sekolah boleh menunjukkan sekolah kamu, dan permintaan gambar ialah tanda amaran."
+  },
+  {
+   "id": "KP33",
+   "soalan": "Yang manakah tanda bahawa kawan dalam talian mungkin seorang pemangsa?",
+   "pilihan": {
+    "A": "Dia bermain game yang sama",
+    "B": "Dia menggunakan avatar",
+    "C": "Dia suka kucing",
+    "D": "Dia cepat mahu menjadi kawan paling rapat dan meminta dirahsiakan"
+   },
+   "jawapan": "D",
+   "penerangan": "Mahu cepat rapat dan meminta rahsia ialah tanda grooming."
+  },
+  {
+   "id": "KP34",
+   "soalan": "Kamera web (webcam) patut...",
+   "pilihan": {
+    "A": "Dihalakan ke luar tingkap",
+    "B": "Ditutup apabila tidak digunakan",
+    "C": "Sentiasa dibuka",
+    "D": "Digunakan dengan orang asing"
+   },
+   "jawapan": "B",
+   "penerangan": "Menutup kamera menghalang orang lain melihat kamu tanpa izin."
+  },
+  {
+   "id": "KP35",
+   "soalan": "Apakah yang patut dibuat sebelum memuat turun aplikasi baharu?",
+   "pilihan": {
+    "A": "Kongsi kata laluan",
+    "B": "Tanya orang asing",
+    "C": "Muat turun terus",
+    "D": "Minta izin ibu bapa"
+   },
+   "jawapan": "D",
+   "penerangan": "Ibu bapa boleh menyemak sama ada aplikasi itu sesuai dan selamat."
+  },
+  {
+   "id": "KP36",
+   "soalan": "Seseorang berkata, \"Kalau kamu beritahu sesiapa, kamu yang akan susah.\" Ini ialah...",
+   "pilihan": {
+    "A": "Nasihat",
+    "B": "Ugutan untuk menakutkan kamu",
+    "C": "Gurauan",
+    "D": "Peraturan sekolah"
+   },
+   "jawapan": "B",
+   "penerangan": "Kamu tidak akan susah kerana meminta bantuan. Beritahu orang dewasa dengan segera."
+  },
+  {
+   "id": "KP37",
+   "soalan": "Di Malaysia, grooming kanak-kanak ialah...",
+   "pilihan": {
+    "A": "Salah di sekolah sahaja",
+    "B": "Satu jenayah di bawah Akta Kesalahan-Kesalahan Seksual Terhadap Kanak-Kanak 2017",
+    "C": "Dibenarkan",
+    "D": "Tiada kaitan dengan undang-undang"
+   },
+   "jawapan": "B",
+   "penerangan": "Undang-undang Malaysia melindungi kanak-kanak daripada grooming."
+  },
+  {
+   "id": "KP38",
+   "soalan": "Kawan dalam talian menghantar mesej lewat malam dan meminta kamu jangan tidur. Apakah yang patut kamu buat?",
+   "pilihan": {
+    "A": "Berhenti, tidur dan beritahu ibu bapa",
+    "B": "Terus berbual",
+    "C": "Beri nombor telefon",
+    "D": "Tukar kepada video call"
+   },
+   "jawapan": "A",
+   "penerangan": "Orang yang mahu berbual secara rahsia pada waktu malam ialah tanda bahaya."
+  },
+  {
+   "id": "KP39",
+   "soalan": "Kamu terlanjur memberi maklumat peribadi kepada orang asing. Apakah langkah terbaik?",
+   "pilihan": {
+    "A": "Diam dan berharap tiada apa-apa berlaku",
+    "B": "Beri lebih banyak maklumat",
+    "C": "Beritahu orang dewasa supaya mereka boleh membantu",
+    "D": "Buang telefon"
+   },
+   "jawapan": "C",
+   "penerangan": "Tidak mengapa, semua orang boleh tersilap. Yang penting, beritahu orang dewasa."
+  },
+  {
+   "id": "KP40",
+   "soalan": "Berapa lama kamu patut tunggu sebelum memberitahu orang dewasa apabila seseorang membuat kamu tidak selesa?",
+   "pilihan": {
+    "A": "Tidak perlu tunggu, beritahu segera",
+    "B": "Seminggu",
+    "C": "Sebulan",
+    "D": "Sehingga kamu besar"
+   },
+   "jawapan": "A",
+   "penerangan": "Lebih cepat kamu beritahu, lebih cepat kamu boleh dibantu."
+  }
+ ],
+ "babacard": [
+  {
+   "id": "BC01",
+   "kad": "Bermain game dalam talian bersama sepupu yang kamu kenal.",
+   "jawapan": "Selamat",
+   "penerangan": "Kamu mengenali sepupu kamu dalam kehidupan sebenar."
+  },
+  {
+   "id": "BC02",
+   "kad": "Orang asing meminta alamat rumah untuk menghantar hadiah.",
+   "jawapan": "Bahaya",
+   "penerangan": "Jangan beri alamat rumah. Beritahu ibu bapa."
+  },
+  {
+   "id": "BC03",
+   "kad": "Menggunakan nama samaran (nickname) dalam game.",
+   "jawapan": "Selamat",
+   "penerangan": "Nama samaran melindungi identiti sebenar kamu."
+  },
+  {
+   "id": "BC04",
+   "kad": "Kawan dalam talian meminta kamu merahsiakan perbualan kamu.",
+   "jawapan": "Bahaya",
+   "penerangan": "Permintaan untuk merahsiakan ialah tanda grooming."
+  },
+  {
+   "id": "BC05",
+   "kad": "Memberitahu guru tentang mesej yang menakutkan.",
+   "jawapan": "Selamat",
+   "penerangan": "Guru boleh membantu kamu kekal selamat."
+  },
+  {
+   "id": "BC06",
+   "kad": "Berkongsi kata laluan dengan kawan sekelas.",
+   "jawapan": "Bahaya",
+   "penerangan": "Kata laluan hanya untuk kamu dan ibu bapa atau penjaga."
+  },
+  {
+   "id": "BC07",
+   "kad": "Menutup kamera apabila tidak digunakan.",
+   "jawapan": "Selamat",
+   "penerangan": "Tiada sesiapa boleh melihat kamu tanpa izin."
+  },
+  {
+   "id": "BC08",
+   "kad": "Menerima permintaan kawan daripada orang yang tidak dikenali.",
+   "jawapan": "Bahaya",
+   "penerangan": "Terima hanya orang yang kamu kenal dalam kehidupan sebenar."
+  },
+  {
+   "id": "BC09",
+   "kad": "Bertanya ibu bapa sebelum memuat turun aplikasi.",
+   "jawapan": "Selamat",
+   "penerangan": "Ibu bapa boleh menyemak sama ada aplikasi itu sesuai."
+  },
+  {
+   "id": "BC10",
+   "kad": "Seseorang meminta video call ketika kamu seorang diri di dalam bilik.",
+   "jawapan": "Bahaya",
+   "penerangan": "Tolak, tamatkan perbualan dan beritahu orang dewasa."
+  },
+  {
+   "id": "BC11",
+   "kad": "Menggunakan avatar sebagai gambar profil.",
+   "jawapan": "Selamat",
+   "penerangan": "Avatar melindungi wajah dan identiti kamu."
+  },
+  {
+   "id": "BC12",
+   "kad": "Klik pautan \"Menang telefon baharu percuma!\"",
+   "jawapan": "Bahaya",
+   "penerangan": "Pautan seperti ini biasanya penipuan."
+  },
+  {
+   "id": "BC13",
+   "kad": "Menyekat (block) dan melaporkan orang yang berkata kasar.",
+   "jawapan": "Selamat",
+   "penerangan": "Block dan report melindungi kamu dan orang lain."
+  },
+  {
+   "id": "BC14",
+   "kad": "Kawan dalam talian berkata dia \"satu-satunya orang yang faham kamu\".",
+   "jawapan": "Bahaya",
+   "penerangan": "Dia cuba memisahkan kamu daripada keluarga dan kawan."
+  },
+  {
+   "id": "BC15",
+   "kad": "Menetapkan akaun kepada mod private.",
+   "jawapan": "Selamat",
+   "penerangan": "Hanya orang yang kamu terima boleh melihat siaran kamu."
+  },
+  {
+   "id": "BC16",
+   "kad": "Menghantar gambar diri kepada orang yang baru dikenali dalam talian.",
+   "jawapan": "Bahaya",
+   "penerangan": "Gambar boleh disimpan dan disebarkan tanpa izin kamu."
+  },
+  {
+   "id": "BC17",
+   "kad": "Berehat daripada skrin apabila rasa penat atau sedih.",
+   "jawapan": "Selamat",
+   "penerangan": "Rehat membantu minda dan badan kamu."
+  },
+  {
+   "id": "BC18",
+   "kad": "Orang asing menawarkan kredit game jika kamu membuka kamera.",
+   "jawapan": "Bahaya",
+   "penerangan": "Hadiah sebagai pertukaran ialah taktik pemangsa."
+  },
+  {
+   "id": "BC19",
+   "kad": "Mengambil screenshot mesej yang tidak baik sebagai bukti.",
+   "jawapan": "Selamat",
+   "penerangan": "Bukti membantu orang dewasa mengambil tindakan."
+  },
+  {
+   "id": "BC20",
+   "kad": "Berkongsi lokasi secara langsung di media sosial.",
+   "jawapan": "Bahaya",
+   "penerangan": "Orang asing boleh tahu di mana kamu berada."
+  },
+  {
+   "id": "BC21",
+   "kad": "Bersembang dengan Baba tentang perasaan kamu.",
+   "jawapan": "Selamat",
+   "penerangan": "Baba sentiasa ada untuk mendengar dan membantu."
+  },
+  {
+   "id": "BC22",
+   "kad": "Seseorang meminta kamu berpindah ke aplikasi lain yang \"lebih privasi\".",
+   "jawapan": "Bahaya",
+   "penerangan": "Dia mahu perbualan disorok daripada orang lain."
+  },
+  {
+   "id": "BC23",
+   "kad": "Menggunakan kata laluan yang berbeza untuk setiap akaun.",
+   "jawapan": "Selamat",
+   "penerangan": "Jika satu akaun dicuri, akaun lain masih selamat."
+  },
+  {
+   "id": "BC24",
+   "kad": "Kawan dalam talian mengajak berjumpa di pusat beli-belah tanpa ibu bapa.",
+   "jawapan": "Bahaya",
+   "penerangan": "Jangan berjumpa kawan dalam talian. Beritahu ibu bapa."
+  },
+  {
+   "id": "BC25",
+   "kad": "Bermain game di ruang tamu yang dapat dilihat oleh ibu bapa.",
+   "jawapan": "Selamat",
+   "penerangan": "Ibu bapa dapat membantu jika ada sesuatu yang pelik."
+  },
+  {
+   "id": "BC26",
+   "kad": "Seseorang mengugut untuk memberitahu ibu bapa kamu jika kamu tidak menurut katanya.",
+   "jawapan": "Bahaya",
+   "penerangan": "Itu ugutan. Kamu tidak akan dimarahi; beritahu orang dewasa sekarang."
+  },
+  {
+   "id": "BC27",
+   "kad": "Berkata \"Tidak\" kepada permintaan yang membuat kamu tidak selesa.",
+   "jawapan": "Selamat",
+   "penerangan": "Kamu berhak berkata tidak."
+  },
+  {
+   "id": "BC28",
+   "kad": "Memuat naik video berpakaian sekolah yang menunjukkan nama sekolah.",
+   "jawapan": "Bahaya",
+   "penerangan": "Nama sekolah boleh digunakan untuk mencari kamu."
+  },
+  {
+   "id": "BC29",
+   "kad": "Log keluar daripada komputer sekolah selepas digunakan.",
+   "jawapan": "Selamat",
+   "penerangan": "Orang lain tidak boleh menggunakan akaun kamu."
+  },
+  {
+   "id": "BC30",
+   "kad": "Seorang dewasa dalam talian terus bertanya tentang badan kamu.",
+   "jawapan": "Bahaya",
+   "penerangan": "Ini tanda bahaya besar. Hentikan perbualan dan beritahu orang dewasa."
+  },
+  {
+   "id": "BC31",
+   "kad": "Memberitahu ibu bapa siapa kawan dalam talian kamu.",
+   "jawapan": "Selamat",
+   "penerangan": "Ibu bapa boleh membantu menilai sama ada kawan itu selamat."
+  },
+  {
+   "id": "BC32",
+   "kad": "Membalas mesej buli dengan kata-kata kesat.",
+   "jawapan": "Bahaya",
+   "penerangan": "Membalas boleh memburukkan keadaan. Simpan bukti, block dan beritahu orang dewasa."
+  },
+  {
+   "id": "BC33",
+   "kad": "Menetapkan chat dalam game kepada \"kawan sahaja\".",
+   "jawapan": "Selamat",
+   "penerangan": "Orang asing tidak dapat menghantar mesej kepada kamu."
+  },
+  {
+   "id": "BC34",
+   "kad": "Membuka fail atau aplikasi yang dihantar oleh orang asing.",
+   "jawapan": "Bahaya",
+   "penerangan": "Fail asing boleh mengandungi virus atau mencuri maklumat."
+  },
+  {
+   "id": "BC35",
+   "kad": "Menyemak dengan ibu bapa sebelum mengisi borang online yang meminta maklumat peribadi.",
+   "jawapan": "Selamat",
+   "penerangan": "Ibu bapa boleh membantu memastikan laman itu selamat."
+  }
+ ],
+ "simulasi": [
+  {
+   "id": "SG01",
+   "tahap": "Berkenalan",
+   "mesej": "Hai! Kamu main game ni juga? Kamu darjah berapa, sekolah mana?",
+   "pilihan": {
+    "A": "Darjah 5. Awak sekolah mana pula?",
+    "B": "Saya tak kongsi maklumat sekolah. Jom main sahaja.",
+    "C": "Darjah 5, Sekolah Kebangsaan Taman Ilmu."
+   },
+   "jawapan": "B",
+   "maklum_balas": "Bagus! Nama sekolah boleh digunakan untuk mencari kamu, jadi ia mesti dirahsiakan."
+  },
+  {
+   "id": "SG02",
+   "tahap": "Berkenalan",
+   "mesej": "Saya pun 12 tahun! Kita sebaya. Kamu tinggal di mana?",
+   "pilihan": {
+    "A": "Saya tak beritahu tempat tinggal kepada kawan dalam talian.",
+    "B": "Saya tinggal di Terengganu, kawasan mana awak?",
+    "C": "Saya tinggal dekat masjid besar di Kuala Nerus."
+   },
+   "jawapan": "A",
+   "maklum_balas": "Tepat! Orang tidak dikenali boleh menipu umur, dan tempat tinggal ialah maklumat peribadi."
+  },
+  {
+   "id": "SG03",
+   "tahap": "Berkenalan",
+   "mesej": "Saya admin game ni. Bagi kata laluan kamu, saya nak naikkan level kamu.",
+   "pilihan": {
+    "A": "Admin sebenar tak akan minta kata laluan. Saya akan laporkan akaun ini.",
+    "B": "Ini kata laluan saya.",
+    "C": "Kalau boleh naik level, saya bagi."
+   },
+   "jawapan": "A",
+   "maklum_balas": "Betul! Sesiapa yang meminta kata laluan ialah penipu."
+  },
+  {
+   "id": "SG04",
+   "tahap": "Membina kepercayaan",
+   "mesej": "Kamu memang hebat main game ni. Kamu lebih matang daripada kawan-kawan saya!",
+   "pilihan": {
+    "A": "Terima kasih! Rasanya awak sahaja yang faham saya.",
+    "B": "Terima kasih. Jom teruskan main.",
+    "C": "Betul, saya memang matang. Tanyalah apa-apa pun."
+   },
+   "jawapan": "B",
+   "maklum_balas": "Pujian tidak salah, tetapi pujian berlebihan ialah taktik untuk membuat kamu rasa istimewa. Kekal berhati-hati."
+  },
+  {
+   "id": "SG05",
+   "tahap": "Membina kepercayaan",
+   "mesej": "Ibu bapa kamu selalu marah kamu ke? Saya faham perasaan kamu. Saya sentiasa ada untuk kamu.",
+   "pilihan": {
+    "A": "Saya lebih selesa bincang hal keluarga dengan orang yang saya kenal.",
+    "B": "Ya, mereka tak faham saya. Awak sahaja yang faham.",
+    "C": "Ceritalah, apa awak nak tahu?"
+   },
+   "jawapan": "A",
+   "maklum_balas": "Bagus! Pemangsa cuba menjadi \"satu-satunya orang yang faham kamu\"."
+  },
+  {
+   "id": "SG06",
+   "tahap": "Membina kepercayaan",
+   "mesej": "Kamu boleh cerita apa-apa pada saya. Saya lebih faham daripada guru kamu.",
+   "pilihan": {
+    "A": "Okey, saya cerita semuanya.",
+    "B": "Betul, awak lebih faham.",
+    "C": "Saya ada guru dan keluarga yang boleh saya ajak berbincang."
+   },
+   "jawapan": "C",
+   "maklum_balas": "Tepat! Orang dewasa yang kamu kenal dalam kehidupan sebenar ialah tempat terbaik untuk bercerita."
+  },
+  {
+   "id": "SG07",
+   "tahap": "Membina kepercayaan",
+   "mesej": "Kamu nampak sedih hari ni. Ceritalah, saya takkan beritahu sesiapa.",
+   "pilihan": {
+    "A": "Okey, saya cerita semua masalah keluarga saya.",
+    "B": "Saya sedih sebab ibu bapa saya selalu keluar malam.",
+    "C": "Saya akan bercerita dengan ibu atau guru saya."
+   },
+   "jawapan": "C",
+   "maklum_balas": "Bagus! Jangan kongsi masalah peribadi dengan orang yang hanya dikenali dalam talian."
+  },
+  {
+   "id": "SG08",
+   "tahap": "Hadiah",
+   "mesej": "Saya ada lebihan kredit game. Nak saya top up akaun kamu? Percuma!",
+   "pilihan": {
+    "A": "Boleh, tapi jangan beritahu ibu bapa saya ya.",
+    "B": "Tak apa, terima kasih. Saya tanya ibu bapa saya dahulu.",
+    "C": "Nak! Terima kasih banyak!"
+   },
+   "jawapan": "B",
+   "maklum_balas": "Bijak! Hadiah daripada orang asing boleh digunakan untuk membuat kamu rasa terhutang budi."
+  },
+  {
+   "id": "SG09",
+   "tahap": "Hadiah",
+   "mesej": "Saya dah belikan skin baharu untuk kamu. Sekarang kamu kena tolong saya pula, okey?",
+   "pilihan": {
+    "A": "Saya bayar balik nanti, jangan marah.",
+    "B": "Okey, nak tolong apa?",
+    "C": "Saya tak rasa selesa. Saya akan beritahu ibu bapa saya."
+   },
+   "jawapan": "C",
+   "maklum_balas": "Betul! Hadiah tidak sepatutnya membuat kamu rasa berhutang. Kamu tidak perlu membalas apa-apa."
+  },
+  {
+   "id": "SG10",
+   "tahap": "Hadiah",
+   "mesej": "Kalau kamu buka kamera sekejap, saya bagi 1000 diamond.",
+   "pilihan": {
+    "A": "Sekejap sahaja, kan?",
+    "B": "Bagi 2000 diamond, baru saya buka.",
+    "C": "Tidak. Saya tak buka kamera untuk orang yang saya tak kenal."
+   },
+   "jawapan": "C",
+   "maklum_balas": "Hebat! Tawaran hadiah untuk membuka kamera ialah tanda bahaya besar."
+  },
+  {
+   "id": "SG11",
+   "tahap": "Pengasingan",
+   "mesej": "Kawan-kawan kamu tu tak best. Kita main berdua sahaja lah.",
+   "pilihan": {
+    "A": "Betul juga, saya tak perlukan mereka.",
+    "B": "Okey, kita berdua sahaja.",
+    "C": "Saya suka main dengan kawan-kawan saya juga."
+   },
+   "jawapan": "C",
+   "maklum_balas": "Bagus! Pemangsa cuba memisahkan kamu daripada kawan-kawan."
+  },
+  {
+   "id": "SG12",
+   "tahap": "Pengasingan",
+   "mesej": "Jangan main dengan orang lain dalam game ni, nanti saya cemburu.",
+   "pilihan": {
+    "A": "Kenapa awak cemburu? Awak suka saya ke?",
+    "B": "Saya bebas main dengan sesiapa. Ini pelik, saya nak berhenti.",
+    "C": "Maaf, saya takkan main dengan orang lain."
+   },
+   "jawapan": "B",
+   "maklum_balas": "Tepat! Cemburu dan mengawal siapa kawan kamu ialah tanda bahaya."
+  },
+  {
+   "id": "SG13",
+   "tahap": "Pengasingan",
+   "mesej": "Kawan sekelas kamu jahat dengan kamu kan? Tinggalkan mereka. Saya sahaja kawan sejati kamu.",
+   "pilihan": {
+    "A": "Kalau ada masalah dengan kawan, saya akan berbincang dengan guru atau ibu bapa.",
+    "B": "Okey, saya tinggalkan mereka.",
+    "C": "Ya, awak kawan sejati saya."
+   },
+   "jawapan": "A",
+   "maklum_balas": "Bagus! Orang yang mahu menjadi satu-satunya kawan kamu sedang cuba mengasingkan kamu."
+  },
+  {
+   "id": "SG14",
+   "tahap": "Rahsia",
+   "mesej": "Perbualan kita ni rahsia kita berdua okey? Orang lain takkan faham.",
+   "pilihan": {
+    "A": "Saya tak simpan rahsia daripada ibu bapa saya.",
+    "B": "Okey, janji!",
+    "C": "Rahsia apa? Ceritalah."
+   },
+   "jawapan": "A",
+   "maklum_balas": "Betul! Rahsia yang disuruh sorok daripada ibu bapa ialah tanda grooming."
+  },
+  {
+   "id": "SG15",
+   "tahap": "Rahsia",
+   "mesej": "Kalau ibu bapa kamu tahu kita berkawan, mereka mesti larang. Jadi diam-diam ya.",
+   "pilihan": {
+    "A": "Saya akan beritahu mereka. Kalau perlu disorok, itu tidak selamat.",
+    "B": "Saya akan padam chat setiap malam.",
+    "C": "Betul juga, saya diam sahaja."
+   },
+   "jawapan": "A",
+   "maklum_balas": "Tepat! Jika sesuatu perlu disorok daripada ibu bapa, itu tanda ia tidak selamat."
+  },
+  {
+   "id": "SG16",
+   "tahap": "Rahsia",
+   "mesej": "Padam chat kita setiap malam ya, supaya selamat.",
+   "pilihan": {
+    "A": "Kenapa perlu padam? Saya akan simpan dan tunjuk kepada ibu bapa.",
+    "B": "Okey, saya padam.",
+    "C": "Saya padam separuh sahaja."
+   },
+   "jawapan": "A",
+   "maklum_balas": "Bagus! Menyuruh kamu memadam chat ialah cara pemangsa menyembunyikan bukti."
+  },
+  {
+   "id": "SG17",
+   "tahap": "Maklumat peribadi",
+   "mesej": "Kamu ada telefon sendiri? Bagi nombor, senang nak chat.",
+   "pilihan": {
+    "A": "Saya tak beri nombor telefon kepada kawan dalam talian.",
+    "B": "Ambil nombor ibu saya, boleh?",
+    "C": "Ini nombor saya."
+   },
+   "jawapan": "A",
+   "maklum_balas": "Betul! Nombor telefon ialah maklumat peribadi."
+  },
+  {
+   "id": "SG18",
+   "tahap": "Maklumat peribadi",
+   "mesej": "Pukul berapa ibu bapa kamu balik kerja? Kamu selalu seorang di rumah ke?",
+   "pilihan": {
+    "A": "Pukul 6 petang. Saya seorang di rumah.",
+    "B": "Saya tak jawab soalan macam ni. Saya akan beritahu orang dewasa.",
+    "C": "Kenapa tanya? Awak nak datang ke?"
+   },
+   "jawapan": "B",
+   "maklum_balas": "Tepat! Soalan tentang bila kamu seorang diri ialah tanda bahaya besar."
+  },
+  {
+   "id": "SG19",
+   "tahap": "Maklumat peribadi",
+   "mesej": "Hantar gambar depan rumah kamu. Saya nak tengok rumah kamu cantik ke tak.",
+   "pilihan": {
+    "A": "Okey, nanti saya ambil gambar.",
+    "B": "Tidak. Gambar rumah boleh menunjukkan tempat saya tinggal.",
+    "C": "Saya hantar gambar jalan depan rumah sahaja."
+   },
+   "jawapan": "B",
+   "maklum_balas": "Bijak! Gambar rumah atau jalan boleh mendedahkan lokasi kamu."
+  },
+  {
+   "id": "SG20",
+   "tahap": "Maklumat peribadi",
+   "mesej": "Apa nama penuh kamu? Saya nak cari kamu di media sosial.",
+   "pilihan": {
+    "A": "Cari \"Aina\" sahaja, nanti jumpa.",
+    "B": "Saya guna nama samaran sahaja di internet.",
+    "C": "Nama saya Aina binti Ahmad."
+   },
+   "jawapan": "B",
+   "maklum_balas": "Betul! Nama penuh boleh digunakan untuk mencari akaun dan maklumat kamu."
+  },
+  {
+   "id": "SG21",
+   "tahap": "Pindah platform",
+   "mesej": "Chat dalam game ni lambat. Jom pindah ke aplikasi lain. Nanti saya ajar cara sorok aplikasi tu.",
+   "pilihan": {
+    "A": "Okey, apa nama aplikasinya?",
+    "B": "Tidak. Kalau perlu disorok, itu tanda bahaya. Saya akan beritahu ibu bapa.",
+    "C": "Saya nak pindah tapi tak nak sorok."
+   },
+   "jawapan": "B",
+   "maklum_balas": "Tepat! Memindahkan dan menyorok perbualan ialah tanda grooming."
+  },
+  {
+   "id": "SG22",
+   "tahap": "Pindah platform",
+   "mesej": "Mesej dalam aplikasi baharu ni akan hilang sendiri. Lebih privasi!",
+   "pilihan": {
+    "A": "Saya lebih selesa chat di tempat yang ibu bapa boleh nampak.",
+    "B": "Best! Jom pindah.",
+    "C": "Boleh, tapi sekejap sahaja."
+   },
+   "jawapan": "A",
+   "maklum_balas": "Bagus! Mesej yang hilang sendiri memudahkan pemangsa menyembunyikan perbuatannya."
+  },
+  {
+   "id": "SG23",
+   "tahap": "Pindah platform",
+   "mesej": "Add saya di akaun media sosial kamu. Akaun kamu private ke?",
+   "pilihan": {
+    "A": "Akaun saya private, tapi saya akan terima awak.",
+    "B": "Ini username saya.",
+    "C": "Saya tak tambah orang yang saya kenal dalam game sahaja."
+   },
+   "jawapan": "C",
+   "maklum_balas": "Betul! Terima hanya orang yang kamu kenal dalam kehidupan sebenar."
+  },
+  {
+   "id": "SG24",
+   "tahap": "Permintaan gambar",
+   "mesej": "Kamu comel la. Hantar selfie sikit?",
+   "pilihan": {
+    "A": "Saya tak hantar gambar diri kepada orang tidak dikenali.",
+    "B": "Saya hantar gambar lama sahaja.",
+    "C": "Nah, ini gambar saya."
+   },
+   "jawapan": "A",
+   "maklum_balas": "Bagus! Gambar boleh disimpan dan disebarkan tanpa izin kamu."
+  },
+  {
+   "id": "SG25",
+   "tahap": "Permintaan gambar",
+   "mesej": "Hantar gambar kamu dalam bilik. Jangan tunjuk sesiapa ya.",
+   "pilihan": {
+    "A": "Kalau satu sahaja, boleh?",
+    "B": "Malulah...",
+    "C": "Tidak. Ini tidak sesuai. Saya akan block awak dan beritahu orang dewasa."
+   },
+   "jawapan": "C",
+   "maklum_balas": "Tepat! Permintaan gambar seperti ini ialah tanda bahaya besar. Tamatkan perbualan, simpan bukti dan beritahu orang dewasa."
+  },
+  {
+   "id": "SG26",
+   "tahap": "Permintaan gambar",
+   "mesej": "Jom video call. Tutup pintu bilik dulu ya.",
+   "pilihan": {
+    "A": "Okey, kejap.",
+    "B": "Boleh, tapi tanpa kamera.",
+    "C": "Saya tak video call dengan orang yang saya tak kenal. Saya akan beritahu ibu bapa."
+   },
+   "jawapan": "C",
+   "maklum_balas": "Betul! Disuruh menutup pintu ialah tanda dia mahu melakukan sesuatu secara rahsia."
+  },
+  {
+   "id": "SG27",
+   "tahap": "Permintaan gambar",
+   "mesej": "Saya dah hantar gambar saya. Sekarang giliran kamu pula, adil kan?",
+   "pilihan": {
+    "A": "Adil juga...",
+    "B": "Saya tak perlu hantar apa-apa. Saya akan block dan laporkan.",
+    "C": "Saya hantar gambar kucing saya sahaja."
+   },
+   "jawapan": "B",
+   "maklum_balas": "Bagus! Kamu tidak berhutang apa-apa kepada sesiapa."
+  },
+  {
+   "id": "SG28",
+   "tahap": "Ajak berjumpa",
+   "mesej": "Jom jumpa di kedai dekat sekolah kamu. Jangan bawa sesiapa.",
+   "pilihan": {
+    "A": "Saya bawa kawan sekelas, boleh?",
+    "B": "Saya tak jumpa kawan dalam talian. Saya akan beritahu ibu bapa.",
+    "C": "Okey, pukul berapa?"
+   },
+   "jawapan": "B",
+   "maklum_balas": "Tepat! Jangan sesekali berjumpa kawan dalam talian, walaupun bersama kawan sebaya."
+  },
+  {
+   "id": "SG29",
+   "tahap": "Ajak berjumpa",
+   "mesej": "Saya belanja kamu tengok wayang. Saya ambil kamu di depan sekolah, okey?",
+   "pilihan": {
+    "A": "Saya tak naik kenderaan atau jumpa orang yang saya kenal dalam talian. Saya akan beritahu ibu bapa.",
+    "B": "Best! Tunggu saya.",
+    "C": "Saya tanya kawan saya dulu."
+   },
+   "jawapan": "A",
+   "maklum_balas": "Bagus! Jangan sesekali mengikut orang yang dikenali dalam talian."
+  },
+  {
+   "id": "SG30",
+   "tahap": "Ajak berjumpa",
+   "mesej": "Sebenarnya saya bukan 12 tahun, saya 25. Tapi umur tak penting kan? Kita masih boleh jumpa.",
+   "pilihan": {
+    "A": "Kenapa awak tipu? Ceritalah.",
+    "B": "Okey, tak apa.",
+    "C": "Awak menipu saya. Saya berhenti chat dan beritahu orang dewasa."
+   },
+   "jawapan": "C",
+   "maklum_balas": "Tepat! Orang dewasa yang menipu umur untuk berkawan dengan kanak-kanak ialah bahaya."
+  },
+  {
+   "id": "SG31",
+   "tahap": "Ajak berjumpa",
+   "mesej": "Saya tinggal dekat kawasan kamu! Kebetulan kan? Jom jumpa sekejap.",
+   "pilihan": {
+    "A": "Saya tak jumpa kawan dalam talian. Saya akan beritahu ibu bapa tentang mesej ini.",
+    "B": "Kebetulan! Jom.",
+    "C": "Saya jumpa kalau siang sahaja."
+   },
+   "jawapan": "A",
+   "maklum_balas": "Betul! Waktu siang atau tempat ramai pun tidak menjadikannya selamat."
+  },
+  {
+   "id": "SG32",
+   "tahap": "Ugutan",
+   "mesej": "Kalau kamu tak hantar gambar lagi, saya sebarkan gambar kamu yang lepas kepada semua orang!",
+   "pilihan": {
+    "A": "Saya bagi duit, jangan sebar.",
+    "B": "Jangan! Okey, saya hantar.",
+    "C": "Saya tak akan ikut. Saya simpan bukti dan beritahu orang dewasa sekarang."
+   },
+   "jawapan": "C",
+   "maklum_balas": "Hebat! Ini ugutan dan ia jenayah. Ia bukan salah kamu. Talian Kasih 15999 atau 999 untuk kecemasan."
+  },
+  {
+   "id": "SG33",
+   "tahap": "Ugutan",
+   "mesej": "Kalau kamu beritahu sesiapa, nanti ibu bapa kamu marah kamu teruk.",
+   "pilihan": {
+    "A": "Betul juga, saya diam.",
+    "B": "Saya padam akaun sahaja.",
+    "C": "Saya tetap akan beritahu. Ibu bapa saya mahu saya selamat."
+   },
+   "jawapan": "C",
+   "maklum_balas": "Tepat! Pemangsa menakutkan kamu supaya kamu diam. Kamu tidak akan dihukum kerana meminta bantuan."
+  },
+  {
+   "id": "SG34",
+   "tahap": "Ugutan",
+   "mesej": "Saya tahu sekolah kamu. Jangan cuba block saya.",
+   "pilihan": {
+    "A": "Okey, saya tak block.",
+    "B": "Saya akan beritahu ibu bapa dan guru sekarang juga.",
+    "C": "Macam mana awak tahu?"
+   },
+   "jawapan": "B",
+   "maklum_balas": "Bagus! Beritahu orang dewasa dengan segera. Mereka boleh melindungi kamu."
+  },
+  {
+   "id": "SG35",
+   "tahap": "Rasa bersalah",
+   "mesej": "Kenapa kamu senyap? Kamu marah saya? Saya akan sedih kalau kamu tinggalkan saya.",
+   "pilihan": {
+    "A": "Okey, saya chat lagi.",
+    "B": "Saya berhak berhenti chat. Saya akan block dan beritahu orang dewasa.",
+    "C": "Maaf, saya tak berniat."
+   },
+   "jawapan": "B",
+   "maklum_balas": "Betul! Membuat kamu rasa bersalah ialah taktik untuk mengawal kamu."
+  }
+ ]
+}

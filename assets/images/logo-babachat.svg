@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Baba Chat app icon: Baba the meerkat waving, with a chat bubble">
+  <defs>
+    <radialGradient id="bg" cx="0.42" cy="0.34" r="0.85">
+      <stop offset="0" stop-color="#3E4C8A"/><stop offset="0.6" stop-color="#2A3466"/><stop offset="1" stop-color="#1A2046"/>
+    </radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FFD9A0" stop-opacity="0.35"/><stop offset="1" stop-color="#FFD9A0" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="tile"><rect width="512" height="512" rx="114"/></clipPath>
+    <clipPath id="headC"><path d="M422.0 206.0 L421.6 224.1 L420.3 236.7 L418.2 247.7 L415.2 257.7 L411.4 266.8 L406.7 275.2 L401.2 282.9 L394.9 290.0 L387.8 296.4 L379.9 302.1 L371.2 307.2 L361.7 311.6 L351.3 315.4 L340.0 318.5 L327.6 320.9 L314.0 322.6 L298.3 323.7 L276.0 324.0 L253.7 323.7 L238.0 322.6 L224.4 320.9 L212.0 318.5 L200.7 315.4 L190.3 311.6 L180.8 307.2 L172.1 302.1 L164.2 296.4 L157.1 290.0 L150.8 282.9 L145.3 275.2 L140.6 266.8 L136.8 257.7 L133.8 247.7 L131.7 236.7 L130.4 224.1 L130.0 206.0 L130.4 187.9 L131.7 175.3 L133.8 164.3 L136.8 154.3 L140.6 145.2 L145.3 136.8 L150.8 129.1 L157.1 122.0 L164.2 115.6 L172.1 109.9 L180.8 104.8 L190.3 100.4 L200.7 96.6 L212.0 93.5 L224.4 91.1 L238.0 89.4 L253.7 88.3 L276.0 88.0 L298.3 88.3 L314.0 89.4 L327.6 91.1 L340.0 93.5 L351.3 96.6 L361.7 100.4 L371.2 104.8 L379.9 109.9 L387.8 115.6 L394.9 122.0 L401.2 129.1 L406.7 136.8 L411.4 145.2 L415.2 154.3 L418.2 164.3 L420.3 175.3 L421.6 187.9 Z"/></clipPath>
+    <clipPath id="bodyC"><path d="M126 512 C126 420 170 330 276 330 C382 330 426 420 426 512 Z"/></clipPath>
+    <clipPath id="pawC"><ellipse cx="104" cy="226" rx="38" ry="42" transform="rotate(-18 104 226)"/></clipPath>
+  </defs>
+  <g clip-path="url(#tile)">
+    <rect width="512" height="512" fill="url(#bg)"/>
+    <circle cx="270" cy="250" r="240" fill="url(#glow)"/>
+
+    <!-- body (half body, cropped by the tile) -->
+    <path d="M126 512 C126 420 170 330 276 330 C382 330 426 420 426 512 Z" fill="#E9B972"/>
+    <g clip-path="url(#bodyC)">
+      <ellipse cx="420" cy="470" rx="120" ry="190" fill="#C98A4E"/>
+      <ellipse cx="276" cy="508" rx="78" ry="138" fill="#F2DEC0"/>
+      <ellipse cx="330" cy="500" rx="40" ry="130" fill="#DCC3A0"/>
+      <path d="M150 512 C150 440 186 368 250 346" fill="none" stroke="#FFE3B0" stroke-width="7" stroke-linecap="round" opacity="0.8"/>
+    </g>
+
+    <!-- waving arm (behind the head edge), mitten paw with toe lines -->
+    <path d="M178 404 C150 360 126 306 112 262" fill="none" stroke="#E9B972" stroke-width="54" stroke-linecap="round"/>
+    <path d="M196 396 C172 358 152 314 140 276" fill="none" stroke="#C98A4E" stroke-width="22" stroke-linecap="round" opacity="0.55"/>
+    <ellipse cx="104" cy="226" rx="38" ry="42" transform="rotate(-18 104 226)" fill="#E9B972"/>
+    <g clip-path="url(#pawC)">
+      <ellipse cx="128" cy="244" rx="30" ry="44" fill="#C98A4E"/>
+      <ellipse cx="88" cy="204" rx="16" ry="12" fill="#FFE3B0" opacity="0.8"/>
+    </g>
+    <circle cx="84" cy="196" r="13" fill="#E9B972"/>
+    <circle cx="102" cy="188" r="14" fill="#E9B972"/>
+    <circle cx="121" cy="194" r="13" fill="#E9B972"/>
+    <circle cx="82" cy="192" r="5" fill="#FFE3B0" opacity="0.8"/>
+    <path d="M93 196 L95 210 M112 194 L112 208" stroke="#B57A42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M56 170 Q44 196 50 226 M40 150 Q22 190 32 236" fill="none" stroke="#FFE3B0" stroke-width="7" stroke-linecap="round" opacity="0.85"/>
+
+    <!-- bow tie -->
+    <path d="M276 344 L232 322 Q222 344 232 368 Z" fill="#4E7E36"/>
+    <path d="M276 344 L320 322 Q330 344 320 368 Z" fill="#3F6A2B"/>
+    <path d="M276 344 L232 322 Q228 334 230 344 Z" fill="#6FA052"/>
+    <rect x="264" y="332" width="24" height="24" rx="8" fill="#355C24"/>
+
+    <!-- ears -->
+    <ellipse cx="132" cy="196" rx="18" ry="26" fill="#3A2E25"/>
+    <ellipse cx="420" cy="196" rx="18" ry="26" fill="#2B221B"/>
+
+    <!-- head with cel shading: shadow on the right, highlight top-left, warm rim -->
+    <path d="M422.0 206.0 L421.6 224.1 L420.3 236.7 L418.2 247.7 L415.2 257.7 L411.4 266.8 L406.7 275.2 L401.2 282.9 L394.9 290.0 L387.8 296.4 L379.9 302.1 L371.2 307.2 L361.7 311.6 L351.3 315.4 L340.0 318.5 L327.6 320.9 L314.0 322.6 L298.3 323.7 L276.0 324.0 L253.7 323.7 L238.0 322.6 L224.4 320.9 L212.0 318.5 L200.7 315.4 L190.3 311.6 L180.8 307.2 L172.1 302.1 L164.2 296.4 L157.1 290.0 L150.8 282.9 L145.3 275.2 L140.6 266.8 L136.8 257.7 L133.8 247.7 L131.7 236.7 L130.4 224.1 L130.0 206.0 L130.4 187.9 L131.7 175.3 L133.8 164.3 L136.8 154.3 L140.6 145.2 L145.3 136.8 L150.8 129.1 L157.1 122.0 L164.2 115.6 L172.1 109.9 L180.8 104.8 L190.3 100.4 L200.7 96.6 L212.0 93.5 L224.4 91.1 L238.0 89.4 L253.7 88.3 L276.0 88.0 L298.3 88.3 L314.0 89.4 L327.6 91.1 L340.0 93.5 L351.3 96.6 L361.7 100.4 L371.2 104.8 L379.9 109.9 L387.8 115.6 L394.9 122.0 L401.2 129.1 L406.7 136.8 L411.4 145.2 L415.2 154.3 L418.2 164.3 L420.3 175.3 L421.6 187.9 Z" fill="#E9B972"/>
+    <g clip-path="url(#headC)">
+      <ellipse cx="440" cy="250" rx="140" ry="150" fill="#C98A4E"/>
+      <ellipse cx="300" cy="340" rx="200" ry="40" fill="#D6A061"/>
+      <ellipse cx="200" cy="118" rx="70" ry="26" fill="#FFE3B0" opacity="0.85"/>
+    </g>
+    <path d="M412 160 Q426 206 410 262" fill="none" stroke="#FFE7BE" stroke-width="6" stroke-linecap="round" opacity="0.9"/>
+
+    <!-- brow spots -->
+    <ellipse cx="244" cy="138" rx="16" ry="10" fill="#B9884F"/>
+    <ellipse cx="312" cy="138" rx="16" ry="10" fill="#9E7240"/>
+    <!-- eye patches (teardrops toward the nose) -->
+    <path d="M268.0 258.0 L217.3 246.8 A50 50 0 1 1 277.2 206.9 Z" fill="#5E4A37"/>
+    <path d="M284.0 258.0 L274.8 206.9 A50 50 0 1 1 334.7 246.8 Z" fill="#4E3D2D"/>
+    <!-- eyes with sparkle -->
+    <ellipse cx="236" cy="200" rx="10" ry="23" fill="#1C1512"/>
+    <ellipse cx="318" cy="200" rx="10" ry="23" fill="#1C1512"/>
+    <circle cx="239" cy="189" r="4.6" fill="#FFFFFF"/>
+    <circle cx="321" cy="189" r="4.6" fill="#FFFFFF"/>
+    <circle cx="233" cy="210" r="2.2" fill="#FFFFFF" opacity="0.8"/>
+    <circle cx="315" cy="210" r="2.2" fill="#FFFFFF" opacity="0.8"/>
+    <!-- blush -->
+    <ellipse cx="188" cy="262" rx="20" ry="11" fill="#F49A93" opacity="0.6"/>
+    <ellipse cx="368" cy="262" rx="20" ry="11" fill="#F49A93" opacity="0.55"/>
+    <!-- nose with shine, smile with tongue -->
+    <path d="M256 250 Q276 243 296 250 Q291 270 276 275 Q261 270 256 250 Z" fill="#231C19"/>
+    <ellipse cx="268" cy="252" rx="7" ry="3.5" fill="#FFFFFF" opacity="0.7"/>
+    <path d="M262 294 Q274 306 280 296 Q286 306 298 294" fill="none" stroke="#231C19" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M272 300 Q280 316 288 300 Z" fill="#EE8F84"/>
+
+    <!-- chat bubble with three dots -->
+    <path d="M384 40 H458 Q480 40 480 62 V100 Q480 122 458 122 H420 L398 142 L402 122 H384 Q362 122 362 100 V62 Q362 40 384 40 Z" fill="#FFF8EE"/>
+    <circle cx="396" cy="81" r="8" fill="#4E7E36"/>
+    <circle cx="421" cy="81" r="8" fill="#4E7E36"/>
+    <circle cx="446" cy="81" r="8" fill="#4E7E36"/>
+  </g>
+</svg>

@@ -1,0 +1,166 @@
+{
+ "nota": "Muzik diulang (loop) kecuali jingle 10 dan 11. Untuk ulangan tanpa jeda, mainkan melalui Web Audio API (AudioBufferSourceNode.loop = true), bukan tag <audio>.",
+ "muzik": [
+  {
+   "id": "01-tema-baba",
+   "tajuk": "Tema Baba",
+   "fail": "assets/audio/muzik/01-tema-baba.mp3",
+   "skrin": [
+    "intro",
+    "tajuk"
+   ],
+   "ulang": true,
+   "tempoh_saat": 60.0,
+   "kelantangan": 0.6
+  },
+  {
+   "id": "02-savana-pagi",
+   "tajuk": "Savana Pagi",
+   "fail": "assets/audio/muzik/02-savana-pagi.mp3",
+   "skrin": [
+    "utama"
+   ],
+   "ulang": true,
+   "tempoh_saat": 61.962,
+   "kelantangan": 0.6
+  },
+  {
+   "id": "03-belajar-bersama",
+   "tajuk": "Belajar Bersama",
+   "fail": "assets/audio/muzik/03-belajar-bersama.mp3",
+   "skrin": [
+    "pendidikan",
+    "video"
+   ],
+   "ulang": true,
+   "tempoh_saat": 64.026,
+   "kelantangan": 0.6
+  },
+  {
+   "id": "04-kuiz-pantas",
+   "tajuk": "Kuiz Pantas",
+   "fail": "assets/audio/muzik/04-kuiz-pantas.mp3",
+   "skrin": [
+    "kuiz"
+   ],
+   "ulang": true,
+   "tempoh_saat": 51.226,
+   "kelantangan": 0.6
+  },
+  {
+   "id": "05-babacard-santai",
+   "tajuk": "BabaCard Santai",
+   "fail": "assets/audio/muzik/05-babacard-santai.mp3",
+   "skrin": [
+    "babacard"
+   ],
+   "ulang": true,
+   "tempoh_saat": 66.207,
+   "kelantangan": 0.6
+  },
+  {
+   "id": "06-simulasi",
+   "tajuk": "Simulasi",
+   "fail": "assets/audio/muzik/06-simulasi.mp3",
+   "skrin": [
+    "simulasi"
+   ],
+   "ulang": true,
+   "tempoh_saat": 56.471,
+   "kelantangan": 0.6
+  },
+  {
+   "id": "07-detektif-baba",
+   "tajuk": "Detektif Baba",
+   "fail": "assets/audio/muzik/07-detektif-baba.mp3",
+   "skrin": [
+    "analisis"
+   ],
+   "ulang": true,
+   "tempoh_saat": 60.996,
+   "kelantangan": 0.6
+  },
+  {
+   "id": "08-baba-ada-di-sini",
+   "tajuk": "Baba Ada Di Sini",
+   "fail": "assets/audio/muzik/08-baba-ada-di-sini.mp3",
+   "skrin": [
+    "bantuan"
+   ],
+   "ulang": true,
+   "tempoh_saat": 68.571,
+   "kelantangan": 0.6
+  },
+  {
+   "id": "09-bandar-malam",
+   "tajuk": "Bandar Malam",
+   "fail": "assets/audio/muzik/09-bandar-malam.mp3",
+   "skrin": [
+    "mod-malam"
+   ],
+   "ulang": true,
+   "tempoh_saat": 64.0,
+   "kelantangan": 0.6
+  },
+  {
+   "id": "10-menang",
+   "tajuk": "Menang!",
+   "fail": "assets/audio/muzik/10-menang.mp3",
+   "skrin": [
+    "menang"
+   ],
+   "ulang": false,
+   "tempoh_saat": 2.825,
+   "kelantangan": 0.6
+  },
+  {
+   "id": "11-cuba-lagi",
+   "tajuk": "Cuba Lagi",
+   "fail": "assets/audio/muzik/11-cuba-lagi.mp3",
+   "skrin": [
+    "kalah"
+   ],
+   "ulang": false,
+   "tempoh_saat": 4.361,
+   "kelantangan": 0.6
+  }
+ ],
+ "suara_baba": {
+  "dialog": [
+   "assets/audio/suara-baba/baba-bual-1.mp3",
+   "assets/audio/suara-baba/baba-bual-2.mp3",
+   "assets/audio/suara-baba/baba-bual-3.mp3",
+   "assets/audio/suara-baba/baba-bual-4.mp3",
+   "assets/audio/suara-baba/baba-bual-5.mp3",
+   "assets/audio/suara-baba/baba-bual-6.mp3"
+  ],
+  "dialog_gembira": "assets/audio/suara-baba/baba-bual-gembira.mp3",
+  "dialog_sedih": "assets/audio/suara-baba/baba-bual-sedih.mp3",
+  "dialog_terkejut": "assets/audio/suara-baba/baba-bual-terkejut.mp3",
+  "dialog_berfikir": "assets/audio/suara-baba/baba-bual-berfikir.mp3",
+  "diketuk": [
+   "assets/audio/suara-baba/baba-ciri-khas.mp3",
+   "assets/audio/suara-baba/baba-ketawa.mp3",
+   "assets/audio/suara-baba/baba-ingin-tahu.mp3"
+  ],
+  "idle": [
+   "assets/audio/suara-baba/baba-tenang.mp3",
+   "assets/audio/suara-baba/baba-ciap.mp3",
+   "assets/audio/suara-baba/baba-hidu.mp3"
+  ],
+  "gembira": "assets/audio/suara-baba/baba-gembira.mp3",
+  "sedih": "assets/audio/suara-baba/baba-sedih.mp3",
+  "terkejut": "assets/audio/suara-baba/baba-terkejut.mp3",
+  "amaran": "assets/audio/suara-baba/baba-amaran.mp3"
+ },
+ "bunyi_ui": {
+  "ketik": "assets/audio/bunyi-ui/bunyi-ketik.mp3",
+  "dialog": "assets/audio/bunyi-ui/bunyi-dialog.mp3",
+  "betul": "assets/audio/bunyi-ui/bunyi-betul.mp3",
+  "salah": "assets/audio/bunyi-ui/bunyi-salah.mp3",
+  "amaran-bahaya": "assets/audio/bunyi-ui/bunyi-amaran-bahaya.mp3",
+  "menang": "assets/audio/bunyi-ui/bunyi-menang.mp3",
+  "notifikasi": "assets/audio/bunyi-ui/bunyi-notifikasi.mp3",
+  "lompat": "assets/audio/bunyi-ui/bunyi-lompat.mp3"
+ }
+}

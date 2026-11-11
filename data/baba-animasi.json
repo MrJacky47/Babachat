@@ -1,0 +1,570 @@
+{
+ "skala": 0.75,
+ "fps": 10,
+ "set": {
+  "none": {
+   "w": 399,
+   "h": 426,
+   "badan": [
+    104,
+    92,
+    298,
+    422
+   ],
+   "klip": {
+    "waspada": {
+     "n": 24,
+     "ms": 2400,
+     "fail": "assets/baba/baba-waspada.webp",
+     "tahan": false
+    },
+    "telinga": {
+     "n": 12,
+     "ms": 1200,
+     "fail": "assets/baba/baba-telinga.webp",
+     "tahan": false
+    },
+    "idle": {
+     "n": 30,
+     "ms": 3000,
+     "fail": "assets/baba/baba-idle.webp",
+     "tahan": false
+    },
+    "lompat": {
+     "n": 10,
+     "ms": 1000,
+     "fail": "assets/baba/baba-lompat.webp",
+     "tahan": false
+    },
+    "angguk": {
+     "n": 18,
+     "ms": 1800,
+     "fail": "assets/baba/baba-angguk.webp",
+     "tahan": false
+    },
+    "usap": {
+     "n": 20,
+     "ms": 2000,
+     "fail": "assets/baba/baba-usap.webp",
+     "tahan": false
+    },
+    "menangis": {
+     "n": 30,
+     "ms": 3000,
+     "fail": "assets/baba/baba-menangis.webp",
+     "tahan": false
+    },
+    "geleng": {
+     "n": 18,
+     "ms": 1800,
+     "fail": "assets/baba/baba-geleng.webp",
+     "tahan": false
+    },
+    "terkejut": {
+     "n": 20,
+     "ms": 2000,
+     "fail": "assets/baba/baba-terkejut.webp",
+     "tahan": false
+    },
+    "ekor": {
+     "n": 22,
+     "ms": 2200,
+     "fail": "assets/baba/baba-ekor.webp",
+     "tahan": false
+    },
+    "bercakap": {
+     "n": 12,
+     "ms": 1200,
+     "fail": "assets/baba/baba-bercakap.webp",
+     "tahan": false
+    },
+    "berfikir": {
+     "n": 40,
+     "ms": 4000,
+     "fail": "assets/baba/baba-berfikir.webp",
+     "tahan": true
+    },
+    "geletek": {
+     "n": 16,
+     "ms": 1600,
+     "fail": "assets/baba/baba-geletek.webp",
+     "tahan": false
+    },
+    "lambai": {
+     "n": 14,
+     "ms": 1400,
+     "fail": "assets/baba/baba-lambai.webp",
+     "tahan": true
+    }
+   },
+   "pusing": {
+    "n": 24,
+    "w": 416,
+    "h": 426,
+    "fail": "assets/baba/baba-pusing.webp"
+   }
+  },
+  "detective": {
+   "w": 234,
+   "h": 398,
+   "badan": [
+    21,
+    36,
+    215,
+    394
+   ],
+   "klip": {
+    "waspada": {
+     "n": 24,
+     "ms": 2400,
+     "fail": "assets/baba/baba-detektif-waspada.webp",
+     "tahan": false
+    },
+    "angguk": {
+     "n": 18,
+     "ms": 1800,
+     "fail": "assets/baba/baba-detektif-angguk.webp",
+     "tahan": false
+    },
+    "sedih": {
+     "n": 30,
+     "ms": 3000,
+     "fail": "assets/baba/baba-detektif-sedih.webp",
+     "tahan": false
+    },
+    "terkejut": {
+     "n": 20,
+     "ms": 2000,
+     "fail": "assets/baba/baba-detektif-terkejut.webp",
+     "tahan": false
+    },
+    "bercakap": {
+     "n": 12,
+     "ms": 1200,
+     "fail": "assets/baba/baba-detektif-bercakap.webp",
+     "tahan": false
+    },
+    "berfikir": {
+     "n": 40,
+     "ms": 4000,
+     "fail": "assets/baba/baba-detektif-berfikir.webp",
+     "tahan": true
+    }
+   }
+  },
+  "police": {
+   "w": 222,
+   "h": 388,
+   "badan": [
+    15,
+    23,
+    209,
+    387
+   ],
+   "klip": {
+    "waspada": {
+     "n": 24,
+     "ms": 2400,
+     "fail": "assets/baba/baba-polis-waspada.webp",
+     "tahan": false
+    },
+    "bercakap": {
+     "n": 12,
+     "ms": 1200,
+     "fail": "assets/baba/baba-polis-bercakap.webp",
+     "tahan": false
+    }
+   }
+  },
+  "beanie": {
+   "w": 264,
+   "h": 466,
+   "badan": [
+    37,
+    93,
+    230,
+    461
+   ],
+   "klip": {
+    "waspada": {
+     "n": 24,
+     "ms": 2400,
+     "fail": "assets/baba/topi/baba-topi-beanie-waspada.webp",
+     "tahan": false
+    },
+    "telinga": {
+     "n": 12,
+     "ms": 1200,
+     "fail": "assets/baba/topi/baba-topi-beanie-telinga.webp",
+     "tahan": false
+    },
+    "idle": {
+     "n": 30,
+     "ms": 3000,
+     "fail": "assets/baba/topi/baba-topi-beanie-idle.webp",
+     "tahan": false
+    },
+    "lompat": {
+     "n": 10,
+     "ms": 1000,
+     "fail": "assets/baba/topi/baba-topi-beanie-lompat.webp",
+     "tahan": false
+    },
+    "angguk": {
+     "n": 18,
+     "ms": 1800,
+     "fail": "assets/baba/topi/baba-topi-beanie-angguk.webp",
+     "tahan": false
+    },
+    "usap": {
+     "n": 20,
+     "ms": 2000,
+     "fail": "assets/baba/topi/baba-topi-beanie-usap.webp",
+     "tahan": false
+    },
+    "ekor": {
+     "n": 22,
+     "ms": 2200,
+     "fail": "assets/baba/topi/baba-topi-beanie-ekor.webp",
+     "tahan": false
+    },
+    "bercakap": {
+     "n": 12,
+     "ms": 1200,
+     "fail": "assets/baba/topi/baba-topi-beanie-bercakap.webp",
+     "tahan": false
+    },
+    "berfikir": {
+     "n": 40,
+     "ms": 4000,
+     "fail": "assets/baba/topi/baba-topi-beanie-berfikir.webp",
+     "tahan": true
+    },
+    "geletek": {
+     "n": 16,
+     "ms": 1600,
+     "fail": "assets/baba/topi/baba-topi-beanie-geletek.webp",
+     "tahan": false
+    }
+   },
+   "pusing": {
+    "n": 24,
+    "w": 416,
+    "h": 466,
+    "fail": "assets/baba/topi/baba-topi-beanie-pusing.webp"
+   }
+  },
+  "cap": {
+   "w": 264,
+   "h": 444,
+   "badan": [
+    37,
+    92,
+    230,
+    440
+   ],
+   "klip": {
+    "waspada": {
+     "n": 24,
+     "ms": 2400,
+     "fail": "assets/baba/topi/baba-topi-besbol-waspada.webp",
+     "tahan": false
+    },
+    "telinga": {
+     "n": 12,
+     "ms": 1200,
+     "fail": "assets/baba/topi/baba-topi-besbol-telinga.webp",
+     "tahan": false
+    },
+    "idle": {
+     "n": 30,
+     "ms": 3000,
+     "fail": "assets/baba/topi/baba-topi-besbol-idle.webp",
+     "tahan": false
+    },
+    "lompat": {
+     "n": 10,
+     "ms": 1000,
+     "fail": "assets/baba/topi/baba-topi-besbol-lompat.webp",
+     "tahan": false
+    },
+    "angguk": {
+     "n": 18,
+     "ms": 1800,
+     "fail": "assets/baba/topi/baba-topi-besbol-angguk.webp",
+     "tahan": false
+    },
+    "usap": {
+     "n": 20,
+     "ms": 2000,
+     "fail": "assets/baba/topi/baba-topi-besbol-usap.webp",
+     "tahan": false
+    },
+    "ekor": {
+     "n": 22,
+     "ms": 2200,
+     "fail": "assets/baba/topi/baba-topi-besbol-ekor.webp",
+     "tahan": false
+    },
+    "bercakap": {
+     "n": 12,
+     "ms": 1200,
+     "fail": "assets/baba/topi/baba-topi-besbol-bercakap.webp",
+     "tahan": false
+    },
+    "berfikir": {
+     "n": 40,
+     "ms": 4000,
+     "fail": "assets/baba/topi/baba-topi-besbol-berfikir.webp",
+     "tahan": true
+    },
+    "geletek": {
+     "n": 16,
+     "ms": 1600,
+     "fail": "assets/baba/topi/baba-topi-besbol-geletek.webp",
+     "tahan": false
+    }
+   },
+   "pusing": {
+    "n": 24,
+    "w": 416,
+    "h": 444,
+    "fail": "assets/baba/topi/baba-topi-besbol-pusing.webp"
+   }
+  },
+  "songkok": {
+   "w": 264,
+   "h": 448,
+   "badan": [
+    37,
+    100,
+    230,
+    444
+   ],
+   "klip": {
+    "waspada": {
+     "n": 24,
+     "ms": 2400,
+     "fail": "assets/baba/topi/baba-topi-songkok-waspada.webp",
+     "tahan": false
+    },
+    "telinga": {
+     "n": 12,
+     "ms": 1200,
+     "fail": "assets/baba/topi/baba-topi-songkok-telinga.webp",
+     "tahan": false
+    },
+    "idle": {
+     "n": 30,
+     "ms": 3000,
+     "fail": "assets/baba/topi/baba-topi-songkok-idle.webp",
+     "tahan": false
+    },
+    "lompat": {
+     "n": 10,
+     "ms": 1000,
+     "fail": "assets/baba/topi/baba-topi-songkok-lompat.webp",
+     "tahan": false
+    },
+    "angguk": {
+     "n": 18,
+     "ms": 1800,
+     "fail": "assets/baba/topi/baba-topi-songkok-angguk.webp",
+     "tahan": false
+    },
+    "usap": {
+     "n": 20,
+     "ms": 2000,
+     "fail": "assets/baba/topi/baba-topi-songkok-usap.webp",
+     "tahan": false
+    },
+    "ekor": {
+     "n": 22,
+     "ms": 2200,
+     "fail": "assets/baba/topi/baba-topi-songkok-ekor.webp",
+     "tahan": false
+    },
+    "bercakap": {
+     "n": 12,
+     "ms": 1200,
+     "fail": "assets/baba/topi/baba-topi-songkok-bercakap.webp",
+     "tahan": false
+    },
+    "berfikir": {
+     "n": 40,
+     "ms": 4000,
+     "fail": "assets/baba/topi/baba-topi-songkok-berfikir.webp",
+     "tahan": true
+    },
+    "geletek": {
+     "n": 16,
+     "ms": 1600,
+     "fail": "assets/baba/topi/baba-topi-songkok-geletek.webp",
+     "tahan": false
+    }
+   },
+   "pusing": {
+    "n": 24,
+    "w": 416,
+    "h": 448,
+    "fail": "assets/baba/topi/baba-topi-songkok-pusing.webp"
+   }
+  },
+  "party": {
+   "w": 264,
+   "h": 512,
+   "badan": [
+    37,
+    94,
+    230,
+    507
+   ],
+   "klip": {
+    "waspada": {
+     "n": 24,
+     "ms": 2400,
+     "fail": "assets/baba/topi/baba-topi-parti-waspada.webp",
+     "tahan": false
+    },
+    "telinga": {
+     "n": 12,
+     "ms": 1200,
+     "fail": "assets/baba/topi/baba-topi-parti-telinga.webp",
+     "tahan": false
+    },
+    "idle": {
+     "n": 30,
+     "ms": 3000,
+     "fail": "assets/baba/topi/baba-topi-parti-idle.webp",
+     "tahan": false
+    },
+    "lompat": {
+     "n": 10,
+     "ms": 1000,
+     "fail": "assets/baba/topi/baba-topi-parti-lompat.webp",
+     "tahan": false
+    },
+    "angguk": {
+     "n": 18,
+     "ms": 1800,
+     "fail": "assets/baba/topi/baba-topi-parti-angguk.webp",
+     "tahan": false
+    },
+    "usap": {
+     "n": 20,
+     "ms": 2000,
+     "fail": "assets/baba/topi/baba-topi-parti-usap.webp",
+     "tahan": false
+    },
+    "ekor": {
+     "n": 22,
+     "ms": 2200,
+     "fail": "assets/baba/topi/baba-topi-parti-ekor.webp",
+     "tahan": false
+    },
+    "bercakap": {
+     "n": 12,
+     "ms": 1200,
+     "fail": "assets/baba/topi/baba-topi-parti-bercakap.webp",
+     "tahan": false
+    },
+    "berfikir": {
+     "n": 40,
+     "ms": 4000,
+     "fail": "assets/baba/topi/baba-topi-parti-berfikir.webp",
+     "tahan": true
+    },
+    "geletek": {
+     "n": 16,
+     "ms": 1600,
+     "fail": "assets/baba/topi/baba-topi-parti-geletek.webp",
+     "tahan": false
+    }
+   },
+   "pusing": {
+    "n": 24,
+    "w": 416,
+    "h": 512,
+    "fail": "assets/baba/topi/baba-topi-parti-pusing.webp"
+   }
+  },
+  "crown": {
+   "w": 264,
+   "h": 469,
+   "badan": [
+    37,
+    91,
+    230,
+    464
+   ],
+   "klip": {
+    "waspada": {
+     "n": 24,
+     "ms": 2400,
+     "fail": "assets/baba/topi/baba-topi-mahkota-waspada.webp",
+     "tahan": false
+    },
+    "telinga": {
+     "n": 12,
+     "ms": 1200,
+     "fail": "assets/baba/topi/baba-topi-mahkota-telinga.webp",
+     "tahan": false
+    },
+    "idle": {
+     "n": 30,
+     "ms": 3000,
+     "fail": "assets/baba/topi/baba-topi-mahkota-idle.webp",
+     "tahan": false
+    },
+    "lompat": {
+     "n": 10,
+     "ms": 1000,
+     "fail": "assets/baba/topi/baba-topi-mahkota-lompat.webp",
+     "tahan": false
+    },
+    "angguk": {
+     "n": 18,
+     "ms": 1800,
+     "fail": "assets/baba/topi/baba-topi-mahkota-angguk.webp",
+     "tahan": false
+    },
+    "usap": {
+     "n": 20,
+     "ms": 2000,
+     "fail": "assets/baba/topi/baba-topi-mahkota-usap.webp",
+     "tahan": false
+    },
+    "ekor": {
+     "n": 22,
+     "ms": 2200,
+     "fail": "assets/baba/topi/baba-topi-mahkota-ekor.webp",
+     "tahan": false
+    },
+    "bercakap": {
+     "n": 12,
+     "ms": 1200,
+     "fail": "assets/baba/topi/baba-topi-mahkota-bercakap.webp",
+     "tahan": false
+    },
+    "berfikir": {
+     "n": 40,
+     "ms": 4000,
+     "fail": "assets/baba/topi/baba-topi-mahkota-berfikir.webp",
+     "tahan": true
+    },
+    "geletek": {
+     "n": 16,
+     "ms": 1600,
+     "fail": "assets/baba/topi/baba-topi-mahkota-geletek.webp",
+     "tahan": false
+    }
+   },
+   "pusing": {
+    "n": 24,
+    "w": 416,
+    "h": 469,
+    "fail": "assets/baba/topi/baba-topi-mahkota-pusing.webp"
+   }
+  }
+ }
+}
